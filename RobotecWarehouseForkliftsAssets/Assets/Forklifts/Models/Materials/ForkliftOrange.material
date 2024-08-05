@@ -1,0 +1,22 @@
+{
+    "materialType": "@projectroot@/Cache/Intermediate Assets/materials/types/standardpbr_generated.materialtype",
+    "materialTypeVersion": 5,
+    "propertyValues": {
+        "baseColor.color": [
+            0.800000011920929,
+            0.800000011920929,
+            0.800000011920929,
+            1.0
+        ],
+        "baseColor.textureMap": "Textures/ForkliftOrange_BaseColor.png",
+        "emissive.enable": true,
+        "emissive.textureMap": "Textures/Forklift_Emissive.png",
+        "metallic.textureMap": "Textures/Forklift_MaskMap_Metallic.png",
+        "normal.textureMap": "Textures/Forklift_Normal.png",
+        "opacity.factor": 1.0,
+        "roughness.factor": 0.5,
+        "roughness.lowerBound": 0.6299999952316284,
+        "roughness.textureMap": "Textures/Forklift_MaskMap_Smoothness.png",
+        "roughness.upperBound": 0.0
+    }
+}
