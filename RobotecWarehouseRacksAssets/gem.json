@@ -1,7 +1,7 @@
 {
     "gem_name": "RobotecWarehouseRacksAssets",
     "version": "1.0.0",
-    "display_name": "RobotecWarehouseForkliftsAssets",
+    "display_name": "RobotecWarehouseRacksAssets",
     "license": "Apache-2.0",
     "license_url": "https://opensource.org/licenses/Apache-2.0",
     "origin": "RobotecAI",

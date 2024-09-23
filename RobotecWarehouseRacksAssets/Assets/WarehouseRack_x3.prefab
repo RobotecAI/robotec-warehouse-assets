@@ -61,10 +61,10 @@
                         "Configuration": {
                             "ModelAsset": {
                                 "assetId": {
-                                    "guid": "{80F05087-C981-53AC-9696-301A2CDD4286}",
-                                    "subId": 273695865
+                                    "guid": "{F347187C-2ABD-5BE8-A4FC-AD97730924BA}",
+                                    "subId": 272037498
                                 },
-                                "assetHint": "models/rack_x3.fbx.azmodel"
+                                "assetHint": "models/default_warehouserack_x3_6f624423_75e5_51fb_9912_76e957517ecd_.fbx.azmodel"
                             },
                             "LodType": 1,
                             "LodOverride": 1,
@@ -116,15 +116,26 @@
                         "Configuration": {
                             "materials": [
                                 {
+                                    "Key": {},
+                                    "Value": {
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{F347187C-2ABD-5BE8-A4FC-AD97730924BA}",
+                                                "subId": 693910858
+                                            }
+                                        }
+                                    }
+                                },
+                                {
                                     "Key": {
                                         "materialSlotStableId": 693910858
                                     },
                                     "Value": {
                                         "MaterialAsset": {
                                             "assetId": {
-                                                "guid": "{4E23966A-F89A-5B4C-BDEC-3E4F560D804C}"
+                                                "guid": "{726DD6B2-9802-58B4-BAE4-261AFF62D948}"
                                             },
-                                            "assetHint": "models/materials/warehouserackstorage.azmaterial"
+                                            "assetHint": "models/materials/warehouserack_x3_storage.azmaterial"
                                         }
                                     }
                                 },
@@ -135,9 +146,9 @@
                                     "Value": {
                                         "MaterialAsset": {
                                             "assetId": {
-                                                "guid": "{6164EDBA-43FC-571C-AD7D-90E923ADC656}"
+                                                "guid": "{71B533CD-D76A-52A3-B23C-30E8D7203C2F}"
                                             },
-                                            "assetHint": "models/materials/warehouseassetsprops.azmaterial"
+                                            "assetHint": "models/materials/warehouserack_x3_props.azmaterial"
                                         }
                                     }
                                 }
