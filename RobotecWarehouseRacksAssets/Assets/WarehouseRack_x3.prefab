@@ -62,9 +62,9 @@
                             "ModelAsset": {
                                 "assetId": {
                                     "guid": "{F347187C-2ABD-5BE8-A4FC-AD97730924BA}",
-                                    "subId": 272037498
+                                    "subId": 272071819
                                 },
-                                "assetHint": "models/default_warehouserack_x3_6f624423_75e5_51fb_9912_76e957517ecd_.fbx.azmodel"
+                                "assetHint": "models/warehouserack_x3.fbx.azmodel"
                             },
                             "LodType": 1,
                             "LodOverride": 1,
@@ -122,7 +122,8 @@
                                             "assetId": {
                                                 "guid": "{F347187C-2ABD-5BE8-A4FC-AD97730924BA}",
                                                 "subId": 693910858
-                                            }
+                                            },
+                                            "assetHint": "models/warehouserack_x3_mwarehousestorage_10714871891477937482.fbx.azmaterial"
                                         }
                                     }
                                 },
