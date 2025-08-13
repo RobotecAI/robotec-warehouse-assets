@@ -1,0 +1,23 @@
+{
+    "materialType": "@gemroot:Atom_Feature_Common@/Assets/Materials/Types/StandardPBR.materialtype",
+    "materialTypeVersion": 5,
+    "propertyValues": {
+        "baseColor.color": [
+            0.800000011920929,
+            0.800000011920929,
+            0.800000011920929,
+            1.0
+        ],
+        "baseColor.textureMap": "Textures/CCTVCamera01_BaseColor.jpg",
+        "emissive.color": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "metallic.textureMap": "Textures/CCTVCamera01_Metalic.png",
+        "normal.textureMap": "Textures/CCTVCamera01_Normal.png",
+        "opacity.factor": 1.0,
+        "roughness.factor": 0.3999999761581421
+    }
+}

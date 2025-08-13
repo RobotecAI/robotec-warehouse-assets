@@ -1,0 +1,27 @@
+{
+    "materialType": "@gemroot:Atom_Feature_Common@/Assets/Materials/Types/StandardPBR.materialtype",
+    "materialTypeVersion": 5,
+    "propertyValues": {
+        "baseColor.color": [
+            0.800000011920929,
+            0.800000011920929,
+            0.800000011920929,
+            1.0
+        ],
+        "baseColor.textureMap": "Textures/FenceWire_BaseColor.png",
+        "emissive.color": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "general.doubleSided": true,
+        "metallic.textureMap": "Textures/FenceWire_Metalic.png",
+        "normal.textureMap": "Textures/FenceWire_Normal.png",
+        "opacity.alphaSource": "Split",
+        "opacity.factor": 0.7300000190734863,
+        "opacity.mode": "Cutout",
+        "opacity.textureMap": "Textures/FenceWire_Alpha.png",
+        "roughness.factor": 0.5
+    }
+}

@@ -1,0 +1,231 @@
+{
+    "ContainerEntity": {
+        "Id": "ContainerEntity",
+        "Name": "FenceLow2m",
+        "Components": {
+            "EditorDisabledCompositionComponent": {
+                "$type": "EditorDisabledCompositionComponent",
+                "Id": 3708488157267145377
+            },
+            "EditorEntityIconComponent": {
+                "$type": "EditorEntityIconComponent",
+                "Id": 3713815202580501641
+            },
+            "EditorEntitySortComponent": {
+                "$type": "EditorEntitySortComponent",
+                "Id": 901997672473567458,
+                "Child Entity Order": [
+                    "Entity_[6205528255130]"
+                ]
+            },
+            "EditorInspectorComponent": {
+                "$type": "EditorInspectorComponent",
+                "Id": 16177817399846459880
+            },
+            "EditorLockComponent": {
+                "$type": "EditorLockComponent",
+                "Id": 10433380438263286881
+            },
+            "EditorOnlyEntityComponent": {
+                "$type": "EditorOnlyEntityComponent",
+                "Id": 9334750413124245957
+            },
+            "EditorPendingCompositionComponent": {
+                "$type": "EditorPendingCompositionComponent",
+                "Id": 3225235679932325132
+            },
+            "EditorPrefabComponent": {
+                "$type": "EditorPrefabComponent",
+                "Id": 4558848330096775222
+            },
+            "EditorVisibilityComponent": {
+                "$type": "EditorVisibilityComponent",
+                "Id": 7769446097778703485
+            },
+            "TransformComponent": {
+                "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                "Id": 15794393847020416856,
+                "Parent Entity": ""
+            }
+        }
+    },
+    "Entities": {
+        "Entity_[6205528255130]": {
+            "Id": "Entity_[6205528255130]",
+            "Name": "FenceLow2m",
+            "Components": {
+                "EditorDisabledCompositionComponent": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 6471358920050025808
+                },
+                "EditorEntityIconComponent": {
+                    "$type": "EditorEntityIconComponent",
+                    "Id": 10542545860346969860
+                },
+                "EditorEntitySortComponent": {
+                    "$type": "EditorEntitySortComponent",
+                    "Id": 13756245172988305554,
+                    "Child Entity Order": [
+                        "Entity_[6209823222426]"
+                    ]
+                },
+                "EditorInspectorComponent": {
+                    "$type": "EditorInspectorComponent",
+                    "Id": 14921576113752251060,
+                    "ComponentOrderEntryArray": [
+                        {
+                            "ComponentId": 4547714805141194221
+                        }
+                    ]
+                },
+                "EditorLockComponent": {
+                    "$type": "EditorLockComponent",
+                    "Id": 2215808505810596532
+                },
+                "EditorOnlyEntityComponent": {
+                    "$type": "EditorOnlyEntityComponent",
+                    "Id": 12575489459570919694
+                },
+                "EditorPendingCompositionComponent": {
+                    "$type": "EditorPendingCompositionComponent",
+                    "Id": 475879591011905159
+                },
+                "EditorVisibilityComponent": {
+                    "$type": "EditorVisibilityComponent",
+                    "Id": 9795142401302877679
+                },
+                "TransformComponent": {
+                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                    "Id": 4547714805141194221,
+                    "Parent Entity": "ContainerEntity"
+                }
+            }
+        },
+        "Entity_[6209823222426]": {
+            "Id": "Entity_[6209823222426]",
+            "Name": "FenceLow2m",
+            "Components": {
+                "AZ::Render::EditorMeshComponent": {
+                    "$type": "AZ::Render::EditorMeshComponent",
+                    "Id": 11847399525710253188,
+                    "Controller": {
+                        "Configuration": {
+                            "ModelAsset": {
+                                "assetId": {
+                                    "guid": "{6CCBE278-8E03-5521-A10D-6D87080283FA}",
+                                    "subId": 276986383
+                                },
+                                "assetHint": "modularfences/fences/models/default_fencelow_e7baebaa_8e7a_5284_bc39_2522906d6d6c_.fbx.azmodel"
+                            }
+                        }
+                    }
+                },
+                "EditorColliderComponent": {
+                    "$type": "EditorColliderComponent",
+                    "Id": 12512466135236356329,
+                    "ColliderConfiguration": {
+                        "Position": [
+                            0.008378773927688599,
+                            -0.9410438537597656,
+                            0.6563587188720703
+                        ],
+                        "MaterialSlots": {
+                            "Slots": [
+                                {
+                                    "Name": "Entire object"
+                                }
+                            ]
+                        }
+                    },
+                    "ShapeConfiguration": {
+                        "ShapeType": 1,
+                        "Box": {
+                            "Configuration": [
+                                0.0854564905166626,
+                                2.00333309173584,
+                                1.1335997581481934
+                            ]
+                        }
+                    }
+                },
+                "EditorDisabledCompositionComponent": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 18045255491108549260
+                },
+                "EditorEntityIconComponent": {
+                    "$type": "EditorEntityIconComponent",
+                    "Id": 17064997973503484597
+                },
+                "EditorEntitySortComponent": {
+                    "$type": "EditorEntitySortComponent",
+                    "Id": 17536230805309955172
+                },
+                "EditorInspectorComponent": {
+                    "$type": "EditorInspectorComponent",
+                    "Id": 9753120378979563960
+                },
+                "EditorLockComponent": {
+                    "$type": "EditorLockComponent",
+                    "Id": 16207529677431742355
+                },
+                "EditorMaterialComponent": {
+                    "$type": "EditorMaterialComponent",
+                    "Id": 17030239520540778682,
+                    "Controller": {
+                        "Configuration": {
+                            "materials": [
+                                {
+                                    "Key": {
+                                        "materialSlotStableId": 297244990
+                                    },
+                                    "Value": {
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{2FC549DF-0887-5E49-AC0E-7DEB7233F1E3}"
+                                            },
+                                            "assetHint": "modularfences/fences/models/materials/fencewire.azmaterial"
+                                        }
+                                    }
+                                },
+                                {
+                                    "Key": {
+                                        "materialSlotStableId": 1058309251
+                                    },
+                                    "Value": {
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{4B5E1C4E-E4D1-5B60-96DD-58AA58BD7EE1}"
+                                            },
+                                            "assetHint": "modularfences/fences/models/materials/fenceposts.azmaterial"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                "EditorOnlyEntityComponent": {
+                    "$type": "EditorOnlyEntityComponent",
+                    "Id": 10262155060440208362
+                },
+                "EditorPendingCompositionComponent": {
+                    "$type": "EditorPendingCompositionComponent",
+                    "Id": 8127636830613665581
+                },
+                "EditorStaticRigidBodyComponent": {
+                    "$type": "EditorStaticRigidBodyComponent",
+                    "Id": 707180542890731044
+                },
+                "EditorVisibilityComponent": {
+                    "$type": "EditorVisibilityComponent",
+                    "Id": 11801061794183918091
+                },
+                "TransformComponent": {
+                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                    "Id": 497453527457572992,
+                    "Parent Entity": "Entity_[6205528255130]"
+                }
+            }
+        }
+    }
+}

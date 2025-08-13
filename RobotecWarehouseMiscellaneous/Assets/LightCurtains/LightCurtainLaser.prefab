@@ -1,0 +1,782 @@
+{
+    "ContainerEntity": {
+        "Id": "ContainerEntity",
+        "Name": "LightCurtainLaser",
+        "Components": {
+            "EditorDisabledCompositionComponent": {
+                "$type": "EditorDisabledCompositionComponent",
+                "Id": 6301145469479257656
+            },
+            "EditorEntityIconComponent": {
+                "$type": "EditorEntityIconComponent",
+                "Id": 11174107103850060621
+            },
+            "EditorEntitySortComponent": {
+                "$type": "EditorEntitySortComponent",
+                "Id": 12461937192666957783,
+                "Child Entity Order": [
+                    "Entity_[4062339574426]"
+                ]
+            },
+            "EditorInspectorComponent": {
+                "$type": "EditorInspectorComponent",
+                "Id": 13373097398384097264
+            },
+            "EditorLockComponent": {
+                "$type": "EditorLockComponent",
+                "Id": 543718358269898729
+            },
+            "EditorOnlyEntityComponent": {
+                "$type": "EditorOnlyEntityComponent",
+                "Id": 9713682084331843486
+            },
+            "EditorPendingCompositionComponent": {
+                "$type": "EditorPendingCompositionComponent",
+                "Id": 7162252573264277840
+            },
+            "EditorPrefabComponent": {
+                "$type": "EditorPrefabComponent",
+                "Id": 8588695833677985364
+            },
+            "EditorVisibilityComponent": {
+                "$type": "EditorVisibilityComponent",
+                "Id": 18436859810180772707
+            },
+            "TransformComponent": {
+                "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                "Id": 16649074333666327999,
+                "Parent Entity": ""
+            }
+        }
+    },
+    "Entities": {
+        "Entity_[4062339574426]": {
+            "Id": "Entity_[4062339574426]",
+            "Name": "LightCurtainLaser",
+            "Components": {
+                "EditorDisabledCompositionComponent": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 361641868528138116
+                },
+                "EditorEntityIconComponent": {
+                    "$type": "EditorEntityIconComponent",
+                    "Id": 1644407966932332985
+                },
+                "EditorEntitySortComponent": {
+                    "$type": "EditorEntitySortComponent",
+                    "Id": 9030131616265814825,
+                    "Child Entity Order": [
+                        "Entity_[4066634541722]"
+                    ]
+                },
+                "EditorInspectorComponent": {
+                    "$type": "EditorInspectorComponent",
+                    "Id": 14617653665102866753,
+                    "ComponentOrderEntryArray": [
+                        {
+                            "ComponentId": 17603946672351721104
+                        }
+                    ]
+                },
+                "EditorLockComponent": {
+                    "$type": "EditorLockComponent",
+                    "Id": 6780472715419955487
+                },
+                "EditorOnlyEntityComponent": {
+                    "$type": "EditorOnlyEntityComponent",
+                    "Id": 11051009519339333484
+                },
+                "EditorPendingCompositionComponent": {
+                    "$type": "EditorPendingCompositionComponent",
+                    "Id": 17509350695324827514
+                },
+                "EditorVisibilityComponent": {
+                    "$type": "EditorVisibilityComponent",
+                    "Id": 9503913527930938625
+                },
+                "TransformComponent": {
+                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                    "Id": 17603946672351721104,
+                    "Parent Entity": "ContainerEntity"
+                }
+            }
+        },
+        "Entity_[4066634541722]": {
+            "Id": "Entity_[4066634541722]",
+            "Name": "LightCurtain01Laser",
+            "Components": {
+                "AZ::Render::EditorMeshComponent": {
+                    "$type": "AZ::Render::EditorMeshComponent",
+                    "Id": 14196879932923290036,
+                    "Controller": {
+                        "Configuration": {
+                            "ModelAsset": {
+                                "assetId": {
+                                    "guid": "{64E08A88-9D8B-5C61-ABB2-C897809500C3}",
+                                    "subId": 281624606
+                                },
+                                "assetHint": "lightcurtains/lightcurtain01/model/default_lightcurtain_4b6f6e8c_d639_59ee_83ab_c8dc61ccdb14_.fbx.azmodel"
+                            }
+                        }
+                    }
+                },
+                "EditorColliderComponent": {
+                    "$type": "EditorColliderComponent",
+                    "Id": 4544037860544714479,
+                    "ColliderConfiguration": {
+                        "Position": [
+                            0.0050809383392333984,
+                            -0.5004214644432068,
+                            0.9671404361724854
+                        ],
+                        "Rotation": [
+                            0.7071067690849304,
+                            0.0,
+                            0.0,
+                            0.7071067094802856
+                        ],
+                        "MaterialSlots": {
+                            "Slots": [
+                                {
+                                    "Name": "Entire object"
+                                }
+                            ]
+                        }
+                    },
+                    "ShapeConfiguration": {
+                        "ShapeType": 2,
+                        "Box": {
+                            "Configuration": [
+                                0.5580020546913147,
+                                0.9742336273193359,
+                                1.0
+                            ]
+                        },
+                        "Capsule": {
+                            "Radius": 0.010898787528276443
+                        }
+                    }
+                },
+                "EditorColliderComponent_10": {
+                    "$type": "EditorColliderComponent",
+                    "Id": 11562659861160124831,
+                    "ColliderConfiguration": {
+                        "Position": [
+                            0.005080900155007839,
+                            -0.5004215240478516,
+                            0.5721945762634277
+                        ],
+                        "Rotation": [
+                            0.7071068286895752,
+                            0.0,
+                            0.0,
+                            0.7071067094802856
+                        ],
+                        "MaterialSlots": {
+                            "Slots": [
+                                {
+                                    "Name": "Entire object"
+                                }
+                            ]
+                        }
+                    },
+                    "ShapeConfiguration": {
+                        "ShapeType": 2,
+                        "Box": {
+                            "Configuration": [
+                                0.5580021142959595,
+                                0.9742336273193359,
+                                1.0
+                            ]
+                        },
+                        "Capsule": {
+                            "Radius": 0.010898799635469913
+                        }
+                    }
+                },
+                "EditorColliderComponent_11": {
+                    "$type": "EditorColliderComponent",
+                    "Id": 3445527571222317293,
+                    "ColliderConfiguration": {
+                        "Position": [
+                            0.005080900155007839,
+                            -0.5004215240478516,
+                            0.3285176753997803
+                        ],
+                        "Rotation": [
+                            0.7071068286895752,
+                            0.0,
+                            0.0,
+                            0.7071067094802856
+                        ],
+                        "MaterialSlots": {
+                            "Slots": [
+                                {
+                                    "Name": "Entire object"
+                                }
+                            ]
+                        }
+                    },
+                    "ShapeConfiguration": {
+                        "ShapeType": 2,
+                        "Box": {
+                            "Configuration": [
+                                0.5580021142959595,
+                                0.9742336273193359,
+                                1.0
+                            ]
+                        },
+                        "Capsule": {
+                            "Radius": 0.010898799635469913
+                        }
+                    }
+                },
+                "EditorColliderComponent_12": {
+                    "$type": "EditorColliderComponent",
+                    "Id": 13848714015723673070,
+                    "ColliderConfiguration": {
+                        "Position": [
+                            0.005080900155007839,
+                            -0.5004215240478516,
+                            0.09165261685848236
+                        ],
+                        "Rotation": [
+                            0.7071068286895752,
+                            0.0,
+                            0.0,
+                            0.7071067094802856
+                        ],
+                        "MaterialSlots": {
+                            "Slots": [
+                                {
+                                    "Name": "Entire object"
+                                }
+                            ]
+                        }
+                    },
+                    "ShapeConfiguration": {
+                        "ShapeType": 2,
+                        "Box": {
+                            "Configuration": [
+                                0.5580021142959595,
+                                0.9742336273193359,
+                                1.0
+                            ]
+                        },
+                        "Capsule": {
+                            "Radius": 0.010898799635469913
+                        }
+                    }
+                },
+                "EditorColliderComponent_13": {
+                    "$type": "EditorColliderComponent",
+                    "Id": 12182691732920397039,
+                    "ColliderConfiguration": {
+                        "Position": [
+                            0.005080900155007839,
+                            -0.5004215240478516,
+                            0.25176340341567993
+                        ],
+                        "Rotation": [
+                            0.7071068286895752,
+                            0.0,
+                            0.0,
+                            0.7071067094802856
+                        ],
+                        "MaterialSlots": {
+                            "Slots": [
+                                {
+                                    "Name": "Entire object"
+                                }
+                            ]
+                        }
+                    },
+                    "ShapeConfiguration": {
+                        "ShapeType": 2,
+                        "Box": {
+                            "Configuration": [
+                                0.5580021142959595,
+                                0.9742336273193359,
+                                1.0
+                            ]
+                        },
+                        "Capsule": {
+                            "Radius": 0.010898799635469913
+                        }
+                    }
+                },
+                "EditorColliderComponent_14": {
+                    "$type": "EditorColliderComponent",
+                    "Id": 16949423554838742185,
+                    "ColliderConfiguration": {
+                        "Position": [
+                            0.005080900155007839,
+                            -0.5004215240478516,
+                            0.8086122870445251
+                        ],
+                        "Rotation": [
+                            0.7071068286895752,
+                            0.0,
+                            0.0,
+                            0.7071067094802856
+                        ],
+                        "MaterialSlots": {
+                            "Slots": [
+                                {
+                                    "Name": "Entire object"
+                                }
+                            ]
+                        }
+                    },
+                    "ShapeConfiguration": {
+                        "ShapeType": 2,
+                        "Box": {
+                            "Configuration": [
+                                0.5580021142959595,
+                                0.9742336273193359,
+                                1.0
+                            ]
+                        },
+                        "Capsule": {
+                            "Radius": 0.010898799635469913
+                        }
+                    }
+                },
+                "EditorColliderComponent_15": {
+                    "$type": "EditorColliderComponent",
+                    "Id": 18408122743157427091,
+                    "ColliderConfiguration": {
+                        "Position": [
+                            0.005080900155007839,
+                            -0.5004215240478516,
+                            0.17503631114959717
+                        ],
+                        "Rotation": [
+                            0.7071068286895752,
+                            0.0,
+                            0.0,
+                            0.7071067094802856
+                        ],
+                        "MaterialSlots": {
+                            "Slots": [
+                                {
+                                    "Name": "Entire object"
+                                }
+                            ]
+                        }
+                    },
+                    "ShapeConfiguration": {
+                        "ShapeType": 2,
+                        "Box": {
+                            "Configuration": [
+                                0.5580021142959595,
+                                0.9742336273193359,
+                                1.0
+                            ]
+                        },
+                        "Capsule": {
+                            "Radius": 0.010898799635469913
+                        }
+                    }
+                },
+                "EditorColliderComponent_16": {
+                    "$type": "EditorColliderComponent",
+                    "Id": 9588385005583866819,
+                    "ColliderConfiguration": {
+                        "Position": [
+                            0.005080900155007839,
+                            -0.5004215240478516,
+                            0.019059600308537483
+                        ],
+                        "Rotation": [
+                            0.7071068286895752,
+                            0.0,
+                            0.0,
+                            0.7071067094802856
+                        ],
+                        "MaterialSlots": {
+                            "Slots": [
+                                {
+                                    "Name": "Entire object"
+                                }
+                            ]
+                        }
+                    },
+                    "ShapeConfiguration": {
+                        "ShapeType": 2,
+                        "Box": {
+                            "Configuration": [
+                                0.5580021142959595,
+                                0.9742336273193359,
+                                1.0
+                            ]
+                        },
+                        "Capsule": {
+                            "Radius": 0.010898799635469913
+                        }
+                    }
+                },
+                "EditorColliderComponent_2": {
+                    "$type": "EditorColliderComponent",
+                    "Id": 10365161703315635295,
+                    "ColliderConfiguration": {
+                        "Position": [
+                            0.005080900155007839,
+                            -0.5004215240478516,
+                            0.8893333673477173
+                        ],
+                        "Rotation": [
+                            0.7071068286895752,
+                            0.0,
+                            0.0,
+                            0.7071067094802856
+                        ],
+                        "MaterialSlots": {
+                            "Slots": [
+                                {
+                                    "Name": "Entire object"
+                                }
+                            ]
+                        }
+                    },
+                    "ShapeConfiguration": {
+                        "ShapeType": 2,
+                        "Box": {
+                            "Configuration": [
+                                0.5580021142959595,
+                                0.9742336273193359,
+                                1.0
+                            ]
+                        },
+                        "Capsule": {
+                            "Radius": 0.010898799635469913
+                        }
+                    }
+                },
+                "EditorColliderComponent_3": {
+                    "$type": "EditorColliderComponent",
+                    "Id": 347042392223637910,
+                    "ColliderConfiguration": {
+                        "Position": [
+                            0.005080900155007839,
+                            -0.5004215240478516,
+                            0.7306538224220276
+                        ],
+                        "Rotation": [
+                            0.7071068286895752,
+                            0.0,
+                            0.0,
+                            0.7071067094802856
+                        ],
+                        "MaterialSlots": {
+                            "Slots": [
+                                {
+                                    "Name": "Entire object"
+                                }
+                            ]
+                        }
+                    },
+                    "ShapeConfiguration": {
+                        "ShapeType": 2,
+                        "Box": {
+                            "Configuration": [
+                                0.5580021142959595,
+                                0.9742336273193359,
+                                1.0
+                            ]
+                        },
+                        "Capsule": {
+                            "Radius": 0.010898799635469913
+                        }
+                    }
+                },
+                "EditorColliderComponent_4": {
+                    "$type": "EditorColliderComponent",
+                    "Id": 2057296842670878070,
+                    "ColliderConfiguration": {
+                        "Position": [
+                            0.005080900155007839,
+                            -0.5004215240478516,
+                            0.6503267884254456
+                        ],
+                        "Rotation": [
+                            0.7071068286895752,
+                            0.0,
+                            0.0,
+                            0.7071067094802856
+                        ],
+                        "MaterialSlots": {
+                            "Slots": [
+                                {
+                                    "Name": "Entire object"
+                                }
+                            ]
+                        }
+                    },
+                    "ShapeConfiguration": {
+                        "ShapeType": 2,
+                        "Box": {
+                            "Configuration": [
+                                0.5580021142959595,
+                                0.9742336273193359,
+                                1.0
+                            ]
+                        },
+                        "Capsule": {
+                            "Radius": 0.010898799635469913
+                        }
+                    }
+                },
+                "EditorColliderComponent_5": {
+                    "$type": "EditorColliderComponent",
+                    "Id": 14616241300157604841,
+                    "ColliderConfiguration": {
+                        "Position": [
+                            0.005080900155007839,
+                            -0.5004215240478516,
+                            1.205150842666626
+                        ],
+                        "Rotation": [
+                            0.7071068286895752,
+                            0.0,
+                            0.0,
+                            0.7071067094802856
+                        ],
+                        "MaterialSlots": {
+                            "Slots": [
+                                {
+                                    "Name": "Entire object"
+                                }
+                            ]
+                        }
+                    },
+                    "ShapeConfiguration": {
+                        "ShapeType": 2,
+                        "Box": {
+                            "Configuration": [
+                                0.5580021142959595,
+                                0.9742336273193359,
+                                1.0
+                            ]
+                        },
+                        "Capsule": {
+                            "Radius": 0.010898799635469913
+                        }
+                    }
+                },
+                "EditorColliderComponent_6": {
+                    "$type": "EditorColliderComponent",
+                    "Id": 8721246353101778848,
+                    "ColliderConfiguration": {
+                        "Position": [
+                            0.005080900155007839,
+                            -0.5004215240478516,
+                            0.410341739654541
+                        ],
+                        "Rotation": [
+                            0.7071068286895752,
+                            0.0,
+                            0.0,
+                            0.7071067094802856
+                        ],
+                        "MaterialSlots": {
+                            "Slots": [
+                                {
+                                    "Name": "Entire object"
+                                }
+                            ]
+                        }
+                    },
+                    "ShapeConfiguration": {
+                        "ShapeType": 2,
+                        "Box": {
+                            "Configuration": [
+                                0.5580021142959595,
+                                0.9742336273193359,
+                                1.0
+                            ]
+                        },
+                        "Capsule": {
+                            "Radius": 0.010898799635469913
+                        }
+                    }
+                },
+                "EditorColliderComponent_7": {
+                    "$type": "EditorColliderComponent",
+                    "Id": 18248216809929838788,
+                    "ColliderConfiguration": {
+                        "Position": [
+                            0.005080900155007839,
+                            -0.5004215240478516,
+                            0.4921606779098511
+                        ],
+                        "Rotation": [
+                            0.7071068286895752,
+                            0.0,
+                            0.0,
+                            0.7071067094802856
+                        ],
+                        "MaterialSlots": {
+                            "Slots": [
+                                {
+                                    "Name": "Entire object"
+                                }
+                            ]
+                        }
+                    },
+                    "ShapeConfiguration": {
+                        "ShapeType": 2,
+                        "Box": {
+                            "Configuration": [
+                                0.5580021142959595,
+                                0.9742336273193359,
+                                1.0
+                            ]
+                        },
+                        "Capsule": {
+                            "Radius": 0.010898799635469913
+                        }
+                    }
+                },
+                "EditorColliderComponent_8": {
+                    "$type": "EditorColliderComponent",
+                    "Id": 1148164411137255137,
+                    "ColliderConfiguration": {
+                        "Position": [
+                            0.005080900155007839,
+                            -0.5004215240478516,
+                            1.1245042085647583
+                        ],
+                        "Rotation": [
+                            0.7071068286895752,
+                            0.0,
+                            0.0,
+                            0.7071067094802856
+                        ],
+                        "MaterialSlots": {
+                            "Slots": [
+                                {
+                                    "Name": "Entire object"
+                                }
+                            ]
+                        }
+                    },
+                    "ShapeConfiguration": {
+                        "ShapeType": 2,
+                        "Box": {
+                            "Configuration": [
+                                0.5580021142959595,
+                                0.9742336273193359,
+                                1.0
+                            ]
+                        },
+                        "Capsule": {
+                            "Radius": 0.010898799635469913
+                        }
+                    }
+                },
+                "EditorColliderComponent_9": {
+                    "$type": "EditorColliderComponent",
+                    "Id": 2976580580470687032,
+                    "ColliderConfiguration": {
+                        "Position": [
+                            0.005080900155007839,
+                            -0.5004215240478516,
+                            1.0466692447662354
+                        ],
+                        "Rotation": [
+                            0.7071068286895752,
+                            0.0,
+                            0.0,
+                            0.7071067094802856
+                        ],
+                        "MaterialSlots": {
+                            "Slots": [
+                                {
+                                    "Name": "Entire object"
+                                }
+                            ]
+                        }
+                    },
+                    "ShapeConfiguration": {
+                        "ShapeType": 2,
+                        "Box": {
+                            "Configuration": [
+                                0.5580021142959595,
+                                0.9742336273193359,
+                                1.0
+                            ]
+                        },
+                        "Capsule": {
+                            "Radius": 0.010898799635469913
+                        }
+                    }
+                },
+                "EditorDisabledCompositionComponent": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 11215880380131273315
+                },
+                "EditorEntityIconComponent": {
+                    "$type": "EditorEntityIconComponent",
+                    "Id": 13104396738444705715
+                },
+                "EditorEntitySortComponent": {
+                    "$type": "EditorEntitySortComponent",
+                    "Id": 1492148143739270874
+                },
+                "EditorInspectorComponent": {
+                    "$type": "EditorInspectorComponent",
+                    "Id": 12480594723841006327
+                },
+                "EditorLockComponent": {
+                    "$type": "EditorLockComponent",
+                    "Id": 4841714916307532632
+                },
+                "EditorMaterialComponent": {
+                    "$type": "EditorMaterialComponent",
+                    "Id": 12267624939831986194,
+                    "Controller": {
+                        "Configuration": {
+                            "materials": [
+                                {
+                                    "Key": {
+                                        "materialSlotStableId": 3965627885
+                                    },
+                                    "Value": {
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{CE795D4D-8504-5AB4-AC4D-76D5DED8DE93}"
+                                            },
+                                            "assetHint": "lightcurtains/lightcurtain01/model/materials/lightcurtain_emissive.azmaterial"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                "EditorOnlyEntityComponent": {
+                    "$type": "EditorOnlyEntityComponent",
+                    "Id": 6057463819490362781
+                },
+                "EditorPendingCompositionComponent": {
+                    "$type": "EditorPendingCompositionComponent",
+                    "Id": 6054920342736620807
+                },
+                "EditorStaticRigidBodyComponent": {
+                    "$type": "EditorStaticRigidBodyComponent",
+                    "Id": 10274558206484168398
+                },
+                "EditorVisibilityComponent": {
+                    "$type": "EditorVisibilityComponent",
+                    "Id": 9519183763539295521
+                },
+                "TransformComponent": {
+                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                    "Id": 3380504531687284376,
+                    "Parent Entity": "Entity_[4062339574426]"
+                }
+            }
+        }
+    }
+}

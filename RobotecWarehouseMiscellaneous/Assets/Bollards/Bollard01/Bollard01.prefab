@@ -1,0 +1,244 @@
+{
+    "ContainerEntity": {
+        "Id": "ContainerEntity",
+        "Name": "Bollard01",
+        "Components": {
+            "EditorDisabledCompositionComponent": {
+                "$type": "EditorDisabledCompositionComponent",
+                "Id": 835036757674409001
+            },
+            "EditorEntityIconComponent": {
+                "$type": "EditorEntityIconComponent",
+                "Id": 13586164299895305675
+            },
+            "EditorEntitySortComponent": {
+                "$type": "EditorEntitySortComponent",
+                "Id": 8671586592683271319,
+                "Child Entity Order": [
+                    "Entity_[770049524872]"
+                ]
+            },
+            "EditorInspectorComponent": {
+                "$type": "EditorInspectorComponent",
+                "Id": 1376817170342744097
+            },
+            "EditorLockComponent": {
+                "$type": "EditorLockComponent",
+                "Id": 13719820728449928174
+            },
+            "EditorOnlyEntityComponent": {
+                "$type": "EditorOnlyEntityComponent",
+                "Id": 13539306955256397344
+            },
+            "EditorPendingCompositionComponent": {
+                "$type": "EditorPendingCompositionComponent",
+                "Id": 4748221079633690549
+            },
+            "EditorPrefabComponent": {
+                "$type": "EditorPrefabComponent",
+                "Id": 3294629414068672631
+            },
+            "EditorVisibilityComponent": {
+                "$type": "EditorVisibilityComponent",
+                "Id": 2284674957143769395
+            },
+            "TransformComponent": {
+                "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                "Id": 10992581075010587340,
+                "Parent Entity": ""
+            }
+        }
+    },
+    "Entities": {
+        "Entity_[770049524872]": {
+            "Id": "Entity_[770049524872]",
+            "Name": "Bollard01",
+            "Components": {
+                "EditorDisabledCompositionComponent": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 4194088605192540712
+                },
+                "EditorEntityIconComponent": {
+                    "$type": "EditorEntityIconComponent",
+                    "Id": 2660847790327315232
+                },
+                "EditorEntitySortComponent": {
+                    "$type": "EditorEntitySortComponent",
+                    "Id": 784106343758340648,
+                    "Child Entity Order": [
+                        "Entity_[774344492168]"
+                    ]
+                },
+                "EditorInspectorComponent": {
+                    "$type": "EditorInspectorComponent",
+                    "Id": 17828107429084108946,
+                    "ComponentOrderEntryArray": [
+                        {
+                            "ComponentId": 9116678419414381422
+                        }
+                    ]
+                },
+                "EditorLockComponent": {
+                    "$type": "EditorLockComponent",
+                    "Id": 4083864815490458139
+                },
+                "EditorOnlyEntityComponent": {
+                    "$type": "EditorOnlyEntityComponent",
+                    "Id": 8866637002380546034
+                },
+                "EditorPendingCompositionComponent": {
+                    "$type": "EditorPendingCompositionComponent",
+                    "Id": 951922485866961956
+                },
+                "EditorVisibilityComponent": {
+                    "$type": "EditorVisibilityComponent",
+                    "Id": 10239119319971112576
+                },
+                "TransformComponent": {
+                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                    "Id": 9116678419414381422,
+                    "Parent Entity": "ContainerEntity"
+                }
+            }
+        },
+        "Entity_[774344492168]": {
+            "Id": "Entity_[774344492168]",
+            "Name": "Bollard01",
+            "Components": {
+                "AZ::Render::EditorMeshComponent": {
+                    "$type": "AZ::Render::EditorMeshComponent",
+                    "Id": 4718062727547937800,
+                    "Controller": {
+                        "Configuration": {
+                            "ModelAsset": {
+                                "assetId": {
+                                    "guid": "{51BBCB87-5EF4-5A16-A99F-53F7F7F2678C}",
+                                    "subId": 273708878
+                                },
+                                "assetHint": "bollards/bollard01/models/default_bollard01_703a8659_85d0_5630_9354_8479c3640e5c_.fbx.azmodel"
+                            }
+                        }
+                    }
+                },
+                "EditorColliderComponent": {
+                    "$type": "EditorColliderComponent",
+                    "Id": 7964874026425736268,
+                    "ColliderConfiguration": {
+                        "Position": [
+                            0.0,
+                            0.0,
+                            0.30830085277557373
+                        ],
+                        "MaterialSlots": {
+                            "Slots": [
+                                {
+                                    "Name": "Entire object"
+                                }
+                            ]
+                        }
+                    },
+                    "ShapeConfiguration": {
+                        "ShapeType": 2,
+                        "Capsule": {
+                            "Height": 0.6423114538192749,
+                            "Radius": 0.04162994772195816
+                        }
+                    }
+                },
+                "EditorColliderComponent_2": {
+                    "$type": "EditorColliderComponent",
+                    "Id": 8082594204162467658,
+                    "ColliderConfiguration": {
+                        "Position": [
+                            0.0,
+                            0.0,
+                            0.02804391086101532
+                        ],
+                        "MaterialSlots": {
+                            "Slots": [
+                                {
+                                    "Name": "Entire object"
+                                }
+                            ]
+                        }
+                    },
+                    "ShapeConfiguration": {
+                        "ShapeType": 3,
+                        "Cylinder": {
+                            "Configuration": {
+                                "CookedData": "TlhTAUNWWE0OAAAAAAAAAElDRQFDTEhMCQAAACAAAAAwAAAAEgAAAGAAAABU8b29iVodPfhsGz2tl829ucUWsvhsGz1U8b29jVodvfhsGz02YJG9OGCRvfhsGz2HWh29VPG9vfhsGz2XKGIyrZfNvfhsGz2OWh09VPG9vfhsGz04YJE9NWCRvfhsGz1V8b09hlodvfhsGz2tl809AAAAAPhsGz1U8b09i1odPfhsGz03YJE9N2CRPfhsGz2JWh09VPG9PfhsGz25xZaxrZfNPfhsGz2MWh29VPG9PfhsGz04YJG9NmCRPfhsGz1U8b09i1odPcCelDw3YJE9N2CRPcCelDytl809AAAAAMCelDyHWh29VPG9vcCelDyXKGIyrZfNvcCelDw2YJG9OGCRvcCelDxV8b09hlodvcCelDw4YJE9NWCRvcCelDyOWh09VPG9vcCelDyMWh29VPG9PcCelDw4YJG9NmCRPcCelDy5xZaxrZfNPcCelDxU8b29jVodvcCelDytl829ucUWssCelDyJWh09VPG9PcCelDxU8b29iVodPcCelDwAAAAAAAAAAP//fz/3bBu9AAAQEDHbVD/aOQ4/AAAAAGCkyb0QAAQCvhR7P7/FRz4AAAAAX6TJvRQABAG/xUe+vhR7vwAAAABepMm9GAAEDNY5Dr8z21S/AAAAAF+kyb0cAAQMwBR7P7zFR74AAAAAYaTJvSAABAEx21Q/2TkOvwAAAABepMm9JAAED985Dj8t21S/AAAAAF6kyb0oAAQPwsVHPr8Ue78AAAAAX6TJvSwABA3bOQ6/MNtUPwAAAABfpMm9MAAEBr/FR76+FHs/AAAAAF+kyb00AAQFMNtUv905Dr8AAAAAYKTJvTgABAq+FHu/v8VHvgAAAABfpMm9PAAECcLFRz6/FHs/AAAAAF+kyb1AAAQE2TkOPzLbVD8AAAAAYKTJvUQABAO+FHu/v8VHPgAAAABfpMm9SAAECDLbVL/YOQ4/AAAAAF+kyb1MAAQIAAAAAAAAAAD//3+/v56UPFAAEAAAAQIDBAUGBwgJCgsMDQ4PEBELChAKCRITFAUEEwQDFRYSCQgWCAcXGBcHBhgGBRQZGg8OGQ4NGxwVAwIcAgEdHhsNDB4MCxEfHQEAHwAPGh8aGRseERASFhcYFBMVHB0ADwAMAAsABAADAAgABwAGAAUAAgABAA4ADQAKAAkAEAERAQ4BAgIFAhEDEQMIAwQECwQRBREFBgYHBhEHEQcICBEJEQkQCQoKDQoRCxELDAwPDBENEQ0ODhEPEQ8QEBEADxAADA8ACwwABAsAAwQAAwgABwgABgcABQYAAgUAAQIAAQ4ADQ4ACg0ACQoACRABAhEBDhECBREDBBEDCBEECxEFBhEGBxEHCBEJChEJEBEKDRELDBEMDxENDhEPEBEAAAAArZfNva2Xzb3AnpQ8rZfNPa2XzT34bBs9VCogOi5EBjZSaTon/cPtqFJpOicuRAY2lc4fKf3D7aiVzh8p8FtJNk690zB2UA6xWLzlPAAAgL8AAIC/LjsiPH1Dyz0TVLs7E1S7Ow==",
+                                "Type": 1
+                            },
+                            "Height": 0.019803613424301147,
+                            "Radius": 0.10038695484399796
+                        }
+                    }
+                },
+                "EditorDisabledCompositionComponent": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 6777183049244163768
+                },
+                "EditorEntityIconComponent": {
+                    "$type": "EditorEntityIconComponent",
+                    "Id": 8244637323443244477
+                },
+                "EditorEntitySortComponent": {
+                    "$type": "EditorEntitySortComponent",
+                    "Id": 15637450853254609876
+                },
+                "EditorInspectorComponent": {
+                    "$type": "EditorInspectorComponent",
+                    "Id": 10435961362289104058
+                },
+                "EditorLockComponent": {
+                    "$type": "EditorLockComponent",
+                    "Id": 353053490819512192
+                },
+                "EditorMaterialComponent": {
+                    "$type": "EditorMaterialComponent",
+                    "Id": 10096956919620445349,
+                    "Controller": {
+                        "Configuration": {
+                            "materials": [
+                                {
+                                    "Key": {
+                                        "materialSlotStableId": 2718462694
+                                    },
+                                    "Value": {
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{0F11E179-852C-56BC-9F03-8517722B9005}"
+                                            },
+                                            "assetHint": "bollards/bollard01/models/materials/bollard01.azmaterial"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                "EditorOnlyEntityComponent": {
+                    "$type": "EditorOnlyEntityComponent",
+                    "Id": 10284821108340226781
+                },
+                "EditorPendingCompositionComponent": {
+                    "$type": "EditorPendingCompositionComponent",
+                    "Id": 16153707459396450626
+                },
+                "EditorStaticRigidBodyComponent": {
+                    "$type": "EditorStaticRigidBodyComponent",
+                    "Id": 14029496195326787432
+                },
+                "EditorVisibilityComponent": {
+                    "$type": "EditorVisibilityComponent",
+                    "Id": 13283334438014487228
+                },
+                "TransformComponent": {
+                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                    "Id": 9815856643784975238,
+                    "Parent Entity": "Entity_[770049524872]"
+                }
+            }
+        }
+    }
+}
