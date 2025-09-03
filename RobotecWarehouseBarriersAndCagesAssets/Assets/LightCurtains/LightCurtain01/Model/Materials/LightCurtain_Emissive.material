@@ -3,18 +3,21 @@
     "materialTypeVersion": 5,
     "propertyValues": {
         "baseColor.color": [
-            0.800000011920929,
-            0.800000011920929,
-            0.800000011920929,
+            1.0,
+            0.0,
+            0.0,
             1.0
         ],
         "emissive.color": [
+            10.0,
             0.0,
-            0.0,
-            0.0,
+            0.05740832909941673,
             1.0
         ],
-        "opacity.factor": 0.30000001192092896,
+        "emissive.enable": true,
+        "emissive.intensity": -0.2800000011920929,
+        "opacity.alphaAffectsSpecular": 1.0,
+        "opacity.factor": 1.0,
         "opacity.mode": "Blended",
         "roughness.factor": 0.5
     }
