@@ -17,6 +17,7 @@
         ],
         "metallic.textureMap": "Textures/CorrugatedSteel_Metallic.png",
         "normal.textureMap": "Textures/CorrugatedSteel_Normal.png",
+        "occlusion.diffuseTextureMap": "Textures/CorrugatedSteel_AO.png",
         "opacity.factor": 1.0,
         "roughness.factor": 0.5,
         "roughness.textureMap": "Textures/CorrugatedSteel_Roughness.png"

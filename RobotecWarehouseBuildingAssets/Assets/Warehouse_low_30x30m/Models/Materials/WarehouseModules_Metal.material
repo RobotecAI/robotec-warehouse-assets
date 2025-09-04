@@ -9,7 +9,7 @@
             0.0,
             1.0
         ],
-        "metallic.textureMap": "Textures/WarehouseMetal_Metallic.png",
+        "metallic.factor": 1.0,
         "normal.textureMap": "Textures/WarehouseMetal_Normal.png",
         "opacity.factor": 1.0,
         "roughness.factor": 0.5,
