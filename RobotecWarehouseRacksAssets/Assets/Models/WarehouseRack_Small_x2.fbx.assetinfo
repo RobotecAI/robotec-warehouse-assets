@@ -1,0 +1,178 @@
+{
+    "values": [
+        {
+            "$type": "{5B03C8E6-8CEE-4DA0-A7FA-CD88689DD45B} MeshGroup",
+            "id": "{7078DC3B-0D0D-550B-8093-2A27652BB4B9}",
+            "name": "WarehouseRack_Small_x2",
+            "NodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode.StorageRack01_LOD2"
+                ],
+                "unselectedNodes": [
+                    {},
+                    "RootNode",
+                    "RootNode.StorageRack01_LOD0",
+                    "RootNode.StorageRack01_LOD1"
+                ]
+            },
+            "PhysicsMaterialSlots": {
+                "Slots": [
+                    {
+                        "Name": "StorageRack01"
+                    }
+                ]
+            }
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "WarehouseRack_Small_x2",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    {},
+                    "RootNode",
+                    "RootNode.StorageRack01_LOD0"
+                ],
+                "unselectedNodes": [
+                    "RootNode.StorageRack01_LOD1",
+                    "RootNode.StorageRack01_LOD2"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "{6E796AC8-1484-4909-860A-6D3F22A7346F} LodRule",
+                        "nodeSelectionList": [
+                            {
+                                "selectedNodes": [
+                                    {},
+                                    "RootNode",
+                                    "RootNode.StorageRack01_LOD1"
+                                ],
+                                "unselectedNodes": [
+                                    "RootNode.StorageRack01_LOD0",
+                                    "RootNode.StorageRack01_LOD2"
+                                ]
+                            },
+                            {
+                                "selectedNodes": [
+                                    {},
+                                    "RootNode",
+                                    "RootNode.StorageRack01_LOD2"
+                                ],
+                                "unselectedNodes": [
+                                    "RootNode.StorageRack01_LOD0",
+                                    "RootNode.StorageRack01_LOD1"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "$type": "MaterialRule"
+                    }
+                ]
+            },
+            "id": "{660FB13B-4D78-5E3E-8A13-D1EE012982F7}"
+        },
+        {
+            "$type": "{41DCBEAB-203C-4A05-96FA-98E1D8A96FA1} ImportGroup"
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "default_WarehouseRack_Small_x2_235B2062_2920_5FB9_AE9F_1CB16C45BC2B_",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode.StorageRack01_LOD0"
+                ],
+                "unselectedNodes": [
+                    "RootNode.StorageRack01_LOD1",
+                    "RootNode.StorageRack01_LOD2"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "ProceduralMeshGroupRule"
+                    },
+                    {
+                        "$type": "UnmodifiableRule"
+                    },
+                    {
+                        "$type": "CoordinateSystemRule",
+                        "useAdvancedData": true
+                    },
+                    {
+                        "$type": "{6E796AC8-1484-4909-860A-6D3F22A7346F} LodRule"
+                    }
+                ]
+            },
+            "id": "{235B2062-2920-5FB9-AE9F-1CB16C45BC2B}"
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "default_WarehouseRack_Small_x2_789BB714_55B1_52BC_B1D4_ED178D4E1B05_",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode.StorageRack01_LOD1"
+                ],
+                "unselectedNodes": [
+                    "RootNode.StorageRack01_LOD0",
+                    "RootNode.StorageRack01_LOD2"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "ProceduralMeshGroupRule"
+                    },
+                    {
+                        "$type": "UnmodifiableRule"
+                    },
+                    {
+                        "$type": "CoordinateSystemRule",
+                        "useAdvancedData": true
+                    },
+                    {
+                        "$type": "{6E796AC8-1484-4909-860A-6D3F22A7346F} LodRule"
+                    }
+                ]
+            },
+            "id": "{789BB714-55B1-52BC-B1D4-ED178D4E1B05}"
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "default_WarehouseRack_Small_x2_86C837B6_AC74_5956_A342_62570AA76C51_",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode.StorageRack01_LOD2"
+                ],
+                "unselectedNodes": [
+                    "RootNode.StorageRack01_LOD0",
+                    "RootNode.StorageRack01_LOD1"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "ProceduralMeshGroupRule"
+                    },
+                    {
+                        "$type": "UnmodifiableRule"
+                    },
+                    {
+                        "$type": "CoordinateSystemRule",
+                        "useAdvancedData": true
+                    },
+                    {
+                        "$type": "{6E796AC8-1484-4909-860A-6D3F22A7346F} LodRule"
+                    }
+                ]
+            },
+            "id": "{86C837B6-AC74-5956-A342-62570AA76C51}"
+        },
+        {
+            "$type": "PrefabGroup",
+            "name": "Models/WarehouseRack_Small_x2_fbx.procprefab",
+            "id": "{BA74CD6E-9886-513C-B2A3-8E470BEB455F}"
+        }
+    ]
+}

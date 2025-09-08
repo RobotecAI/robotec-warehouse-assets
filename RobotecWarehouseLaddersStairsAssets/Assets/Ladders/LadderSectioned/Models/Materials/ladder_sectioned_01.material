@@ -1,0 +1,19 @@
+{
+    "materialType": "@gemroot:Atom_Feature_Common@/Assets/Materials/Types/StandardPBR.materialtype",
+    "materialTypeVersion": 5,
+    "propertyValues": {
+        "baseColor.textureMap": "Textures/ladder_sectioned_01_Basecolor.jpg",
+        "emissive.color": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "metallic.textureMap": "Textures/ladder_sectioned_01_Metallic.png",
+        "normal.factor": 0.07999999821186066,
+        "normal.textureMap": "Textures/ladder_sectioned_01_Normal.png",
+        "opacity.factor": 1.0,
+        "roughness.factor": 0.4000000059604645,
+        "roughness.textureMap": "Textures/ladder_sectioned_01_Roughness.png"
+    }
+}
