@@ -118,4 +118,5 @@
 *.zip filter=lfs diff=lfs merge=lfs -text
 *.tbscene filter=lfs diff=lfs merge=lfs -text
 *.spp filter=lfs diff=lfs merge=lfs -text
-
+**/docs/**/*.png filter= diff= merge= -text
+**/docs/**/*.jpg filter= diff= merge= -text
