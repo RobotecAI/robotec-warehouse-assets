@@ -1,0 +1,241 @@
+{
+    "ContainerEntity": {
+        "Id": "ContainerEntity",
+        "Name": "EuroPallet",
+        "Components": {
+            "EditorDisabledCompositionComponent": {
+                "$type": "EditorDisabledCompositionComponent",
+                "Id": 15569618431155367819
+            },
+            "EditorEntityIconComponent": {
+                "$type": "EditorEntityIconComponent",
+                "Id": 2304701605006691206
+            },
+            "EditorEntitySortComponent": {
+                "$type": "EditorEntitySortComponent",
+                "Id": 10665889503170714401,
+                "Child Entity Order": [
+                    "Entity_[8112936377595]"
+                ]
+            },
+            "EditorInspectorComponent": {
+                "$type": "EditorInspectorComponent",
+                "Id": 15757069170431555696
+            },
+            "EditorLockComponent": {
+                "$type": "EditorLockComponent",
+                "Id": 10476625671536063896
+            },
+            "EditorOnlyEntityComponent": {
+                "$type": "EditorOnlyEntityComponent",
+                "Id": 13410312885343138864
+            },
+            "EditorPendingCompositionComponent": {
+                "$type": "EditorPendingCompositionComponent",
+                "Id": 5924646364483552306
+            },
+            "EditorPrefabComponent": {
+                "$type": "EditorPrefabComponent",
+                "Id": 11708339137925278657
+            },
+            "EditorVisibilityComponent": {
+                "$type": "EditorVisibilityComponent",
+                "Id": 2003540830030398230
+            },
+            "TransformComponent": {
+                "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                "Id": 700281018005860606,
+                "Parent Entity": ""
+            }
+        }
+    },
+    "Entities": {
+        "Entity_[8112936377595]": {
+            "Id": "Entity_[8112936377595]",
+            "Name": "EuroPallet",
+            "Components": {
+                "EditorDisabledCompositionComponent": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 9330481390547591353
+                },
+                "EditorEntityIconComponent": {
+                    "$type": "EditorEntityIconComponent",
+                    "Id": 863108450965560461
+                },
+                "EditorEntitySortComponent": {
+                    "$type": "EditorEntitySortComponent",
+                    "Id": 7248404081279066242,
+                    "Child Entity Order": [
+                        "Entity_[8117231344891]"
+                    ]
+                },
+                "EditorInspectorComponent": {
+                    "$type": "EditorInspectorComponent",
+                    "Id": 9242414988359542889,
+                    "ComponentOrderEntryArray": [
+                        {
+                            "ComponentId": 11259820470786630371
+                        }
+                    ]
+                },
+                "EditorLockComponent": {
+                    "$type": "EditorLockComponent",
+                    "Id": 110714350855800568
+                },
+                "EditorOnlyEntityComponent": {
+                    "$type": "EditorOnlyEntityComponent",
+                    "Id": 7130898164994917803
+                },
+                "EditorPendingCompositionComponent": {
+                    "$type": "EditorPendingCompositionComponent",
+                    "Id": 11054005214795738932
+                },
+                "EditorVisibilityComponent": {
+                    "$type": "EditorVisibilityComponent",
+                    "Id": 2943508734892815052
+                },
+                "TransformComponent": {
+                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                    "Id": 11259820470786630371,
+                    "Parent Entity": "ContainerEntity"
+                }
+            }
+        },
+        "Entity_[8117231344891]": {
+            "Id": "Entity_[8117231344891]",
+            "Name": "EuroPallet",
+            "Components": {
+                "AZ::Render::EditorMeshComponent": {
+                    "$type": "AZ::Render::EditorMeshComponent",
+                    "Id": 7796758993847954126,
+                    "Controller": {
+                        "Configuration": {
+                            "ModelAsset": {
+                                "assetId": {
+                                    "guid": "{B81E43EC-6656-51B7-94F4-E2288438CE6B}",
+                                    "subId": 273975357
+                                },
+                                "assetHint": "europallet/models/europallet.fbx.azmodel"
+                            },
+                            "LodType": 1,
+                            "MinimumScreenCoverage": 0.004000000189989805,
+                            "QualityDecayRate": 0.4000000059604645
+                        }
+                    }
+                },
+                "EditorColliderComponent": {
+                    "$type": "EditorColliderComponent",
+                    "Id": 9337405493727286273,
+                    "ColliderConfiguration": {
+                        "Position": [
+                            -0.0002638697624206543,
+                            -0.0000029802322387695313,
+                            0.07227304577827454
+                        ],
+                        "MaterialSlots": {
+                            "Slots": [
+                                {
+                                    "Name": "Entire object"
+                                }
+                            ]
+                        }
+                    },
+                    "ShapeConfiguration": {
+                        "ShapeType": 1,
+                        "Box": {
+                            "Configuration": [
+                                1.2013729810714722,
+                                0.8008917570114136,
+                                0.14480501413345337
+                            ]
+                        }
+                    }
+                },
+                "EditorDisabledCompositionComponent": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 13589848808413645457
+                },
+                "EditorEntityIconComponent": {
+                    "$type": "EditorEntityIconComponent",
+                    "Id": 13803416860835372461
+                },
+                "EditorEntitySortComponent": {
+                    "$type": "EditorEntitySortComponent",
+                    "Id": 11730545626373625252
+                },
+                "EditorInspectorComponent": {
+                    "$type": "EditorInspectorComponent",
+                    "Id": 14850543374622726706
+                },
+                "EditorLockComponent": {
+                    "$type": "EditorLockComponent",
+                    "Id": 17264629015651541431
+                },
+                "EditorMaterialComponent": {
+                    "$type": "EditorMaterialComponent",
+                    "Id": 15740285793773150168,
+                    "Controller": {
+                        "Configuration": {
+                            "materials": [
+                                {
+                                    "Key": {
+                                        "materialSlotStableId": 624011747
+                                    },
+                                    "Value": {
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{F6E23F5B-ACAC-55DC-B8B5-CB7F74732928}"
+                                            },
+                                            "assetHint": "europallet/models/materials/europallet.azmaterial"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                "EditorOnlyEntityComponent": {
+                    "$type": "EditorOnlyEntityComponent",
+                    "Id": 16468419093292159740
+                },
+                "EditorPendingCompositionComponent": {
+                    "$type": "EditorPendingCompositionComponent",
+                    "Id": 14494753517617764114
+                },
+                "EditorRigidBodyComponent": {
+                    "$type": "EditorRigidBodyComponent",
+                    "Id": 2688955536483534258,
+                    "Configuration": {
+                        "entityId": "",
+                        "Mass": 139.32701110839844,
+                        "Centre of mass offset": [
+                            -0.0002638697624206543,
+                            -0.0000029802322387695313,
+                            0.07227304577827454
+                        ],
+                        "Inertia tensor": [
+                            7.690805912017822,
+                            0.0,
+                            0.0,
+                            0.0,
+                            17.0009765625,
+                            0.0,
+                            0.0,
+                            0.0,
+                            24.204870223999023
+                        ]
+                    }
+                },
+                "EditorVisibilityComponent": {
+                    "$type": "EditorVisibilityComponent",
+                    "Id": 9509245328871108904
+                },
+                "TransformComponent": {
+                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                    "Id": 13150118165608348148,
+                    "Parent Entity": "Entity_[8112936377595]"
+                }
+            }
+        }
+    }
+}
