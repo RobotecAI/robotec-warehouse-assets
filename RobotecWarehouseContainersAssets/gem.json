@@ -1,0 +1,28 @@
+{
+    "gem_name": "RobotecWarehouseContainersAssets",
+    "version": "1.0.0",
+    "display_name": "RobotecWarehouseContainersAssets",
+    "license": "Apache-2.0",
+    "license_url": "https://opensource.org/licenses/Apache-2.0",
+    "origin": "RobotecAI",
+    "origin_url": "https://robotec.ai",
+    "type": "Asset",
+    "summary": "Gem with visual resources of warehouse containers.",
+    "canonical_tags": [
+        "Gem"
+    ],
+    "user_tags": [
+        "RobotecWarehouseContainersAssets"
+    ],
+    "platforms": [
+        ""
+    ],
+    "icon_path": "",
+    "requirements": "",
+    "documentation_url": "",
+    "dependencies": [],
+    "repo_uri": "",
+    "compatible_engines": [],
+    "engine_api_dependencies": [],
+    "restricted": "RobotecWarehouseContainersAssets"
+}
