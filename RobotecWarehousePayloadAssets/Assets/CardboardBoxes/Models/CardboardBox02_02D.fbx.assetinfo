@@ -1,0 +1,91 @@
+{
+    "values": [
+        {
+            "$type": "{5B03C8E6-8CEE-4DA0-A7FA-CD88689DD45B} MeshGroup",
+            "id": "{6A65AA2E-E56D-54C5-898A-E6AC0475764E}",
+            "name": "CardboardBox02_02D",
+            "NodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode",
+                    "RootNode.CardboardBox02_02D",
+                    "RootNode.CardboardBox02_02D.CardboardBox02_02D",
+                    "RootNode.CardboardBox02_02D.UVMap",
+                    "RootNode.CardboardBox02_02D.custom_properties",
+                    "RootNode.CardboardBox02_02D.transform"
+                ]
+            },
+            "export method": 1,
+            "PhysicsMaterialSlots": {
+                "Slots": [
+                    {
+                        "Name": "CardboardBox02_02D",
+                        "MaterialAsset": {
+                            "assetId": {
+                                "guid": "{81A623F6-8733-5AE7-91A5-761CE9321B60}",
+                                "subId": 1
+                            },
+                            "assetHint": "physicsmaterials/cardboardbox.physicsmaterial"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "CardboardBox02_02D",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode",
+                    "RootNode.CardboardBox02_02D",
+                    "RootNode.CardboardBox02_02D.CardboardBox02_02D",
+                    "RootNode.CardboardBox02_02D.UVMap",
+                    "RootNode.CardboardBox02_02D.custom_properties",
+                    "RootNode.CardboardBox02_02D.transform"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "MaterialRule"
+                    }
+                ]
+            },
+            "id": "{80948CF8-2FC5-5BED-8457-A7CA1F925147}"
+        },
+        {
+            "$type": "{41DCBEAB-203C-4A05-96FA-98E1D8A96FA1} ImportGroup"
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "default_CardboardBox02_02D_46E6D7B3_C186_55FC_AE1A_14D8790E4911_",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode.CardboardBox02_02D"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "ProceduralMeshGroupRule"
+                    },
+                    {
+                        "$type": "UnmodifiableRule"
+                    },
+                    {
+                        "$type": "CoordinateSystemRule",
+                        "useAdvancedData": true
+                    },
+                    {
+                        "$type": "{6E796AC8-1484-4909-860A-6D3F22A7346F} LodRule"
+                    }
+                ]
+            },
+            "id": "{46E6D7B3-C186-55FC-AE1A-14D8790E4911}"
+        },
+        {
+            "$type": "PrefabGroup",
+            "name": "CardboardBoxes/Models/CardboardBox02_02D_fbx.procprefab",
+            "id": "{3FCC11E6-F312-5141-908C-385788A1563E}"
+        }
+    ]
+}
