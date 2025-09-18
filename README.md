@@ -5,9 +5,101 @@ Repository for all warehouse specific O3DE assets
 
 This repository contains O3DE gems with assets that are specific to warehouse area.
 
-The following Gems are available in the repository:
-- `RobotecWarehouseBarriersAndCagesAssets`: Gem with assets of warehouse barriers and various sizes and types of cage walls.
-- `RobotecWarehouseForkliftsAssets`: Gem with assets of warehouse forklifts.
+## RobotecWarehouseBarriersAndCagesAssets
+Asset gem with barriers and cages
+
+## RobotecWarehouseBuildingAssets
+Asset gem with warehouse buildings and construction elements
+
+## RobotecWarehouseForkliftsAssets
+Asset gem with forklifts
+
+## RobotecWarehouseLaddersStairsAssets
+Asset gem with ladders and stairs
+
+## RobotecWarehouseMiscAssets
+Asset gem with miscellaneous warehouse assets
+
+## RobotecWarehousePayloadAssets
+Asset gem with payloads for warehouse operations. Includes objects that can be placed  on the shelves, like pallets, boxes, and other items.
+
+### Assets:
+
+#### CardboardBox01_v01
+![CardboardBox01_v01](RobotecWarehousePayloadAssets/docs/images/assets//CardboardBox01_v01.png)
+
+Features: Dynamic rigid body, colliders
+
+#### CardboardBox01_v02D
+![CardboardBox01_v02D](RobotecWarehousePayloadAssets/docs/images/assets/CardboardBox01_v02D.png)
+
+Features: Dynamic rigid body, colliders
+
+#### CardboardBox01_v03
+![CardboardBox01_v03](RobotecWarehousePayloadAssets/docs/images/assets/CardboardBox01_v03.png)
+
+Features: Dynamic rigid body, colliders
+
+#### CardboardBox02_v01
+![CardboardBox02_v01](RobotecWarehousePayloadAssets/docs/images/assets/CardboardBox02_v01.png)
+
+Features: Dynamic rigid body, colliders
+
+#### CardboardBox02_v02D
+![CardboardBox02_v02D](RobotecWarehousePayloadAssets/docs/images/assets/CardboardBox02_v02D.png)
+
+Features: Dynamic rigid body, colliders
+
+#### CardboardBox03_v01
+![CardboardBox03_v01](RobotecWarehousePayloadAssets/docs/images/assets/CardboardBox03_v01.png)
+
+Features: Dynamic rigid body, colliders
+
+#### CardboardBox03_v02O
+![CardboardBox03_v02O](RobotecWarehousePayloadAssets/docs/images/assets/CardboardBox03_v02O.png)
+
+Features: Dynamic rigid body, colliders
+
+#### CardboardBox03_v03O
+![CardboardBox03_v03O](RobotecWarehousePayloadAssets/docs/images/assets/CardboardBox03_v03O.png)
+
+Features: Dynamic rigid body, colliders
+
+#### CardboardBox04_v01
+![CardboardBox04_v01](RobotecWarehousePayloadAssets/docs/images/assets/CardboardBox04_v01.png)
+
+Features: Dynamic rigid body, colliders
+
+#### CardboardBox05_v01
+![CardboardBox05_v01](RobotecWarehousePayloadAssets/docs/images/assets/CardboardBox05_v01.png)
+
+Features: Dynamic rigid body, colliders
+
+#### CardboardBox06_v01
+![CardboardBox06_v01](RobotecWarehousePayloadAssets/docs/images/assets/CardboardBox06_v01.png)
+
+Features: Dynamic rigid body, colliders
+
+#### CardboardBox07_v01
+![CardboardBox07_v01](RobotecWarehousePayloadAssets/docs/images/assets/CardboardBox07_v01.png)
+
+Features: Dynamic rigid body, colliders
+
+#### CardboardBox08_v01
+![CardboardBox08_v01](RobotecWarehousePayloadAssets/docs/images/assets/CardboardBox08_v01.png)
+
+Features: Dynamic rigid body, colliders
+
+#### CardboardBox09_v01
+![CardboardBox09_v01](RobotecWarehousePayloadAssets/docs/images/assets/CardboardBox09_v01.png)
+
+Features: Dynamic rigid body, colliders
+
+
+## RobotecWarehouseRacksAssets
+Asset gem with warehouse racks
+
+
 
 # Type of assets
 
