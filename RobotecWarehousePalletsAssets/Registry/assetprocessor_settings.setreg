@@ -1,0 +1,18 @@
+{
+    "Amazon": {
+        "AssetProcessor": {
+            "Settings": {
+                "ScanFolder RobotecWarehousePalletsAssets/Assets": {
+                    "watch": "@GEMROOT:RobotecWarehousePalletsAssets@/Assets",
+                    "recursive": 1,
+                    "order": 101
+                },
+                "ScanFolder RobotecWarehousePalletsAssets/Registry": {
+                    "watch": "@GEMROOT:RobotecWarehousePalletsAssets@/Registry",
+                    "recursive": 1,
+                    "order": 102
+                }
+            }
+        }
+    }
+}
