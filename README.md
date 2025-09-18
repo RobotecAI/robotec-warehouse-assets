@@ -25,73 +25,73 @@ Asset gem with payloads for warehouse operations. Includes objects that can be p
 
 ### Assets:
 
-#### CardboardBox01_01
-![CardboardBox01_01](RobotecWarehousePayloadAssets/docs/images/assets//CardboardBox01_01.png)
+#### CardboardBox01_v01
+![CardboardBox01_v01](RobotecWarehousePayloadAssets/docs/images/assets//CardboardBox01_v01.png)
 
 Features: Dynamic rigid body, colliders
 
-#### CardboardBox01_02D
-![CardboardBox01_02D](RobotecWarehousePayloadAssets/docs/images/assets/CardboardBox01_02D.png)
+#### CardboardBox01_v02D
+![CardboardBox01_v02D](RobotecWarehousePayloadAssets/docs/images/assets/CardboardBox01_v02D.png)
 
 Features: Dynamic rigid body, colliders
 
-#### CardboardBox01_03
-![CardboardBox01_03](RobotecWarehousePayloadAssets/docs/images/assets/CardboardBox01_03.png)
+#### CardboardBox01_v03
+![CardboardBox01_v03](RobotecWarehousePayloadAssets/docs/images/assets/CardboardBox01_v03.png)
 
 Features: Dynamic rigid body, colliders
 
-#### CardboardBox02_01
-![CardboardBox02_01](RobotecWarehousePayloadAssets/docs/images/assets/CardboardBox02_01.png)
+#### CardboardBox02_v01
+![CardboardBox02_v01](RobotecWarehousePayloadAssets/docs/images/assets/CardboardBox02_v01.png)
 
 Features: Dynamic rigid body, colliders
 
-#### CardboardBox02_02D
-![CardboardBox02_02D](RobotecWarehousePayloadAssets/docs/images/assets/CardboardBox02_02D.png)
+#### CardboardBox02_v02D
+![CardboardBox02_v02D](RobotecWarehousePayloadAssets/docs/images/assets/CardboardBox02_v02D.png)
 
 Features: Dynamic rigid body, colliders
 
-#### CardboardBox03_01
-![CardboardBox03_01](RobotecWarehousePayloadAssets/docs/images/assets/CardboardBox03_01.png)
+#### CardboardBox03_v01
+![CardboardBox03_v01](RobotecWarehousePayloadAssets/docs/images/assets/CardboardBox03_v01.png)
 
 Features: Dynamic rigid body, colliders
 
-#### CardboardBox03_02O
-![CardboardBox03_02O](RobotecWarehousePayloadAssets/docs/images/assets/CardboardBox03_02O.png)
+#### CardboardBox03_v02O
+![CardboardBox03_v02O](RobotecWarehousePayloadAssets/docs/images/assets/CardboardBox03_v02O.png)
 
 Features: Dynamic rigid body, colliders
 
-#### CardboardBox03_03O
-![CardboardBox03_03O](RobotecWarehousePayloadAssets/docs/images/assets/CardboardBox03_03O.png)
+#### CardboardBox03_v03O
+![CardboardBox03_v03O](RobotecWarehousePayloadAssets/docs/images/assets/CardboardBox03_v03O.png)
 
 Features: Dynamic rigid body, colliders
 
-#### CardboardBox04_01
-![CardboardBox04_01](RobotecWarehousePayloadAssets/docs/images/assets/CardboardBox04_01.png)
+#### CardboardBox04_v01
+![CardboardBox04_v01](RobotecWarehousePayloadAssets/docs/images/assets/CardboardBox04_v01.png)
 
 Features: Dynamic rigid body, colliders
 
-#### CardboardBox05_01
-![CardboardBox05_01](RobotecWarehousePayloadAssets/docs/images/assets/CardboardBox05_01.png)
+#### CardboardBox05_v01
+![CardboardBox05_v01](RobotecWarehousePayloadAssets/docs/images/assets/CardboardBox05_v01.png)
 
 Features: Dynamic rigid body, colliders
 
-#### CardboardBox06_01
-![CardboardBox06_01](RobotecWarehousePayloadAssets/docs/images/assets/CardboardBox06_01.png)
+#### CardboardBox06_v01
+![CardboardBox06_v01](RobotecWarehousePayloadAssets/docs/images/assets/CardboardBox06_v01.png)
 
 Features: Dynamic rigid body, colliders
 
-#### CardboardBox07_01
-![CardboardBox07_01](RobotecWarehousePayloadAssets/docs/images/assets/CardboardBox07_01.png)
+#### CardboardBox07_v01
+![CardboardBox07_v01](RobotecWarehousePayloadAssets/docs/images/assets/CardboardBox07_v01.png)
 
 Features: Dynamic rigid body, colliders
 
-#### CardboardBox08_01
-![CardboardBox08_01](RobotecWarehousePayloadAssets/docs/images/assets/CardboardBox08_01.png)
+#### CardboardBox08_v01
+![CardboardBox08_v01](RobotecWarehousePayloadAssets/docs/images/assets/CardboardBox08_v01.png)
 
 Features: Dynamic rigid body, colliders
 
-#### CardboardBox09_01
-![CardboardBox09_01](RobotecWarehousePayloadAssets/docs/images/assets/CardboardBox09_01.png)
+#### CardboardBox09_v01
+![CardboardBox09_v01](RobotecWarehousePayloadAssets/docs/images/assets/CardboardBox09_v01.png)
 
 Features: Dynamic rigid body, colliders
 
