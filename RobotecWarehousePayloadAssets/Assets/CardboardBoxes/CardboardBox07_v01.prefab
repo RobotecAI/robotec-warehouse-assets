@@ -260,9 +260,29 @@
                     "$type": "EditorPendingCompositionComponent",
                     "Id": 8788767252696110708
                 },
-                "EditorStaticRigidBodyComponent": {
-                    "$type": "EditorStaticRigidBodyComponent",
-                    "Id": 15855401013460036956
+                "EditorRigidBodyComponent": {
+                    "$type": "EditorRigidBodyComponent",
+                    "Id": 7747781656618934464,
+                    "Configuration": {
+                        "entityId": "",
+                        "Mass": 22.874263763427734,
+                        "Centre of mass offset": [
+                            0.0000014968708228479954,
+                            3.5668310971459505e-8,
+                            0.14249470829963684
+                        ],
+                        "Inertia tensor": [
+                            0.4592653214931488,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.2317066192626953,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.381334513425827
+                        ]
+                    }
                 },
                 "EditorVisibilityComponent": {
                     "$type": "EditorVisibilityComponent",
