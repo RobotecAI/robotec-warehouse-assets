@@ -93,6 +93,9 @@ Features: Dynamic rigid body, colliders
 #### CardboardBox09_v01
 ![CardboardBox09_v01](RobotecWarehousePayloadAssets/docs/images/assets/CardboardBox09_v01.png)
 
+#### EuroPallet01_v00
+![EuroPallet01_v00](RobotecWarehousePayloadAssets/docs/images/assets/EuroPallet01_v00.png)
+
 Features: Dynamic rigid body, colliders
 
 
