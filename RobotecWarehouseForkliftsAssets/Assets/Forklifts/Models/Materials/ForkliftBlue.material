@@ -1,5 +1,5 @@
 {
-    "materialType": "@projectroot@/Cache/Intermediate Assets/materials/types/standardpbr_generated.materialtype",
+    "materialType": "@gemroot:Atom_Feature_Common@/Assets/Materials/Types/StandardPBR.materialtype",
     "materialTypeVersion": 5,
     "propertyValues": {
         "baseColor.color": [
@@ -11,6 +11,7 @@
         "baseColor.textureMap": "Textures/ForkliftBlue_BaseColor.png",
         "emissive.enable": true,
         "emissive.textureMap": "Textures/Forklift_Emissive.png",
+        "general.doubleSided": true,
         "metallic.textureMap": "Textures/Forklift_MaskMap_Metallic.png",
         "normal.textureMap": "Textures/Forklift_Normal.png",
         "opacity.factor": 1.0,
