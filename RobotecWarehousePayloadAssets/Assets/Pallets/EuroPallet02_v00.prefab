@@ -1,0 +1,249 @@
+{
+    "ContainerEntity": {
+        "Id": "ContainerEntity",
+        "Name": "EuroPallet02_v00",
+        "Components": {
+            "EditorDisabledCompositionComponent": {
+                "$type": "EditorDisabledCompositionComponent",
+                "Id": 16835855415955649450
+            },
+            "EditorEntityIconComponent": {
+                "$type": "EditorEntityIconComponent",
+                "Id": 6396311711249397790
+            },
+            "EditorEntitySortComponent": {
+                "$type": "EditorEntitySortComponent",
+                "Id": 11543460454456510341,
+                "Child Entity Order": [
+                    "Entity_[26318217136480]"
+                ]
+            },
+            "EditorInspectorComponent": {
+                "$type": "EditorInspectorComponent",
+                "Id": 10370500154328448985
+            },
+            "EditorLockComponent": {
+                "$type": "EditorLockComponent",
+                "Id": 8910292851977874410
+            },
+            "EditorOnlyEntityComponent": {
+                "$type": "EditorOnlyEntityComponent",
+                "Id": 5442906299075914228
+            },
+            "EditorPendingCompositionComponent": {
+                "$type": "EditorPendingCompositionComponent",
+                "Id": 7755673780042420813
+            },
+            "EditorPrefabComponent": {
+                "$type": "EditorPrefabComponent",
+                "Id": 17674274720164208871
+            },
+            "EditorVisibilityComponent": {
+                "$type": "EditorVisibilityComponent",
+                "Id": 15900837744389643550
+            },
+            "TransformComponent": {
+                "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                "Id": 2923344131976058136,
+                "Parent Entity": ""
+            }
+        }
+    },
+    "Entities": {
+        "Entity_[26318217136480]": {
+            "Id": "Entity_[26318217136480]",
+            "Name": "EuroPallet02_v00",
+            "Components": {
+                "EditorDisabledCompositionComponent": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 1537597548299849364
+                },
+                "EditorEntityIconComponent": {
+                    "$type": "EditorEntityIconComponent",
+                    "Id": 13931170931694548154
+                },
+                "EditorEntitySortComponent": {
+                    "$type": "EditorEntitySortComponent",
+                    "Id": 17046460607729688186,
+                    "Child Entity Order": [
+                        "Entity_[26322512103776]"
+                    ]
+                },
+                "EditorInspectorComponent": {
+                    "$type": "EditorInspectorComponent",
+                    "Id": 14744746221896430061,
+                    "ComponentOrderEntryArray": [
+                        {
+                            "ComponentId": 3340034742182194634
+                        }
+                    ]
+                },
+                "EditorLockComponent": {
+                    "$type": "EditorLockComponent",
+                    "Id": 14250384671263123165
+                },
+                "EditorOnlyEntityComponent": {
+                    "$type": "EditorOnlyEntityComponent",
+                    "Id": 15914473258517371664
+                },
+                "EditorPendingCompositionComponent": {
+                    "$type": "EditorPendingCompositionComponent",
+                    "Id": 12950894311029970004
+                },
+                "EditorVisibilityComponent": {
+                    "$type": "EditorVisibilityComponent",
+                    "Id": 11158952453583068661
+                },
+                "TransformComponent": {
+                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                    "Id": 3340034742182194634,
+                    "Parent Entity": "ContainerEntity"
+                }
+            }
+        },
+        "Entity_[26322512103776]": {
+            "Id": "Entity_[26322512103776]",
+            "Name": "EuroPallet02_v00",
+            "Components": {
+                "AZ::Render::EditorMeshComponent": {
+                    "$type": "AZ::Render::EditorMeshComponent",
+                    "Id": 12689808941699251301,
+                    "Controller": {
+                        "Configuration": {
+                            "ModelAsset": {
+                                "assetId": {
+                                    "guid": "{696EBFD1-921C-595D-8539-B9025362DE32}",
+                                    "subId": 274522823
+                                },
+                                "assetHint": "pallets/models/europallet02_v00.fbx.azmodel"
+                            },
+                            "LodType": 1,
+                            "MinimumScreenCoverage": 0.004000000189989805,
+                            "QualityDecayRate": 0.4000000059604645
+                        }
+                    }
+                },
+                "EditorColliderComponent": {
+                    "$type": "EditorColliderComponent",
+                    "Id": 12594217135879807913,
+                    "ColliderConfiguration": {
+                        "Position": [
+                            -0.0013190805912017822,
+                            0.0005276650190353394,
+                            0.0715273767709732
+                        ],
+                        "MaterialSlots": {
+                            "Slots": [
+                                {
+                                    "Name": "Entire object"
+                                }
+                            ]
+                        }
+                    },
+                    "ShapeConfiguration": {
+                        "ShapeType": 1,
+                        "Box": {
+                            "Scale": [
+                                0.9997566938400269,
+                                0.9997566938400269,
+                                0.9997566938400269
+                            ],
+                            "Configuration": [
+                                1.2089297771453857,
+                                0.8403606414794922,
+                                0.14798566699028015
+                            ]
+                        }
+                    }
+                },
+                "EditorDisabledCompositionComponent": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 4225743500427193897
+                },
+                "EditorEntityIconComponent": {
+                    "$type": "EditorEntityIconComponent",
+                    "Id": 8513155045129252342
+                },
+                "EditorEntitySortComponent": {
+                    "$type": "EditorEntitySortComponent",
+                    "Id": 5847115073240236868
+                },
+                "EditorInspectorComponent": {
+                    "$type": "EditorInspectorComponent",
+                    "Id": 10035782016066401966
+                },
+                "EditorLockComponent": {
+                    "$type": "EditorLockComponent",
+                    "Id": 4889725193151426776
+                },
+                "EditorMaterialComponent": {
+                    "$type": "EditorMaterialComponent",
+                    "Id": 14067499297577512414,
+                    "Controller": {
+                        "Configuration": {
+                            "materials": [
+                                {
+                                    "Key": {
+                                        "materialSlotStableId": 3044372824
+                                    },
+                                    "Value": {
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{9301BEF6-2423-5AE2-8DF7-0161B2B5D326}"
+                                            },
+                                            "assetHint": "pallets/models/materials/europallet02_v00.azmaterial"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                "EditorOnlyEntityComponent": {
+                    "$type": "EditorOnlyEntityComponent",
+                    "Id": 12857783475852370236
+                },
+                "EditorPendingCompositionComponent": {
+                    "$type": "EditorPendingCompositionComponent",
+                    "Id": 7075122625756971642
+                },
+                "EditorRigidBodyComponent": {
+                    "$type": "EditorRigidBodyComponent",
+                    "Id": 12032296461327874393,
+                    "Configuration": {
+                        "entityId": "",
+                        "Mass": 150.2344207763672,
+                        "Centre of mass offset": [
+                            -0.0013187596341595054,
+                            0.0005275366129353642,
+                            0.0715099647641182
+                        ],
+                        "Inertia tensor": [
+                            9.11111068725586,
+                            0.0,
+                            0.0,
+                            0.0,
+                            18.562580108642578,
+                            0.0,
+                            0.0,
+                            0.0,
+                            27.125608444213867
+                        ]
+                    }
+                },
+                "EditorVisibilityComponent": {
+                    "$type": "EditorVisibilityComponent",
+                    "Id": 7523382488378437499
+                },
+                "TransformComponent": {
+                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                    "Id": 13895776009175483665,
+                    "Parent Entity": "Entity_[26318217136480]",
+                    "Transform Data": {
+                        "UniformScale": 0.9997566938400269
+                    }
+                }
+            }
+        }
+    }
+}

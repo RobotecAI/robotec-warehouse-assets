@@ -99,6 +99,9 @@ Features: Dynamic rigid body, colliders
 Features: Dynamic rigid body, colliders
 
 
+#### EuroPallet02_v00
+![EuroPallet02_v00](RobotecWarehousePayloadAssets/docs/images/assets/EuroPallet02_v00.png)
+
 ## RobotecWarehouseRacksAssets
 Asset gem with warehouse racks
 
