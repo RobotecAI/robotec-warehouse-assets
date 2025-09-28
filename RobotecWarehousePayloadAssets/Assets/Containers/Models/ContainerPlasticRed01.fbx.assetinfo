@@ -1,0 +1,218 @@
+{
+    "values": [
+        {
+            "$type": "{5B03C8E6-8CEE-4DA0-A7FA-CD88689DD45B} MeshGroup",
+            "id": "{B7B2AB89-E6B5-5EB8-B155-949A2F520C9A}",
+            "name": "ContainerPlasticRed01",
+            "NodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode.ContainerPlasticRed01_phys"
+                ],
+                "unselectedNodes": [
+                    {},
+                    "RootNode",
+                    "RootNode.ContainerPlasticRed01_LOD0",
+                    "RootNode.ContainerPlasticRed01_LOD1",
+                    "RootNode.ContainerPlasticRed01_LOD2"
+                ]
+            },
+            "export method": 1,
+            "PhysicsMaterialSlots": {
+                "Slots": [
+                    {
+                        "Name": "DefaultMaterial"
+                    }
+                ]
+            }
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "ContainerPlasticRed01",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    {},
+                    "RootNode",
+                    "RootNode.ContainerPlasticRed01_LOD0"
+                ],
+                "unselectedNodes": [
+                    "RootNode.ContainerPlasticRed01_LOD1",
+                    "RootNode.ContainerPlasticRed01_LOD2",
+                    "RootNode.ContainerPlasticRed01_phys"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "{6E796AC8-1484-4909-860A-6D3F22A7346F} LodRule",
+                        "nodeSelectionList": [
+                            {
+                                "selectedNodes": [
+                                    {},
+                                    "RootNode",
+                                    "RootNode.ContainerPlasticRed01_LOD1"
+                                ],
+                                "unselectedNodes": [
+                                    "RootNode.ContainerPlasticRed01_LOD0",
+                                    "RootNode.ContainerPlasticRed01_LOD2",
+                                    "RootNode.ContainerPlasticRed01_phys"
+                                ]
+                            },
+                            {
+                                "selectedNodes": [
+                                    {},
+                                    "RootNode",
+                                    "RootNode.ContainerPlasticRed01_LOD2"
+                                ],
+                                "unselectedNodes": [
+                                    "RootNode.ContainerPlasticRed01_LOD0",
+                                    "RootNode.ContainerPlasticRed01_LOD1",
+                                    "RootNode.ContainerPlasticRed01_phys"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "$type": "MaterialRule"
+                    }
+                ]
+            },
+            "id": "{E5F55268-4D92-58B6-8023-35E668458946}"
+        },
+        {
+            "$type": "{41DCBEAB-203C-4A05-96FA-98E1D8A96FA1} ImportGroup"
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "default_ContainerPlasticRed01_AC73D8FA_2769_50DF_A864_26C0365A5FB5_",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode.ContainerPlasticRed01_LOD0"
+                ],
+                "unselectedNodes": [
+                    "RootNode.ContainerPlasticRed01_LOD1",
+                    "RootNode.ContainerPlasticRed01_LOD2",
+                    "RootNode.ContainerPlasticRed01_phys"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "ProceduralMeshGroupRule"
+                    },
+                    {
+                        "$type": "UnmodifiableRule"
+                    },
+                    {
+                        "$type": "CoordinateSystemRule",
+                        "useAdvancedData": true
+                    },
+                    {
+                        "$type": "{6E796AC8-1484-4909-860A-6D3F22A7346F} LodRule"
+                    }
+                ]
+            },
+            "id": "{AC73D8FA-2769-50DF-A864-26C0365A5FB5}"
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "default_ContainerPlasticRed01_AB04F774_5140_5A05_9051_1E0F2E093C17_",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode.ContainerPlasticRed01_LOD1"
+                ],
+                "unselectedNodes": [
+                    "RootNode.ContainerPlasticRed01_LOD0",
+                    "RootNode.ContainerPlasticRed01_LOD2",
+                    "RootNode.ContainerPlasticRed01_phys"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "ProceduralMeshGroupRule"
+                    },
+                    {
+                        "$type": "UnmodifiableRule"
+                    },
+                    {
+                        "$type": "CoordinateSystemRule",
+                        "useAdvancedData": true
+                    },
+                    {
+                        "$type": "{6E796AC8-1484-4909-860A-6D3F22A7346F} LodRule"
+                    }
+                ]
+            },
+            "id": "{AB04F774-5140-5A05-9051-1E0F2E093C17}"
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "default_ContainerPlasticRed01_D0F4A730_4DF9_5D72_B0B1_334B29D96F3F_",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode.ContainerPlasticRed01_LOD2"
+                ],
+                "unselectedNodes": [
+                    "RootNode.ContainerPlasticRed01_LOD0",
+                    "RootNode.ContainerPlasticRed01_LOD1",
+                    "RootNode.ContainerPlasticRed01_phys"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "ProceduralMeshGroupRule"
+                    },
+                    {
+                        "$type": "UnmodifiableRule"
+                    },
+                    {
+                        "$type": "CoordinateSystemRule",
+                        "useAdvancedData": true
+                    },
+                    {
+                        "$type": "{6E796AC8-1484-4909-860A-6D3F22A7346F} LodRule"
+                    }
+                ]
+            },
+            "id": "{D0F4A730-4DF9-5D72-B0B1-334B29D96F3F}"
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "default_ContainerPlasticRed01_85ECC91B_AEC9_51C1_ACB3_3ED156465B15_",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode.ContainerPlasticRed01_phys"
+                ],
+                "unselectedNodes": [
+                    "RootNode.ContainerPlasticRed01_LOD0",
+                    "RootNode.ContainerPlasticRed01_LOD1",
+                    "RootNode.ContainerPlasticRed01_LOD2"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "ProceduralMeshGroupRule"
+                    },
+                    {
+                        "$type": "UnmodifiableRule"
+                    },
+                    {
+                        "$type": "CoordinateSystemRule",
+                        "useAdvancedData": true
+                    },
+                    {
+                        "$type": "{6E796AC8-1484-4909-860A-6D3F22A7346F} LodRule"
+                    }
+                ]
+            },
+            "id": "{85ECC91B-AEC9-51C1-ACB3-3ED156465B15}"
+        },
+        {
+            "$type": "PrefabGroup",
+            "name": "Containers/Models/ContainerPlasticRed01_fbx.procprefab",
+            "id": "{C06E434F-59AA-59A5-9FA5-D0DE80D6E6A4}"
+        }
+    ]
+}

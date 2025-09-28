@@ -123,34 +123,6 @@
                         }
                     }
                 },
-                "EditorColliderComponent": {
-                    "$type": "EditorColliderComponent",
-                    "Id": 11738353963605352855,
-                    "ColliderConfiguration": {
-                        "Position": [
-                            0.0007116198539733887,
-                            0.0001862049102783203,
-                            0.12461435794830322
-                        ],
-                        "MaterialSlots": {
-                            "Slots": [
-                                {
-                                    "Name": "Entire object"
-                                }
-                            ]
-                        }
-                    },
-                    "ShapeConfiguration": {
-                        "ShapeType": 1,
-                        "Box": {
-                            "Configuration": [
-                                0.3084622621536255,
-                                0.5010485649108887,
-                                0.24888408184051514
-                            ]
-                        }
-                    }
-                },
                 "EditorDisabledCompositionComponent": {
                     "$type": "EditorDisabledCompositionComponent",
                     "Id": 3057419449902499043
@@ -194,6 +166,40 @@
                         }
                     }
                 },
+                "EditorMeshColliderComponent": {
+                    "$type": "EditorMeshColliderComponent",
+                    "Id": 8522552461846427899,
+                    "ColliderConfiguration": {
+                        "MaterialSlots": {
+                            "Slots": [
+                                {
+                                    "Name": "DefaultMaterial"
+                                }
+                            ]
+                        }
+                    },
+                    "ShapeConfiguration": {
+                        "PhysicsAsset": {
+                            "Asset": {
+                                "assetId": {
+                                    "guid": "{A9C2CCC1-1EE6-5806-84C8-5B237BEEEB30}",
+                                    "subId": 3872026121
+                                },
+                                "assetHint": "containers/models/containerplasticred01.fbx.pxmesh"
+                            },
+                            "Configuration": {
+                                "PhysicsAsset": {
+                                    "assetId": {
+                                        "guid": "{A9C2CCC1-1EE6-5806-84C8-5B237BEEEB30}",
+                                        "subId": 3872026121
+                                    },
+                                    "loadBehavior": "QueueLoad",
+                                    "assetHint": "containers/models/containerplasticred01.fbx.pxmesh"
+                                }
+                            }
+                        }
+                    }
+                },
                 "EditorOnlyEntityComponent": {
                     "$type": "EditorOnlyEntityComponent",
                     "Id": 2552926435609295709
@@ -206,24 +212,7 @@
                     "$type": "EditorRigidBodyComponent",
                     "Id": 1259127392538618670,
                     "Configuration": {
-                        "entityId": "",
-                        "Mass": 38.4661750793457,
-                        "Centre of mass offset": [
-                            0.0007116198539733887,
-                            0.0001862049102783203,
-                            0.12461435794830322
-                        ],
-                        "Inertia tensor": [
-                            1.0033035278320313,
-                            0.0,
-                            0.0,
-                            0.0,
-                            0.5035614967346191,
-                            0.0,
-                            0.0,
-                            0.0,
-                            1.109744668006897
-                        ]
+                        "entityId": ""
                     }
                 },
                 "EditorVisibilityComponent": {
