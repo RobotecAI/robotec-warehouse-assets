@@ -93,14 +93,22 @@ Features: Dynamic rigid body, colliders
 #### CardboardBox09_v01
 ![CardboardBox09_v01](RobotecWarehousePayloadAssets/docs/images/assets/CardboardBox09_v01.png)
 
+Features: Dynamic rigid body, colliders
+
+#### ContainerPlasticRed01
+![ContainerPlasticRed01](RobotecWarehousePayloadAssets/docs/images/assets/ContainerPlasticRed01.png)
+
+Features: Dynamic rigid body, colliders
+
 #### EuroPallet01_v00
 ![EuroPallet01_v00](RobotecWarehousePayloadAssets/docs/images/assets/EuroPallet01_v00.png)
 
 Features: Dynamic rigid body, colliders
 
-
 #### EuroPallet02_v00
 ![EuroPallet02_v00](RobotecWarehousePayloadAssets/docs/images/assets/EuroPallet02_v00.png)
+
+Features: Dynamic rigid body, colliders
 
 ## RobotecWarehouseRacksAssets
 Asset gem with warehouse racks
