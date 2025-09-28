@@ -1,0 +1,241 @@
+{
+    "ContainerEntity": {
+        "Id": "ContainerEntity",
+        "Name": "EuroPallet01_v00",
+        "Components": {
+            "EditorDisabledCompositionComponent": {
+                "$type": "EditorDisabledCompositionComponent",
+                "Id": 9215507147915247404
+            },
+            "EditorEntityIconComponent": {
+                "$type": "EditorEntityIconComponent",
+                "Id": 13655626437083548557
+            },
+            "EditorEntitySortComponent": {
+                "$type": "EditorEntitySortComponent",
+                "Id": 16736066331014886343,
+                "Child Entity Order": [
+                    "Entity_[5654045372125]"
+                ]
+            },
+            "EditorInspectorComponent": {
+                "$type": "EditorInspectorComponent",
+                "Id": 3377752538398422775
+            },
+            "EditorLockComponent": {
+                "$type": "EditorLockComponent",
+                "Id": 14378074392533683485
+            },
+            "EditorOnlyEntityComponent": {
+                "$type": "EditorOnlyEntityComponent",
+                "Id": 7113276669463987440
+            },
+            "EditorPendingCompositionComponent": {
+                "$type": "EditorPendingCompositionComponent",
+                "Id": 1379820506208961612
+            },
+            "EditorPrefabComponent": {
+                "$type": "EditorPrefabComponent",
+                "Id": 1995414930120507994
+            },
+            "EditorVisibilityComponent": {
+                "$type": "EditorVisibilityComponent",
+                "Id": 17556724559855098338
+            },
+            "TransformComponent": {
+                "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                "Id": 16266744544569279814,
+                "Parent Entity": ""
+            }
+        }
+    },
+    "Entities": {
+        "Entity_[5654045372125]": {
+            "Id": "Entity_[5654045372125]",
+            "Name": "EuroPallet01_v00",
+            "Components": {
+                "EditorDisabledCompositionComponent": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 1003125326778941923
+                },
+                "EditorEntityIconComponent": {
+                    "$type": "EditorEntityIconComponent",
+                    "Id": 4321068069837272592
+                },
+                "EditorEntitySortComponent": {
+                    "$type": "EditorEntitySortComponent",
+                    "Id": 8062289047660501951,
+                    "Child Entity Order": [
+                        "Entity_[5658340339421]"
+                    ]
+                },
+                "EditorInspectorComponent": {
+                    "$type": "EditorInspectorComponent",
+                    "Id": 4525702203055354380,
+                    "ComponentOrderEntryArray": [
+                        {
+                            "ComponentId": 2444509093347029153
+                        }
+                    ]
+                },
+                "EditorLockComponent": {
+                    "$type": "EditorLockComponent",
+                    "Id": 13047759947840394735
+                },
+                "EditorOnlyEntityComponent": {
+                    "$type": "EditorOnlyEntityComponent",
+                    "Id": 7034147210139340842
+                },
+                "EditorPendingCompositionComponent": {
+                    "$type": "EditorPendingCompositionComponent",
+                    "Id": 18420717773241870767
+                },
+                "EditorVisibilityComponent": {
+                    "$type": "EditorVisibilityComponent",
+                    "Id": 11129014885007942425
+                },
+                "TransformComponent": {
+                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                    "Id": 2444509093347029153,
+                    "Parent Entity": "ContainerEntity"
+                }
+            }
+        },
+        "Entity_[5658340339421]": {
+            "Id": "Entity_[5658340339421]",
+            "Name": "EuroPallet01_v00",
+            "Components": {
+                "AZ::Render::EditorMeshComponent": {
+                    "$type": "AZ::Render::EditorMeshComponent",
+                    "Id": 5233414128291151614,
+                    "Controller": {
+                        "Configuration": {
+                            "ModelAsset": {
+                                "assetId": {
+                                    "guid": "{D41108DE-0258-589A-906A-BD959308AD56}",
+                                    "subId": 284989463
+                                },
+                                "assetHint": "pallets/models/europallet01_v00.fbx.azmodel"
+                            },
+                            "LodType": 1,
+                            "MinimumScreenCoverage": 0.004000000189989805,
+                            "QualityDecayRate": 0.4000000059604645
+                        }
+                    }
+                },
+                "EditorColliderComponent": {
+                    "$type": "EditorColliderComponent",
+                    "Id": 16590784109770621002,
+                    "ColliderConfiguration": {
+                        "Position": [
+                            0.00006553530693054199,
+                            -0.00037766993045806885,
+                            0.07225555926561356
+                        ],
+                        "MaterialSlots": {
+                            "Slots": [
+                                {
+                                    "Name": "Entire object"
+                                }
+                            ]
+                        }
+                    },
+                    "ShapeConfiguration": {
+                        "ShapeType": 1,
+                        "Box": {
+                            "Configuration": [
+                                1.2016031742095947,
+                                0.8026200532913208,
+                                0.14676408469676971
+                            ]
+                        }
+                    }
+                },
+                "EditorDisabledCompositionComponent": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 15444746211492501831
+                },
+                "EditorEntityIconComponent": {
+                    "$type": "EditorEntityIconComponent",
+                    "Id": 16625622389740880013
+                },
+                "EditorEntitySortComponent": {
+                    "$type": "EditorEntitySortComponent",
+                    "Id": 17114648596430506696
+                },
+                "EditorInspectorComponent": {
+                    "$type": "EditorInspectorComponent",
+                    "Id": 17706558574975356132
+                },
+                "EditorLockComponent": {
+                    "$type": "EditorLockComponent",
+                    "Id": 6824932114850369269
+                },
+                "EditorMaterialComponent": {
+                    "$type": "EditorMaterialComponent",
+                    "Id": 12028444666524110904,
+                    "Controller": {
+                        "Configuration": {
+                            "materials": [
+                                {
+                                    "Key": {
+                                        "materialSlotStableId": 761440157
+                                    },
+                                    "Value": {
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{4BA8EB4F-29D5-55D3-8F5D-762F0B849020}"
+                                            },
+                                            "assetHint": "pallets/models/materials/europallet01_v00.azmaterial"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                "EditorOnlyEntityComponent": {
+                    "$type": "EditorOnlyEntityComponent",
+                    "Id": 13220236754988548067
+                },
+                "EditorPendingCompositionComponent": {
+                    "$type": "EditorPendingCompositionComponent",
+                    "Id": 12571335301104588947
+                },
+                "EditorRigidBodyComponent": {
+                    "$type": "EditorRigidBodyComponent",
+                    "Id": 16983500408084283978,
+                    "Configuration": {
+                        "entityId": "",
+                        "Mass": 141.54380798339844,
+                        "Centre of mass offset": [
+                            0.00006553530693054199,
+                            -0.00037766993045806885,
+                            0.07225555926561356
+                        ],
+                        "Inertia tensor": [
+                            7.852599143981934,
+                            0.0,
+                            0.0,
+                            0.0,
+                            17.284740447998047,
+                            0.0,
+                            0.0,
+                            0.0,
+                            24.62920379638672
+                        ]
+                    }
+                },
+                "EditorVisibilityComponent": {
+                    "$type": "EditorVisibilityComponent",
+                    "Id": 3508853349607242443
+                },
+                "TransformComponent": {
+                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                    "Id": 11791871857445005751,
+                    "Parent Entity": "Entity_[5654045372125]"
+                }
+            }
+        }
+    }
+}
