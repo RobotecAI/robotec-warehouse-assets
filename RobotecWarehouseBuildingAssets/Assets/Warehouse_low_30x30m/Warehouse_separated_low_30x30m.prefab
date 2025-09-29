@@ -7147,24 +7147,7 @@
             "Components": {
                 "EditorDisabledCompositionComponent": {
                     "$type": "EditorDisabledCompositionComponent",
-                    "Id": 266096097570410364,
-                    "DisabledComponents": {
-                        "AZ::Render::EditorMeshComponent": {
-                            "$type": "AZ::Render::EditorMeshComponent",
-                            "Id": 15201223807190915245,
-                            "Controller": {
-                                "Configuration": {
-                                    "ModelAsset": {
-                                        "assetId": {
-                                            "guid": "{FBFAE4DA-A143-58C1-9D23-84514DD91F74}",
-                                            "subId": 272516918
-                                        },
-                                        "assetHint": "warehouse_low_30x30m/models/warehousemodules30x30.fbx.azmodel"
-                                    }
-                                }
-                            }
-                        }
-                    }
+                    "Id": 266096097570410364
                 },
                 "EditorEntityIconComponent": {
                     "$type": "EditorEntityIconComponent",
@@ -7193,111 +7176,7 @@
                 },
                 "EditorPendingCompositionComponent": {
                     "$type": "EditorPendingCompositionComponent",
-                    "Id": 14377485780920972832,
-                    "PendingComponents": {
-                        "EditorMaterialComponent": {
-                            "$type": "EditorMaterialComponent",
-                            "Id": 750823338541147520,
-                            "Controller": {
-                                "Configuration": {
-                                    "materials": [
-                                        {
-                                            "Key": {
-                                                "materialSlotStableId": 29648280
-                                            },
-                                            "Value": {
-                                                "MaterialAsset": {
-                                                    "assetId": {
-                                                        "guid": "{441986D7-79A8-5DC0-BEF9-2E547D5C9CFB}"
-                                                    },
-                                                    "assetHint": "warehouse_low_30x30m/models/materials/warehouseroof.azmaterial"
-                                                }
-                                            }
-                                        },
-                                        {
-                                            "Key": {
-                                                "materialSlotStableId": 331619876
-                                            },
-                                            "Value": {
-                                                "MaterialAsset": {
-                                                    "assetId": {
-                                                        "guid": "{2CDC94F5-2F8D-5DCA-9D21-5A7ED57B5897}"
-                                                    },
-                                                    "assetHint": "warehouse_low_30x30m/models/materials/warehousemodules_corrugatedsteel.azmaterial"
-                                                }
-                                            }
-                                        },
-                                        {
-                                            "Key": {
-                                                "materialSlotStableId": 1222899685
-                                            },
-                                            "Value": {
-                                                "MaterialAsset": {
-                                                    "assetId": {
-                                                        "guid": "{FBFAE4DA-A143-58C1-9D23-84514DD91F74}",
-                                                        "subId": 1222899685
-                                                    },
-                                                    "assetHint": "warehouse_low_30x30m/models/warehousemodules30x30_warehousewindowdoor_9328162930793117669.fbx.azmaterial"
-                                                }
-                                            }
-                                        },
-                                        {
-                                            "Key": {
-                                                "materialSlotStableId": 1530148354
-                                            },
-                                            "Value": {
-                                                "MaterialAsset": {
-                                                    "assetId": {
-                                                        "guid": "{29C7B57A-7155-5E15-B400-3ABE9D223A93}"
-                                                    },
-                                                    "assetHint": "warehouse_low_30x30m/models/materials/warehousefloor.azmaterial"
-                                                }
-                                            }
-                                        },
-                                        {
-                                            "Key": {
-                                                "materialSlotStableId": 2077164227
-                                            },
-                                            "Value": {
-                                                "MaterialAsset": {
-                                                    "assetId": {
-                                                        "guid": "{2A2A2D9D-8CE4-592B-B2B9-00C36789D04B}"
-                                                    },
-                                                    "assetHint": "warehouse_low_30x30m/models/materials/warehousewall.azmaterial"
-                                                }
-                                            }
-                                        },
-                                        {
-                                            "Key": {
-                                                "materialSlotStableId": 2342915785
-                                            },
-                                            "Value": {
-                                                "MaterialAsset": {
-                                                    "assetId": {
-                                                        "guid": "{80AB3521-A377-525A-A496-03BEDF7A57D0}"
-                                                    },
-                                                    "assetHint": "warehouse_low_30x30m/models/materials/warehousemodules_metal.azmaterial"
-                                                }
-                                            }
-                                        },
-                                        {
-                                            "Key": {
-                                                "materialSlotStableId": 2944067477
-                                            },
-                                            "Value": {
-                                                "MaterialAsset": {
-                                                    "assetId": {
-                                                        "guid": "{A5D91CE5-E0CC-5175-9E07-CACD434129B2}"
-                                                    },
-                                                    "assetHint": "warehouse_low_30x30m/models/materials/windowglass.azmaterial"
-                                                }
-                                            }
-                                        }
-                                    ]
-                                }
-                            }
-                        }
-                    }
+                    "Id": 14377485780920972832
                 },
                 "EditorVisibilityComponent": {
                     "$type": "EditorVisibilityComponent",
