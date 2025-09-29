@@ -2133,7 +2133,8 @@
                     "Controller": {
                         "Configuration": {
                             "LightType": 4,
-                            "AttenuationRadius": 31.62277603149414
+                            "AttenuationRadiusMode": 0,
+                            "AttenuationRadius": 20.0
                         }
                     }
                 },
@@ -2253,7 +2254,7 @@
                         "Translate": [
                             -15.0,
                             -15.100000381469727,
-                            -1.0
+                            0.0
                         ]
                     }
                 }
@@ -2504,7 +2505,7 @@
                         "Translate": [
                             -15.0,
                             -15.0,
-                            -1.149999976158142
+                            0.0
                         ]
                     }
                 }
@@ -3535,7 +3536,8 @@
                         "Configuration": {
                             "LightType": 4,
                             "Intensity": 200.0,
-                            "AttenuationRadius": 44.72135925292969
+                            "AttenuationRadiusMode": 0,
+                            "AttenuationRadius": 10.0
                         }
                     }
                 },
@@ -4235,8 +4237,9 @@
                     "Controller": {
                         "Configuration": {
                             "LightType": 4,
-                            "Intensity": 1000.0,
-                            "AttenuationRadius": 100.0
+                            "Intensity": 200.0,
+                            "AttenuationRadiusMode": 0,
+                            "AttenuationRadius": 30.0
                         }
                     }
                 },
@@ -7609,8 +7612,9 @@
                     "Controller": {
                         "Configuration": {
                             "LightType": 4,
-                            "Intensity": 1000.0,
-                            "AttenuationRadius": 100.0
+                            "Intensity": 200.0,
+                            "AttenuationRadiusMode": 0,
+                            "AttenuationRadius": 30.0
                         }
                     }
                 },
@@ -7686,7 +7690,8 @@
                     "Controller": {
                         "Configuration": {
                             "LightType": 4,
-                            "AttenuationRadius": 31.62277603149414
+                            "AttenuationRadiusMode": 0,
+                            "AttenuationRadius": 20.0
                         }
                     }
                 },
@@ -13025,7 +13030,8 @@
                         "Configuration": {
                             "LightType": 4,
                             "Intensity": 200.0,
-                            "AttenuationRadius": 44.72135925292969
+                            "AttenuationRadiusMode": 0,
+                            "AttenuationRadius": 10.0
                         }
                     }
                 },
@@ -13101,7 +13107,8 @@
                     "Controller": {
                         "Configuration": {
                             "LightType": 4,
-                            "AttenuationRadius": 31.62277603149414
+                            "AttenuationRadiusMode": 0,
+                            "AttenuationRadius": 20.0
                         }
                     }
                 },
@@ -14599,7 +14606,8 @@
                     "Controller": {
                         "Configuration": {
                             "LightType": 4,
-                            "AttenuationRadius": 31.62277603149414
+                            "AttenuationRadiusMode": 0,
+                            "AttenuationRadius": 20.0
                         }
                     }
                 },
@@ -15009,7 +15017,8 @@
                     "Controller": {
                         "Configuration": {
                             "LightType": 4,
-                            "AttenuationRadius": 31.62277603149414
+                            "AttenuationRadiusMode": 0,
+                            "AttenuationRadius": 20.0
                         }
                     }
                 },
@@ -16166,7 +16175,8 @@
                     "Controller": {
                         "Configuration": {
                             "LightType": 4,
-                            "AttenuationRadius": 31.62277603149414
+                            "AttenuationRadiusMode": 0,
+                            "AttenuationRadius": 20.0
                         }
                     }
                 },

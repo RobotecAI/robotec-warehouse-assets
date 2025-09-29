@@ -137,8 +137,9 @@
                     "Controller": {
                         "Configuration": {
                             "LightType": 4,
-                            "Intensity": 1000.0,
-                            "AttenuationRadius": 100.0
+                            "Intensity": 200.0,
+                            "AttenuationRadiusMode": 0,
+                            "AttenuationRadius": 30.0
                         }
                     }
                 },
@@ -215,7 +216,8 @@
                         "Configuration": {
                             "LightType": 4,
                             "Intensity": 200.0,
-                            "AttenuationRadius": 44.72135925292969
+                            "AttenuationRadiusMode": 0,
+                            "AttenuationRadius": 10.0
                         }
                     }
                 },
@@ -291,7 +293,8 @@
                     "Controller": {
                         "Configuration": {
                             "LightType": 4,
-                            "AttenuationRadius": 31.62277603149414
+                            "AttenuationRadiusMode": 0,
+                            "AttenuationRadius": 20.0
                         }
                     }
                 },
@@ -418,7 +421,8 @@
                     "Controller": {
                         "Configuration": {
                             "LightType": 4,
-                            "AttenuationRadius": 31.62277603149414
+                            "AttenuationRadiusMode": 0,
+                            "AttenuationRadius": 20.0
                         }
                     }
                 },
@@ -658,7 +662,8 @@
                         "Configuration": {
                             "LightType": 4,
                             "Intensity": 200.0,
-                            "AttenuationRadius": 44.72135925292969
+                            "AttenuationRadiusMode": 0,
+                            "AttenuationRadius": 10.0
                         }
                     }
                 },
@@ -734,7 +739,8 @@
                     "Controller": {
                         "Configuration": {
                             "LightType": 4,
-                            "AttenuationRadius": 31.62277603149414
+                            "AttenuationRadiusMode": 0,
+                            "AttenuationRadius": 20.0
                         }
                     }
                 },
@@ -814,7 +820,8 @@
                     "Controller": {
                         "Configuration": {
                             "LightType": 4,
-                            "AttenuationRadius": 31.62277603149414
+                            "AttenuationRadiusMode": 0,
+                            "AttenuationRadius": 20.0
                         }
                     }
                 },
@@ -894,7 +901,8 @@
                     "Controller": {
                         "Configuration": {
                             "LightType": 4,
-                            "AttenuationRadius": 31.62277603149414
+                            "AttenuationRadiusMode": 0,
+                            "AttenuationRadius": 20.0
                         }
                     }
                 },
@@ -1160,8 +1168,9 @@
                     "Controller": {
                         "Configuration": {
                             "LightType": 4,
-                            "Intensity": 1000.0,
-                            "AttenuationRadius": 100.0
+                            "Intensity": 200.0,
+                            "AttenuationRadiusMode": 0,
+                            "AttenuationRadius": 30.0
                         }
                     }
                 },
@@ -1561,7 +1570,8 @@
                     "Controller": {
                         "Configuration": {
                             "LightType": 4,
-                            "AttenuationRadius": 31.62277603149414
+                            "AttenuationRadiusMode": 0,
+                            "AttenuationRadius": 20.0
                         }
                     }
                 },
