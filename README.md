@@ -25,6 +25,11 @@ Asset gem with payloads for warehouse operations. Includes objects that can be p
 
 ### Assets:
 
+#### CardboardBox01_v00
+![CardboardBox01_v00](RobotecWarehousePayloadAssets/docs/images/assets//CardboardBox01_v00.png)
+
+Features: Dynamic rigid body, collider
+
 #### CardboardBox01_v01
 ![CardboardBox01_v01](RobotecWarehousePayloadAssets/docs/images/assets//CardboardBox01_v01.png)
 
@@ -40,6 +45,26 @@ Features: Dynamic rigid body, colliders
 
 Features: Dynamic rigid body, colliders
 
+#### CardboardBox01_v04
+![CardboardBox01_v04](RobotecWarehousePayloadAssets/docs/images/assets//CardboardBox01_v04.png)
+
+Features: Dynamic rigid body, collider
+
+#### CardboardBox01_v05
+![CardboardBox01_v05](RobotecWarehousePayloadAssets/docs/images/assets//CardboardBox01_v05.png)
+
+Features: Dynamic rigid body, collider
+
+#### CardboardBox01_v06D
+![CardboardBox01_v06D](RobotecWarehousePayloadAssets/docs/images/assets//CardboardBox01_v06D.png)
+
+Features: Dynamic rigid body, collider
+
+#### CardboardBox02_v00
+![CardboardBox02_v00](RobotecWarehousePayloadAssets/docs/images/assets/CardboardBox02_v00.png)
+
+Features: Dynamic rigid body, colliders
+
 #### CardboardBox02_v01
 ![CardboardBox02_v01](RobotecWarehousePayloadAssets/docs/images/assets/CardboardBox02_v01.png)
 
@@ -47,6 +72,16 @@ Features: Dynamic rigid body, colliders
 
 #### CardboardBox02_v02D
 ![CardboardBox02_v02D](RobotecWarehousePayloadAssets/docs/images/assets/CardboardBox02_v02D.png)
+
+Features: Dynamic rigid body, colliders
+
+#### CardboardBox02_v03
+![CardboardBox02_v03](RobotecWarehousePayloadAssets/docs/images/assets/CardboardBox02_v03.png)
+
+Features: Dynamic rigid body, colliders
+
+#### CardboardBox02_v04D
+![CardboardBox02_v04D](RobotecWarehousePayloadAssets/docs/images/assets/CardboardBox02_v04D.png)
 
 Features: Dynamic rigid body, colliders
 
