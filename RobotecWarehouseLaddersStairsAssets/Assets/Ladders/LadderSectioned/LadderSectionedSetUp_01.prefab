@@ -419,7 +419,7 @@
         },
         "Entity_[83795781464721]": {
             "Id": "Entity_[83795781464721]",
-            "Name": "Physics",
+            "Name": "LadderSectionedSetUp_01",
             "Components": {
                 "EditorColliderComponent": {
                     "$type": "EditorColliderComponent",
