@@ -96,12 +96,17 @@
                 "Component_[4260683163372610636]": {
                     "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
                     "Id": 4260683163372610636,
-                    "Parent Entity": "Entity_[16307992219670]",
+                    "Parent Entity": "Entity_[5000009009201]",
                     "Transform Data": {
                         "Translate": [
+                            -0.000194549560546875,
                             0.0,
+                            -2.597135543823242
+                        ],
+                        "Rotate": [
+                            180.0,
                             0.0,
-                            2.7533979415893555
+                            180.0
                         ],
                         "UniformScale": 0.800000011920929
                     }
@@ -190,8 +195,6 @@
                     "Child Entity Order": [
                         "Entity_[4944174434353]",
                         "Entity_[2364365366857]",
-                        "Entity_[16316582154262]",
-                        "Entity_[16303697252374]",
                         "Entity_[16312287186966]"
                     ]
                 },
@@ -224,9 +227,9 @@
                     "Controller": {
                         "Configuration": {
                             "LightType": 1,
-                            "Intensity": 500.0,
+                            "Intensity": 800.0,
                             "AttenuationRadiusMode": 0,
-                            "AttenuationRadius": 0.6000000238418579
+                            "AttenuationRadius": 0.5
                         }
                     }
                 },
@@ -280,87 +283,14 @@
                 "TransformComponent": {
                     "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
                     "Id": 7304454679242705596,
-                    "Parent Entity": "Entity_[16307992219670]"
-                }
-            }
-        },
-        "Entity_[16316582154262]": {
-            "Id": "Entity_[16316582154262]",
-            "Name": "CeilingAmbient",
-            "Components": {
-                "Component_[1095037194436951656]": {
-                    "$type": "EditorEntityIconComponent",
-                    "Id": 1095037194436951656
-                },
-                "Component_[12212508019327560574]": {
-                    "$type": "AZ::Render::EditorAreaLightComponent",
-                    "Id": 12212508019327560574,
-                    "Controller": {
-                        "Configuration": {
-                            "LightType": 4,
-                            "Intensity": 5.0,
-                            "AttenuationRadiusMode": 0,
-                            "AttenuationRadius": 5.0,
-                            "InnerShutterAngleDegrees": 0.5,
-                            "OuterShutterAngleDegrees": 90.0
-                        }
-                    }
-                },
-                "Component_[13594745669572308455]": {
-                    "$type": "EditorVisibilityComponent",
-                    "Id": 13594745669572308455
-                },
-                "Component_[14818294980584958136]": {
-                    "$type": "EditorEntitySortComponent",
-                    "Id": 14818294980584958136
-                },
-                "Component_[16422995096029274413]": {
-                    "$type": "LmbrCentral::EditorQuadShapeComponent",
-                    "Id": 16422995096029274413,
-                    "ShapeColor": [
-                        1.0,
-                        1.0,
-                        1.0,
-                        1.0
-                    ],
-                    "QuadShape": {
-                        "Configuration": {
-                            "Width": 2.0,
-                            "Height": 2.0
-                        }
-                    }
-                },
-                "Component_[18241054055546400954]": {
-                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
-                    "Id": 18241054055546400954,
                     "Parent Entity": "Entity_[16307992219670]",
                     "Transform Data": {
                         "Translate": [
                             0.0,
                             0.0,
-                            -0.28542327880859375
+                            0.15366458892822266
                         ]
                     }
-                },
-                "Component_[18361209374708119339]": {
-                    "$type": "EditorPendingCompositionComponent",
-                    "Id": 18361209374708119339
-                },
-                "Component_[4809116713956597316]": {
-                    "$type": "EditorInspectorComponent",
-                    "Id": 4809116713956597316
-                },
-                "Component_[5955608983902780874]": {
-                    "$type": "EditorDisabledCompositionComponent",
-                    "Id": 5955608983902780874
-                },
-                "Component_[7245391332595000583]": {
-                    "$type": "EditorLockComponent",
-                    "Id": 7245391332595000583
-                },
-                "Component_[8728350275649358967]": {
-                    "$type": "EditorOnlyEntityComponent",
-                    "Id": 8728350275649358967
                 }
             }
         },
@@ -374,8 +304,9 @@
                     "Controller": {
                         "Configuration": {
                             "LightType": 6,
+                            "Intensity": 40.0,
                             "AttenuationRadiusMode": 0,
-                            "AttenuationRadius": 1.7000000476837158,
+                            "AttenuationRadius": 15.0,
                             "EnableShutters": true,
                             "InnerShutterAngleDegrees": 79.26000213623047,
                             "OuterShutterAngleDegrees": 90.0,
@@ -449,7 +380,8 @@
                         "Configuration": {
                             "LightType": 2,
                             "Intensity": 1100.0,
-                            "AttenuationRadius": 104.8808822631836,
+                            "AttenuationRadiusMode": 0,
+                            "AttenuationRadius": 20.0,
                             "EnableShutters": true,
                             "InnerShutterAngleDegrees": 73.88999938964844,
                             "OuterShutterAngleDegrees": 90.0,
@@ -544,6 +476,7 @@
                     "$type": "EditorEntitySortComponent",
                     "Id": 7517548720450351921,
                     "Child Entity Order": [
+                        "Entity_[16303697252374]",
                         "Entity_[16307992219670]"
                     ]
                 },
