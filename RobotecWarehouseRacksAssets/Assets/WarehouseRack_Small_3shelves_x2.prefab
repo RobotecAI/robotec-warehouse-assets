@@ -1,0 +1,260 @@
+{
+    "ContainerEntity": {
+        "Id": "ContainerEntity",
+        "Name": "WarehouseRack_Small_3shelves_x2",
+        "Components": {
+            "EditorDisabledCompositionComponent": {
+                "$type": "EditorDisabledCompositionComponent",
+                "Id": 3960081685229993355
+            },
+            "EditorEntityIconComponent": {
+                "$type": "EditorEntityIconComponent",
+                "Id": 12336535156986999623
+            },
+            "EditorEntitySortComponent": {
+                "$type": "EditorEntitySortComponent",
+                "Id": 18133422697706607920,
+                "Child Entity Order": [
+                    "Entity_[4490337946574]"
+                ]
+            },
+            "EditorInspectorComponent": {
+                "$type": "EditorInspectorComponent",
+                "Id": 171542269517401693
+            },
+            "EditorLockComponent": {
+                "$type": "EditorLockComponent",
+                "Id": 13389434743616120449
+            },
+            "EditorOnlyEntityComponent": {
+                "$type": "EditorOnlyEntityComponent",
+                "Id": 537561918753101903
+            },
+            "EditorPendingCompositionComponent": {
+                "$type": "EditorPendingCompositionComponent",
+                "Id": 17650999110104574229
+            },
+            "EditorPrefabComponent": {
+                "$type": "EditorPrefabComponent",
+                "Id": 205583345049153461
+            },
+            "EditorVisibilityComponent": {
+                "$type": "EditorVisibilityComponent",
+                "Id": 13987143677656717350
+            },
+            "TransformComponent": {
+                "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                "Id": 3093341738565960615,
+                "Parent Entity": ""
+            }
+        }
+    },
+    "Entities": {
+        "Entity_[4490337946574]": {
+            "Id": "Entity_[4490337946574]",
+            "Name": "WarehouseRack_Small_3shelves_x2",
+            "Components": {
+                "EditorDisabledCompositionComponent": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 14444553089998774124
+                },
+                "EditorEntityIconComponent": {
+                    "$type": "EditorEntityIconComponent",
+                    "Id": 2018401072049439659
+                },
+                "EditorEntitySortComponent": {
+                    "$type": "EditorEntitySortComponent",
+                    "Id": 908167768286015598,
+                    "Child Entity Order": [
+                        "Entity_[4494632913870]"
+                    ]
+                },
+                "EditorInspectorComponent": {
+                    "$type": "EditorInspectorComponent",
+                    "Id": 7411964377872449761
+                },
+                "EditorLockComponent": {
+                    "$type": "EditorLockComponent",
+                    "Id": 3955928012127727797
+                },
+                "EditorOnlyEntityComponent": {
+                    "$type": "EditorOnlyEntityComponent",
+                    "Id": 8383015220782866466
+                },
+                "EditorPendingCompositionComponent": {
+                    "$type": "EditorPendingCompositionComponent",
+                    "Id": 4191438525514087068
+                },
+                "EditorVisibilityComponent": {
+                    "$type": "EditorVisibilityComponent",
+                    "Id": 3911314435576423804
+                },
+                "TransformComponent": {
+                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                    "Id": 16741956273509301119,
+                    "Parent Entity": "ContainerEntity"
+                }
+            }
+        },
+        "Entity_[4494632913870]": {
+            "Id": "Entity_[4494632913870]",
+            "Name": "WarehouseRack_Small_3shelves_x2_fbx",
+            "Components": {
+                "AZ::Render::EditorMeshComponent": {
+                    "$type": "AZ::Render::EditorMeshComponent",
+                    "Id": 13564966511427007207,
+                    "Controller": {
+                        "Configuration": {
+                            "ModelAsset": {
+                                "assetId": {
+                                    "guid": "{F79B5016-FE4C-5B17-A4F7-3977DF8BE139}",
+                                    "subId": 279443408
+                                },
+                                "assetHint": "models/warehouserack_small_3shelves_x2.fbx.azmodel"
+                            }
+                        }
+                    }
+                },
+                "EditorDisabledCompositionComponent": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 14997711289129984380
+                },
+                "EditorEntityIconComponent": {
+                    "$type": "EditorEntityIconComponent",
+                    "Id": 1987221460462664017
+                },
+                "EditorEntitySortComponent": {
+                    "$type": "EditorEntitySortComponent",
+                    "Id": 9136800219560933421
+                },
+                "EditorInspectorComponent": {
+                    "$type": "EditorInspectorComponent",
+                    "Id": 3191687105454924741,
+                    "ComponentOrderEntryArray": [
+                        {
+                            "ComponentId": 15841374117022826863
+                        },
+                        {
+                            "ComponentId": 18128723510276377862,
+                            "SortIndex": 1
+                        },
+                        {
+                            "ComponentId": 3191687105454924741,
+                            "SortIndex": 2
+                        },
+                        {
+                            "ComponentId": 9136800219560933421,
+                            "SortIndex": 3
+                        },
+                        {
+                            "ComponentId": 12727816984601435259,
+                            "SortIndex": 4
+                        },
+                        {
+                            "ComponentId": 10104969808028813850,
+                            "SortIndex": 5
+                        },
+                        {
+                            "ComponentId": 16923508709108465703,
+                            "SortIndex": 6
+                        },
+                        {
+                            "ComponentId": 1987221460462664017,
+                            "SortIndex": 7
+                        },
+                        {
+                            "ComponentId": 14997711289129984380,
+                            "SortIndex": 8
+                        },
+                        {
+                            "ComponentId": 13564966511427007207,
+                            "SortIndex": 9
+                        }
+                    ]
+                },
+                "EditorLockComponent": {
+                    "$type": "EditorLockComponent",
+                    "Id": 10104969808028813850
+                },
+                "EditorMaterialComponent": {
+                    "$type": "EditorMaterialComponent",
+                    "Id": 15694868939289509104,
+                    "Controller": {
+                        "Configuration": {
+                            "materials": [
+                                {
+                                    "Key": {
+                                        "materialSlotStableId": 3664025114
+                                    },
+                                    "Value": {
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{2A9780A7-6338-58B5-865A-88293B99BDAC}"
+                                            },
+                                            "assetHint": "models/materials/warehouserack_small_x2.azmaterial"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                "EditorMeshColliderComponent": {
+                    "$type": "EditorMeshColliderComponent",
+                    "Id": 1879235936861150633,
+                    "ColliderConfiguration": {
+                        "MaterialSlots": {
+                            "Slots": [
+                                {
+                                    "Name": "StorageRack01"
+                                }
+                            ]
+                        }
+                    },
+                    "ShapeConfiguration": {
+                        "PhysicsAsset": {
+                            "Asset": {
+                                "assetId": {
+                                    "guid": "{F79B5016-FE4C-5B17-A4F7-3977DF8BE139}",
+                                    "subId": 3587879913
+                                },
+                                "assetHint": "models/warehouserack_small_3shelves_x2.fbx.pxmesh"
+                            },
+                            "Configuration": {
+                                "PhysicsAsset": {
+                                    "assetId": {
+                                        "guid": "{F79B5016-FE4C-5B17-A4F7-3977DF8BE139}",
+                                        "subId": 3587879913
+                                    },
+                                    "loadBehavior": "QueueLoad",
+                                    "assetHint": "models/warehouserack_small_3shelves_x2.fbx.pxmesh"
+                                }
+                            }
+                        }
+                    }
+                },
+                "EditorOnlyEntityComponent": {
+                    "$type": "EditorOnlyEntityComponent",
+                    "Id": 18128723510276377862
+                },
+                "EditorPendingCompositionComponent": {
+                    "$type": "EditorPendingCompositionComponent",
+                    "Id": 16923508709108465703
+                },
+                "EditorStaticRigidBodyComponent": {
+                    "$type": "EditorStaticRigidBodyComponent",
+                    "Id": 766385615792674384
+                },
+                "EditorVisibilityComponent": {
+                    "$type": "EditorVisibilityComponent",
+                    "Id": 12727816984601435259
+                },
+                "TransformComponent": {
+                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                    "Id": 15841374117022826863,
+                    "Parent Entity": "Entity_[4490337946574]"
+                }
+            }
+        }
+    }
+}
