@@ -148,7 +148,20 @@ Features: Dynamic rigid body, colliders
 ## RobotecWarehouseRacksAssets
 Asset gem with warehouse racks
 
+#### WarehouseRack_x3
+![WarehouseRack_x3](RobotecWarehouseRacksAssets/docs/images/assets/WarehouseRack_x3.png)
 
+High-rise storage rack. A set of 3 double racks. Features static rigid body and colliders.
+
+#### WarehouseRack_Small_x2
+![WarehouseRack_Small_x2](RobotecWarehouseRacksAssets/docs/images/assets/WarehouseRack_Small_x2.png)
+
+Small storage rack with 4 shelves. A set of 2 small racks. Features static rigid body and colliders.
+
+#### WarehouseRack_Small_3shelves_x2
+![WarehouseRack_Small_3shelves_x2](RobotecWarehouseRacksAssets/docs/images/assets/WarehouseRack_Small_3shelves_x2.png)
+
+Small storage rack with 3 shelves. A set of 2 small racks. Features static rigid body and colliders.
 
 # Type of assets
 

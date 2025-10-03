@@ -1,0 +1,178 @@
+{
+    "values": [
+        {
+            "$type": "{5B03C8E6-8CEE-4DA0-A7FA-CD88689DD45B} MeshGroup",
+            "id": "{9018326C-81C9-5439-8B63-F0917E9235AE}",
+            "name": "WarehouseRack_Small_3shelves_x2",
+            "NodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode.StorageRack01_LOD2"
+                ],
+                "unselectedNodes": [
+                    {},
+                    "RootNode",
+                    "RootNode.StorageRack01_LOD0",
+                    "RootNode.StorageRack01_LOD1"
+                ]
+            },
+            "PhysicsMaterialSlots": {
+                "Slots": [
+                    {
+                        "Name": "StorageRack01"
+                    }
+                ]
+            }
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "WarehouseRack_Small_3shelves_x2",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    {},
+                    "RootNode",
+                    "RootNode.StorageRack01_LOD0"
+                ],
+                "unselectedNodes": [
+                    "RootNode.StorageRack01_LOD1",
+                    "RootNode.StorageRack01_LOD2"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "{6E796AC8-1484-4909-860A-6D3F22A7346F} LodRule",
+                        "nodeSelectionList": [
+                            {
+                                "selectedNodes": [
+                                    {},
+                                    "RootNode",
+                                    "RootNode.StorageRack01_LOD1"
+                                ],
+                                "unselectedNodes": [
+                                    "RootNode.StorageRack01_LOD0",
+                                    "RootNode.StorageRack01_LOD2"
+                                ]
+                            },
+                            {
+                                "selectedNodes": [
+                                    {},
+                                    "RootNode",
+                                    "RootNode.StorageRack01_LOD2"
+                                ],
+                                "unselectedNodes": [
+                                    "RootNode.StorageRack01_LOD0",
+                                    "RootNode.StorageRack01_LOD1"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "$type": "MaterialRule"
+                    }
+                ]
+            },
+            "id": "{5E3FCDAB-38BD-581E-B0A4-95EE4B29A6FB}"
+        },
+        {
+            "$type": "{41DCBEAB-203C-4A05-96FA-98E1D8A96FA1} ImportGroup"
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "default_WarehouseRack_Small_3shelves_x2_776B17AD_E92E_5298_81D7_0282762FFBD1_",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode.StorageRack01_LOD0"
+                ],
+                "unselectedNodes": [
+                    "RootNode.StorageRack01_LOD1",
+                    "RootNode.StorageRack01_LOD2"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "ProceduralMeshGroupRule"
+                    },
+                    {
+                        "$type": "UnmodifiableRule"
+                    },
+                    {
+                        "$type": "CoordinateSystemRule",
+                        "useAdvancedData": true
+                    },
+                    {
+                        "$type": "{6E796AC8-1484-4909-860A-6D3F22A7346F} LodRule"
+                    }
+                ]
+            },
+            "id": "{776B17AD-E92E-5298-81D7-0282762FFBD1}"
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "default_WarehouseRack_Small_3shelves_x2_EA4CB74E_98ED_527C_9331_ACC3899E2948_",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode.StorageRack01_LOD1"
+                ],
+                "unselectedNodes": [
+                    "RootNode.StorageRack01_LOD0",
+                    "RootNode.StorageRack01_LOD2"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "ProceduralMeshGroupRule"
+                    },
+                    {
+                        "$type": "UnmodifiableRule"
+                    },
+                    {
+                        "$type": "CoordinateSystemRule",
+                        "useAdvancedData": true
+                    },
+                    {
+                        "$type": "{6E796AC8-1484-4909-860A-6D3F22A7346F} LodRule"
+                    }
+                ]
+            },
+            "id": "{EA4CB74E-98ED-527C-9331-ACC3899E2948}"
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "default_WarehouseRack_Small_3shelves_x2_D38A83C7_DE99_56B8_BE0E_691BBCF06C03_",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode.StorageRack01_LOD2"
+                ],
+                "unselectedNodes": [
+                    "RootNode.StorageRack01_LOD0",
+                    "RootNode.StorageRack01_LOD1"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "ProceduralMeshGroupRule"
+                    },
+                    {
+                        "$type": "UnmodifiableRule"
+                    },
+                    {
+                        "$type": "CoordinateSystemRule",
+                        "useAdvancedData": true
+                    },
+                    {
+                        "$type": "{6E796AC8-1484-4909-860A-6D3F22A7346F} LodRule"
+                    }
+                ]
+            },
+            "id": "{D38A83C7-DE99-56B8-BE0E-691BBCF06C03}"
+        },
+        {
+            "$type": "PrefabGroup",
+            "name": "Models/WarehouseRack_Small_3shelves_x2_fbx.procprefab",
+            "id": "{C8AF9AD4-61AE-51D1-A97D-DF4978C4F8F8}"
+        }
+    ]
+}
