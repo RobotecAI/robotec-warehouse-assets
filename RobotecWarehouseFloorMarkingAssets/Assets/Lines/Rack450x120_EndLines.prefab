@@ -66,9 +66,9 @@
                     "$type": "EditorEntitySortComponent",
                     "Id": 3041619073744902650,
                     "Child Entity Order": [
-                        "Instance_[115763786817177]/ContainerEntity",
-                        "Instance_[132514159271577]/ContainerEntity",
-                        "Instance_[136027442519705]/ContainerEntity"
+                        "Instance_[1194533971813068]/ContainerEntity",
+                        "Instance_[1195307065926348]/ContainerEntity",
+                        "Instance_[1189465910403788]/ContainerEntity"
                     ]
                 },
                 "EditorInspectorComponent": {
@@ -100,12 +100,12 @@
         }
     },
     "Instances": {
-        "Instance_[115763786817177]": {
-            "Source": "Lines/Yellow_line_straight2.prefab",
+        "Instance_[1189465910403788]": {
+            "Source": "Lines/LineYelowStraight2_2m.prefab",
             "Patches": [
                 {
                     "op": "replace",
-                    "path": "/Entities/Entity_[25049782558361]/Components/EditorNonUniformScaleComponent/NonUniformScale/1",
+                    "path": "/Entities/Entity_[1035749030879948]/Components/EditorNonUniformScaleComponent/NonUniformScale/1",
                     "value": 0.5080000162124634
                 },
                 {
@@ -115,23 +115,18 @@
                 },
                 {
                     "op": "replace",
-                    "path": "/ContainerEntity/Components/TransformComponent/Transform Data/Translate/0",
-                    "value": -0.0000019073486328125
-                },
-                {
-                    "op": "replace",
                     "path": "/ContainerEntity/Components/TransformComponent/Transform Data/Translate/1",
-                    "value": 2.4402427673339844
+                    "value": 2.4466915130615234
                 },
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/TransformComponent/Transform Data/Rotate/2",
-                    "value": -89.9999771118164
+                    "value": -89.99994659423828
                 }
             ]
         },
-        "Instance_[132514159271577]": {
-            "Source": "Lines/Yellow_line_turn1.prefab",
+        "Instance_[1194533971813068]": {
+            "Source": "Lines/LineYellow_Corner1.prefab",
             "Patches": [
                 {
                     "op": "replace",
@@ -146,12 +141,12 @@
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/TransformComponent/Transform Data/Translate/1",
-                    "value": 2.3712005615234375
+                    "value": 2.3778915405273438
                 }
             ]
         },
-        "Instance_[136027442519705]": {
-            "Source": "Lines/Yellow_line_turn2.prefab",
+        "Instance_[1195307065926348]": {
+            "Source": "Lines/LineYellow_Corner2.prefab",
             "Patches": [
                 {
                     "op": "replace",
@@ -161,12 +156,12 @@
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/TransformComponent/Transform Data/Translate/0",
-                    "value": 0.6299992203712463
+                    "value": 0.6299991607666016
                 },
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/TransformComponent/Transform Data/Translate/1",
-                    "value": 2.3712005615234375
+                    "value": 2.3778915405273438
                 }
             ]
         }

@@ -66,10 +66,8 @@
                     "$type": "EditorEntitySortComponent",
                     "Id": 1841222885572879311,
                     "Child Entity Order": [
-                        "Instance_[28404152016537]/ContainerEntity",
-                        "Instance_[25036897656473]/ContainerEntity",
-                        "Instance_[46640583155353]/ContainerEntity",
-                        "Instance_[46644878122649]/ContainerEntity"
+                        "Instance_[1138347209646796]/ContainerEntity",
+                        "Instance_[1157330965095116]/ContainerEntity"
                     ]
                 },
                 "EditorInspectorComponent": {
@@ -101,13 +99,13 @@
         }
     },
     "Instances": {
-        "Instance_[25036897656473]": {
-            "Source": "Lines/Yellow_line_straight2.prefab",
+        "Instance_[1138347209646796]": {
+            "Source": "Lines/LineYelowStraight1_2m.prefab",
             "Patches": [
                 {
                     "op": "replace",
-                    "path": "/Entities/Entity_[25049782558361]/Components/EditorNonUniformScaleComponent/NonUniformScale/1",
-                    "value": 1.0549999475479126
+                    "path": "/Entities/Entity_[1035663131534028]/Components/EditorNonUniformScaleComponent/NonUniformScale/1",
+                    "value": 1.128000020980835
                 },
                 {
                     "op": "replace",
@@ -122,22 +120,17 @@
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/TransformComponent/Transform Data/Translate/1",
-                    "value": 1.1966056823730469
-                },
-                {
-                    "op": "replace",
-                    "path": "/ContainerEntity/Components/TransformComponent/Transform Data/Translate/2",
-                    "value": 7.152557373046875e-7
+                    "value": 1.127500057220459
                 }
             ]
         },
-        "Instance_[28404152016537]": {
-            "Source": "Lines/Yellow_line_straight1.prefab",
+        "Instance_[1157330965095116]": {
+            "Source": "Lines/LineYelowStraight2_2m.prefab",
             "Patches": [
                 {
                     "op": "replace",
-                    "path": "/Entities/Entity_[479150355860346]/Components/EditorNonUniformScaleComponent/NonUniformScale/1",
-                    "value": 1.2000000476837158
+                    "path": "/Entities/Entity_[1035749030879948]/Components/EditorNonUniformScaleComponent/NonUniformScale/1",
+                    "value": 1.128000020980835
                 },
                 {
                     "op": "replace",
@@ -152,22 +145,17 @@
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/TransformComponent/Transform Data/Translate/1",
-                    "value": -1.058004379272461
-                },
-                {
-                    "op": "replace",
-                    "path": "/ContainerEntity/Components/TransformComponent/Transform Data/Translate/2",
-                    "value": 8.344650268554688e-7
+                    "value": -1.127500057220459
                 }
             ]
         },
-        "Instance_[46640583155353]": {
-            "Source": "Lines/Yellow_line_straight1.prefab",
+        "Instance_[1160165643510476]": {
+            "Source": "Lines/LineYelowStraight1_2m.prefab",
             "Patches": [
                 {
                     "op": "replace",
-                    "path": "/Entities/Entity_[479150355860346]/Components/EditorNonUniformScaleComponent/NonUniformScale/1",
-                    "value": 1.2000000476837158
+                    "path": "/Entities/Entity_[1035663131534028]/Components/EditorNonUniformScaleComponent/NonUniformScale/1",
+                    "value": 1.128000020980835
                 },
                 {
                     "op": "replace",
@@ -182,22 +170,17 @@
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/TransformComponent/Transform Data/Translate/1",
-                    "value": -1.058004379272461
-                },
-                {
-                    "op": "replace",
-                    "path": "/ContainerEntity/Components/TransformComponent/Transform Data/Translate/2",
-                    "value": 8.344650268554688e-7
+                    "value": 1.127500057220459
                 }
             ]
         },
-        "Instance_[46644878122649]": {
-            "Source": "Lines/Yellow_line_straight2.prefab",
+        "Instance_[1160169938477772]": {
+            "Source": "Lines/LineYelowStraight2_2m.prefab",
             "Patches": [
                 {
                     "op": "replace",
-                    "path": "/Entities/Entity_[25049782558361]/Components/EditorNonUniformScaleComponent/NonUniformScale/1",
-                    "value": 1.0549999475479126
+                    "path": "/Entities/Entity_[1035749030879948]/Components/EditorNonUniformScaleComponent/NonUniformScale/1",
+                    "value": 1.128000020980835
                 },
                 {
                     "op": "replace",
@@ -212,12 +195,7 @@
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/TransformComponent/Transform Data/Translate/1",
-                    "value": 1.1966056823730469
-                },
-                {
-                    "op": "replace",
-                    "path": "/ContainerEntity/Components/TransformComponent/Transform Data/Translate/2",
-                    "value": 7.152557373046875e-7
+                    "value": -1.127500057220459
                 }
             ]
         }
