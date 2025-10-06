@@ -45,7 +45,14 @@
             "TransformComponent": {
                 "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
                 "Id": 8281765526692450318,
-                "Parent Entity": ""
+                "Parent Entity": "",
+                "Transform Data": {
+                    "Translate": [
+                        1.3777879476547241,
+                        0.0,
+                        0.0
+                    ]
+                }
             }
         }
     },
@@ -130,7 +137,14 @@
                         "MaterialSlots": {
                             "Slots": [
                                 {
-                                    "Name": "ConsumerGoods02_v00"
+                                    "Name": "ConsumerGoods02_v00",
+                                    "MaterialAsset": {
+                                        "assetId": {
+                                            "guid": "{81A623F6-8733-5AE7-91A5-761CE9321B60}",
+                                            "subId": 1
+                                        },
+                                        "assetHint": "physicsmaterials/cardboardbox.physicsmaterial"
+                                    }
                                 }
                             ]
                         }
