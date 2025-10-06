@@ -269,8 +269,7 @@
                                         "MaterialAsset": {
                                             "assetId": {
                                                 "guid": "{9117D346-2869-540A-8E94-1296BB6C87CA}"
-                                            },
-                                            "assetHint": "consumergoods/models/materials/consumergoods01_v00.azmaterial"
+                                            }
                                         }
                                     }
                                 }

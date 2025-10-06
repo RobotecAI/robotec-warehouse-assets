@@ -249,35 +249,18 @@
                 },
                 "EditorMaterialComponent": {
                     "$type": "EditorMaterialComponent",
-                    "Id": 3488258310349369862,
+                    "Id": 238357042957033462,
                     "Controller": {
                         "Configuration": {
-                            "materials": [
-                                {
-                                    "Key": {},
-                                    "Value": {
-                                        "MaterialAsset": {
-                                            "assetId": {
-                                                "guid": "{96F4BCF0-8C01-5546-944D-B434EF4E778C}"
-                                            },
-                                            "assetHint": "cunsomergoods/models/materials/plasticfoil01.azmaterial"
-                                        }
-                                    }
-                                },
-                                {
-                                    "Key": {
-                                        "materialSlotStableId": 2886629833
-                                    },
-                                    "Value": {
-                                        "MaterialAsset": {
-                                            "assetId": {
-                                                "guid": "{0144D783-6034-536A-94A1-277AFBB07159}"
-                                            },
-                                            "assetHint": "consumergoods/models/materials/plasticfoil01.azmaterial"
+                            "materials": {
+                                "{}": {
+                                    "MaterialAsset": {
+                                        "assetId": {
+                                            "guid": "{0144D783-6034-536A-94A1-277AFBB07159}"
                                         }
                                     }
                                 }
-                            ]
+                            }
                         }
                     }
                 },

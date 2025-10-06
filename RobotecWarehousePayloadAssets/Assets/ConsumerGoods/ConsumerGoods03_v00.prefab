@@ -250,7 +250,7 @@
                 },
                 "EditorMaterialComponent": {
                     "$type": "EditorMaterialComponent",
-                    "Id": 2826694265293550382,
+                    "Id": 5003508904273394958,
                     "Controller": {
                         "Configuration": {
                             "materials": [
@@ -262,22 +262,7 @@
                                         "MaterialAsset": {
                                             "assetId": {
                                                 "guid": "{F6D7048E-1058-5B75-9397-C8EC49DD78EA}"
-                                            },
-                                            "assetHint": "consumergoods/models/materials/consumergoods03_v00.azmaterial"
-                                        }
-                                    }
-                                },
-                                {
-                                    "Key": {
-                                        "lodIndex": 0,
-                                        "materialSlotStableId": 3183432685
-                                    },
-                                    "Value": {
-                                        "MaterialAsset": {
-                                            "assetId": {
-                                                "guid": "{7A537951-8438-5315-A0F9-F5A8F5302713}"
-                                            },
-                                            "assetHint": "cunsomergoods/models/materials/consumergoods03_v00.azmaterial"
+                                            }
                                         }
                                     }
                                 }
