@@ -6,10 +6,13 @@
             "name": "ConsumerGoods02_set01_Foil",
             "NodeSelectionList": {
                 "selectedNodes": [
-                    "RootNode.ConsumerGoods02_set01_Foil"
+                    "RootNode.ConsumerGoods02_set01_Foil",
+                    "RootNode.ConsumerGoods02_set01_Foil.PlasticFoil01",
+                    "RootNode.ConsumerGoods02_set01_Foil.UVMap",
+                    "RootNode.ConsumerGoods02_set01_Foil.custom_properties",
+                    "RootNode.ConsumerGoods02_set01_Foil.transform"
                 ],
                 "unselectedNodes": [
-                    {},
                     "RootNode"
                 ]
             },
@@ -17,7 +20,14 @@
             "PhysicsMaterialSlots": {
                 "Slots": [
                     {
-                        "Name": "PlasticFoil01"
+                        "Name": "PlasticFoil01",
+                        "MaterialAsset": {
+                            "assetId": {
+                                "guid": "{9E87BE25-EC64-5A5D-B4D0-232E0FB3C379}",
+                                "subId": 1
+                            },
+                            "assetHint": "physicsmaterials/foilwrappedbox.physicsmaterial"
+                        }
                     }
                 ]
             }
@@ -27,9 +37,12 @@
             "name": "ConsumerGoods02_set01_Foil",
             "nodeSelectionList": {
                 "selectedNodes": [
-                    {},
                     "RootNode",
-                    "RootNode.ConsumerGoods02_set01_Foil"
+                    "RootNode.ConsumerGoods02_set01_Foil",
+                    "RootNode.ConsumerGoods02_set01_Foil.PlasticFoil01",
+                    "RootNode.ConsumerGoods02_set01_Foil.UVMap",
+                    "RootNode.ConsumerGoods02_set01_Foil.custom_properties",
+                    "RootNode.ConsumerGoods02_set01_Foil.transform"
                 ]
             },
             "rules": {

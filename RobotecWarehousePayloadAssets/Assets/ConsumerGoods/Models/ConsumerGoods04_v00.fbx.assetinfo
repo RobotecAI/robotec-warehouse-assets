@@ -6,19 +6,33 @@
             "name": "ConsumerGoods04_v00",
             "NodeSelectionList": {
                 "selectedNodes": [
-                    "RootNode.ConsumerGoods04_v00_LOD1"
+                    "RootNode.ConsumerGoods04_v00_LOD1",
+                    "RootNode.ConsumerGoods04_v00_LOD1.ConsumerGoods04_v00",
+                    "RootNode.ConsumerGoods04_v00_LOD1.UVMap",
+                    "RootNode.ConsumerGoods04_v00_LOD1.custom_properties",
+                    "RootNode.ConsumerGoods04_v00_LOD1.transform"
                 ],
                 "unselectedNodes": [
-                    {},
                     "RootNode",
-                    "RootNode.ConsumerGoods04_v00_LOD0"
+                    "RootNode.ConsumerGoods04_v00_LOD0",
+                    "RootNode.ConsumerGoods04_v00_LOD0.ConsumerGoods04_v00",
+                    "RootNode.ConsumerGoods04_v00_LOD0.UVMap",
+                    "RootNode.ConsumerGoods04_v00_LOD0.custom_properties",
+                    "RootNode.ConsumerGoods04_v00_LOD0.transform"
                 ]
             },
             "export method": 1,
             "PhysicsMaterialSlots": {
                 "Slots": [
                     {
-                        "Name": "ConsumerGoods04_v00"
+                        "Name": "ConsumerGoods04_v00",
+                        "MaterialAsset": {
+                            "assetId": {
+                                "guid": "{81A623F6-8733-5AE7-91A5-761CE9321B60}",
+                                "subId": 1
+                            },
+                            "assetHint": "physicsmaterials/cardboardbox.physicsmaterial"
+                        }
                     }
                 ]
             }
@@ -28,12 +42,19 @@
             "name": "ConsumerGoods04_v00",
             "nodeSelectionList": {
                 "selectedNodes": [
-                    {},
                     "RootNode",
-                    "RootNode.ConsumerGoods04_v00_LOD0"
+                    "RootNode.ConsumerGoods04_v00_LOD0",
+                    "RootNode.ConsumerGoods04_v00_LOD0.ConsumerGoods04_v00",
+                    "RootNode.ConsumerGoods04_v00_LOD0.UVMap",
+                    "RootNode.ConsumerGoods04_v00_LOD0.custom_properties",
+                    "RootNode.ConsumerGoods04_v00_LOD0.transform"
                 ],
                 "unselectedNodes": [
-                    "RootNode.ConsumerGoods04_v00_LOD1"
+                    "RootNode.ConsumerGoods04_v00_LOD1",
+                    "RootNode.ConsumerGoods04_v00_LOD1.ConsumerGoods04_v00",
+                    "RootNode.ConsumerGoods04_v00_LOD1.UVMap",
+                    "RootNode.ConsumerGoods04_v00_LOD1.custom_properties",
+                    "RootNode.ConsumerGoods04_v00_LOD1.transform"
                 ]
             },
             "rules": {
@@ -43,12 +64,19 @@
                         "nodeSelectionList": [
                             {
                                 "selectedNodes": [
-                                    {},
                                     "RootNode",
-                                    "RootNode.ConsumerGoods04_v00_LOD1"
+                                    "RootNode.ConsumerGoods04_v00_LOD1",
+                                    "RootNode.ConsumerGoods04_v00_LOD1.ConsumerGoods04_v00",
+                                    "RootNode.ConsumerGoods04_v00_LOD1.UVMap",
+                                    "RootNode.ConsumerGoods04_v00_LOD1.custom_properties",
+                                    "RootNode.ConsumerGoods04_v00_LOD1.transform"
                                 ],
                                 "unselectedNodes": [
-                                    "RootNode.ConsumerGoods04_v00_LOD0"
+                                    "RootNode.ConsumerGoods04_v00_LOD0",
+                                    "RootNode.ConsumerGoods04_v00_LOD0.ConsumerGoods04_v00",
+                                    "RootNode.ConsumerGoods04_v00_LOD0.UVMap",
+                                    "RootNode.ConsumerGoods04_v00_LOD0.custom_properties",
+                                    "RootNode.ConsumerGoods04_v00_LOD0.transform"
                                 ]
                             }
                         ]

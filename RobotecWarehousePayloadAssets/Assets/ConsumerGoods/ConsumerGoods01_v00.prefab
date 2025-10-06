@@ -130,7 +130,14 @@
                         "MaterialSlots": {
                             "Slots": [
                                 {
-                                    "Name": "ConsumerGoods01_v00"
+                                    "Name": "ConsumerGoods01_v00",
+                                    "MaterialAsset": {
+                                        "assetId": {
+                                            "guid": "{81A623F6-8733-5AE7-91A5-761CE9321B60}",
+                                            "subId": 1
+                                        },
+                                        "assetHint": "physicsmaterials/cardboardbox.physicsmaterial"
+                                    }
                                 }
                             ]
                         }

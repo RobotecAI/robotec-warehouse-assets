@@ -131,7 +131,14 @@
                         "MaterialSlots": {
                             "Slots": [
                                 {
-                                    "Name": "PlasticFoil01"
+                                    "Name": "PlasticFoil01",
+                                    "MaterialAsset": {
+                                        "assetId": {
+                                            "guid": "{9E87BE25-EC64-5A5D-B4D0-232E0FB3C379}",
+                                            "subId": 1
+                                        },
+                                        "assetHint": "physicsmaterials/foilwrappedbox.physicsmaterial"
+                                    }
                                 }
                             ]
                         }
