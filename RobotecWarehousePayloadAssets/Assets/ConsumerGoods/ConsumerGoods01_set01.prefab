@@ -261,8 +261,7 @@
                                         "MaterialAsset": {
                                             "assetId": {
                                                 "guid": "{0144D783-6034-536A-94A1-277AFBB07159}"
-                                            },
-                                            "assetHint": "consumergoods/models/materials/plasticfoil01.azmaterial"
+                                            }
                                         }
                                     }
                                 }
@@ -332,7 +331,7 @@
                 },
                 "EditorMaterialComponent": {
                     "$type": "EditorMaterialComponent",
-                    "Id": 18436232337508858432,
+                    "Id": 16807819596115877774,
                     "Controller": {
                         "Configuration": {
                             "materials": [
@@ -357,22 +356,7 @@
                                         "MaterialAsset": {
                                             "assetId": {
                                                 "guid": "{C975CBC5-F545-5467-8B1D-56FD0214F786}"
-                                            },
-                                            "assetHint": "consumergoods/models/materials/consumergoodsbase01_v00.azmaterial"
-                                        }
-                                    }
-                                },
-                                {
-                                    "Key": {
-                                        "lodIndex": 1,
-                                        "materialSlotStableId": 2866932452
-                                    },
-                                    "Value": {
-                                        "MaterialAsset": {
-                                            "assetId": {
-                                                "guid": "{87C493E9-3460-5194-8380-5BA1CE77515D}"
-                                            },
-                                            "assetHint": "cunsomergoods/models/materials/consumergoodsbase01_v00.azmaterial"
+                                            }
                                         }
                                     }
                                 }
