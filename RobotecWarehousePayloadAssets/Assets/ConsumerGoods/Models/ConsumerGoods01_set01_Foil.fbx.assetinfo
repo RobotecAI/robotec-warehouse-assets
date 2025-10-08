@@ -1,0 +1,93 @@
+{
+    "values": [
+        {
+            "$type": "{5B03C8E6-8CEE-4DA0-A7FA-CD88689DD45B} MeshGroup",
+            "id": "{23A696F1-C3A6-5D07-A753-25D333D1E958}",
+            "name": "ConsumerGoods01_set01_Foil",
+            "NodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode.ConsumerGoods01_set01_Foil",
+                    "RootNode.ConsumerGoods01_set01_Foil.PlasticFoil01",
+                    "RootNode.ConsumerGoods01_set01_Foil.UVMap",
+                    "RootNode.ConsumerGoods01_set01_Foil.custom_properties",
+                    "RootNode.ConsumerGoods01_set01_Foil.transform"
+                ],
+                "unselectedNodes": [
+                    "RootNode"
+                ]
+            },
+            "export method": 1,
+            "PhysicsMaterialSlots": {
+                "Slots": [
+                    {
+                        "Name": "PlasticFoil01",
+                        "MaterialAsset": {
+                            "assetId": {
+                                "guid": "{9E87BE25-EC64-5A5D-B4D0-232E0FB3C379}",
+                                "subId": 1
+                            },
+                            "assetHint": "physicsmaterials/foilwrappedbox.physicsmaterial"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "ConsumerGoods01_set01_Foil",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode",
+                    "RootNode.ConsumerGoods01_set01_Foil",
+                    "RootNode.ConsumerGoods01_set01_Foil.PlasticFoil01",
+                    "RootNode.ConsumerGoods01_set01_Foil.UVMap",
+                    "RootNode.ConsumerGoods01_set01_Foil.custom_properties",
+                    "RootNode.ConsumerGoods01_set01_Foil.transform"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "MaterialRule"
+                    }
+                ]
+            },
+            "id": "{BCB3C981-2E3B-5016-BE9A-43203EF45706}"
+        },
+        {
+            "$type": "{41DCBEAB-203C-4A05-96FA-98E1D8A96FA1} ImportGroup"
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "default_ConsumerGoods01_set01_Foil_7DD90B0B_9312_5FCA_B5B8_ADF80B1DE88F_",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode.ConsumerGoods01_set01_Foil"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "ProceduralMeshGroupRule"
+                    },
+                    {
+                        "$type": "UnmodifiableRule"
+                    },
+                    {
+                        "$type": "CoordinateSystemRule",
+                        "useAdvancedData": true
+                    },
+                    {
+                        "$type": "{6E796AC8-1484-4909-860A-6D3F22A7346F} LodRule"
+                    }
+                ]
+            },
+            "id": "{7DD90B0B-9312-5FCA-B5B8-ADF80B1DE88F}"
+        },
+        {
+            "$type": "PrefabGroup",
+            "name": "ConsumerGoods/Models/ConsumerGoods01_set01_Foil_fbx.procprefab",
+            "id": "{48CCD6F2-F26F-5644-8505-7A7BC1D05719}"
+        }
+    ]
+}
