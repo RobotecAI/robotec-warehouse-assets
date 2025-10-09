@@ -2,6 +2,8 @@
     "materialType": "@gemroot:Atom_Feature_Common@/Assets/Materials/Types/StandardPBR.materialtype",
     "materialTypeVersion": 5,
     "propertyValues": {
-        "baseColor.textureMap": "Textures/ShippingLabel_03_512_Decal.png"
+        "baseColor.textureMap": "Textures/ShippingLabel_03_512_Decal.png",
+        "normal.textureMap": "Textures/Default_512_normal.png",
+        "normal.useTexture": false
     }
 }
