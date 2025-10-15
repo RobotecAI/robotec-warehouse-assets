@@ -151,170 +151,216 @@ Features: Dynamic rigid body, colliders
 Features: Dynamic rigid body, colliders
 
 
+#### Decal_AvoidMoisture_512
+#### Decal_AvoidMoisture_256
 
-
-
-#### Decal_AvoidMoisture
-
-![Decal_AvoidMoisture](RobotecWarehousePayloadAssets/docs/images/assets/Decal_AvoidMoisture.png)
+![Decal_AvoidMoisture_512](RobotecWarehousePayloadAssets/docs/images/assets/Decal_AvoidMoisture_512.png)
 
 Features: prefabs with decal, 2 available sizes of the texture: 256x256px and 512x512px
 
-#### Decal_PackedUnderWatch
+#### Decal_CarefulFragileContents_512
+#### Decal_CarefulFragileContents_256
 
-![Decal_PackedUnderWatch](RobotecWarehousePayloadAssets/docs/images/assets/Decal_PackedUnderWatch.png)
-
-Features: prefabs with decal, 2 available sizes of the texture: 256x256px and 512x512px
-
-#### Decal_ThisWayUp
-
-![Decal_ThisWayUp](RobotecWarehousePayloadAssets/docs/images/assets/Decal_ThisWayUp.png)
+![Decal_CarefulFragileContents_512](RobotecWarehousePayloadAssets/docs/images/assets/Decal_CarefulFragileContents_512.png)
 
 Features: prefabs with decal, 2 available sizes of the texture: 256x256px and 512x512px
 
-#### Decal_Tidyman
+#### Decal_CEMark_512_BW
+#### Decal_CEMark_256_BW
 
-![Decal_Tidyman](RobotecWarehousePayloadAssets/docs/images/assets/Decal_Tidyman.png)
-
-Features: prefabs with decal, 2 available sizes of the texture: 256x256px and 512x512px
-
-#### Decal_InspectContents
-
-![Decal_InspectContents](RobotecWarehousePayloadAssets/docs/images/assets/Decal_InspectContents.png)
+![Decal_CEMark_512_BW](RobotecWarehousePayloadAssets/docs/images/assets/Decal_CEMark_512_BW.png)
 
 Features: prefabs with decal, 2 available sizes of the texture: 256x256px and 512x512px
 
-#### Decal_DoNotPile
+#### Decal_DoNotBend_512
+#### Decal_DoNotBend_256
 
-![Decal_DoNotPile](RobotecWarehousePayloadAssets/docs/images/assets/Decal_DoNotPile.png)
-
-Features: prefabs with decal, 2 available sizes of the texture: 256x256px and 512x512px
-
-#### Decal_ShippingLabel_01
-
-![Decal_ShippingLabel_01](RobotecWarehousePayloadAssets/docs/images/assets/Decal_ShippingLabel_01.png)
+![Decal_DoNotBend_512](RobotecWarehousePayloadAssets/docs/images/assets/Decal_DoNotBend_512.png)
 
 Features: prefabs with decal, 2 available sizes of the texture: 256x256px and 512x512px
 
-#### Decal_ProtectFromHeat
+#### Decal_DoNotCrush_512
+#### Decal_DoNotCrush_256
 
-![Decal_ProtectFromHeat](RobotecWarehousePayloadAssets/docs/images/assets/Decal_ProtectFromHeat.png)
-
-Features: prefabs with decal, 2 available sizes of the texture: 256x256px and 512x512px
-
-#### Decal_KeepFlat
-
-![Decal_KeepFlat](RobotecWarehousePayloadAssets/docs/images/assets/Decal_KeepFlat.png)
+![Decal_DoNotCrush_512](RobotecWarehousePayloadAssets/docs/images/assets/Decal_DoNotCrush_512.png)
 
 Features: prefabs with decal, 2 available sizes of the texture: 256x256px and 512x512px
 
-#### Decal_CEMark
+#### Decal_DoNotOpenWithKnife_512_BW
+#### Decal_DoNotOpenWithKnife_256_BW
 
-![Decal_CEMark](RobotecWarehousePayloadAssets/docs/images/assets/Decal_CEMark.png)
-
-Features: prefabs with decal, 2 available sizes of the texture: 256x256px and 512x512px
-
-#### Decal_Fragile
-
-![Decal_Fragile](RobotecWarehousePayloadAssets/docs/images/assets/Decal_Fragile.png)
+![Decal_DoNotOpenWithKnife_512_BW](RobotecWarehousePayloadAssets/docs/images/assets/Decal_DoNotOpenWithKnife_512_BW.png)
 
 Features: prefabs with decal, 2 available sizes of the texture: 256x256px and 512x512px
 
-#### Decal_DoNotBend
+#### Decal_DoNotPile_512
+#### Decal_DoNotPile_256
 
-![Decal_DoNotBend](RobotecWarehousePayloadAssets/docs/images/assets/Decal_DoNotBend.png)
-
-Features: prefabs with decal, 2 available sizes of the texture: 256x256px and 512x512px
-
-#### Decal_KeepDry
-
-![Decal_KeepDry](RobotecWarehousePayloadAssets/docs/images/assets/Decal_KeepDry.png)
+![Decal_DoNotPile_512](RobotecWarehousePayloadAssets/docs/images/assets/Decal_DoNotPile_512.png)
 
 Features: prefabs with decal, 2 available sizes of the texture: 256x256px and 512x512px
 
-#### Decal_TopSideOnly
+#### Decal_Fragile_512
+#### Decal_Fragile_256
 
-![Decal_TopSideOnly](RobotecWarehousePayloadAssets/docs/images/assets/Decal_TopSideOnly.png)
-
-Features: prefabs with decal, 2 available sizes of the texture: 256x256px and 512x512px
-
-#### Decal_TwoPersonLift
-
-![Decal_TwoPersonLift](RobotecWarehousePayloadAssets/docs/images/assets/Decal_TwoPersonLift.png)
+![Decal_Fragile_512](RobotecWarehousePayloadAssets/docs/images/assets/Decal_Fragile_512.png)
 
 Features: prefabs with decal, 2 available sizes of the texture: 256x256px and 512x512px
 
-#### Decal_CarefulFragileContents
+#### Decal_Fragile_512_BW
+#### Decal_Fragile_256_BW
 
-![Decal_CarefulFragileContents](RobotecWarehousePayloadAssets/docs/images/assets/Decal_CarefulFragileContents.png)
-
-Features: prefabs with decal, 2 available sizes of the texture: 256x256px and 512x512px
-
-#### Decal_MobiusLoop
-
-![Decal_MobiusLoop](RobotecWarehousePayloadAssets/docs/images/assets/Decal_MobiusLoop.png)
+![Decal_Fragile_512_BW](RobotecWarehousePayloadAssets/docs/images/assets/Decal_Fragile_512_BW.png)
 
 Features: prefabs with decal, 2 available sizes of the texture: 256x256px and 512x512px
 
-#### Decal_HandleWIthCare
+#### Decal_HandleWIthCare_512
+#### Decal_HandleWIthCare_256
 
-![Decal_HandleWIthCare](RobotecWarehousePayloadAssets/docs/images/assets/Decal_HandleWIthCare.png)
-
-Features: prefabs with decal, 2 available sizes of the texture: 256x256px and 512x512px
-
-#### Decal_HadleWithCare
-
-![Decal_HadleWithCare](RobotecWarehousePayloadAssets/docs/images/assets/Decal_HadleWithCare.png)
+![Decal_HandleWIthCare_512](RobotecWarehousePayloadAssets/docs/images/assets/Decal_HandleWIthCare_512.png)
 
 Features: prefabs with decal, 2 available sizes of the texture: 256x256px and 512x512px
 
-#### Decal_DoNotCrush
+#### Decal_HandleWIthCare_512_BW
+#### Decal_HandleWIthCare_256_BW
 
-![Decal_DoNotCrush](RobotecWarehousePayloadAssets/docs/images/assets/Decal_DoNotCrush.png)
-
-Features: prefabs with decal, 2 available sizes of the texture: 256x256px and 512x512px
-
-#### Decal_ShippingLabel_04
-
-![Decal_ShippingLabel_04](RobotecWarehousePayloadAssets/docs/images/assets/Decal_ShippingLabel_04.png)
+![Decal_HandleWIthCare_512_BW](RobotecWarehousePayloadAssets/docs/images/assets/Decal_HandleWIthCare_512_BW.png)
 
 Features: prefabs with decal, 2 available sizes of the texture: 256x256px and 512x512px
 
-#### Decal_KeepUpright
+#### Decal_InspectContents_512
+#### Decal_InspectContents_256
 
-![Decal_KeepUpright](RobotecWarehousePayloadAssets/docs/images/assets/Decal_KeepUpright.png)
-
-Features: prefabs with decal, 2 available sizes of the texture: 256x256px and 512x512px
-
-#### Decal_OpenGently
-
-![Decal_OpenGently](RobotecWarehousePayloadAssets/docs/images/assets/Decal_OpenGently.png)
+![Decal_InspectContents_512](RobotecWarehousePayloadAssets/docs/images/assets/Decal_InspectContents_512.png)
 
 Features: prefabs with decal, 2 available sizes of the texture: 256x256px and 512x512px
 
-#### Decal_KeepAwayFromSunlight
+#### Decal_MobiusLoop_512_BW
+#### Decal_MobiusLoop_256_BW
 
-![Decal_KeepAwayFromSunlight](RobotecWarehousePayloadAssets/docs/images/assets/Decal_KeepAwayFromSunlight.png)
-
-Features: prefabs with decal, 2 available sizes of the texture: 256x256px and 512x512px
-
-#### Decal_ShippingLabel_05
-
-![Decal_ShippingLabel_05](RobotecWarehousePayloadAssets/docs/images/assets/Decal_ShippingLabel_05.png)
+![Decal_MobiusLoop_512_BW](RobotecWarehousePayloadAssets/docs/images/assets/Decal_MobiusLoop_512_BW.png)
 
 Features: prefabs with decal, 2 available sizes of the texture: 256x256px and 512x512px
 
-#### Decal_ShippingLabel_02
+#### Decal_OpenGently_512
+#### Decal_OpenGently_256
 
-![Decal_ShippingLabel_02](RobotecWarehousePayloadAssets/docs/images/assets/Decal_ShippingLabel_02.png)
+![Decal_OpenGently_512](RobotecWarehousePayloadAssets/docs/images/assets/Decal_OpenGently_512.png)
+
+Features: prefabs with decal, 2 available sizes of the texture: 256x256px and 512x512px
+
+#### Decal_PackedUnderWatch_512
+#### Decal_PackedUnderWatch_256
+
+![Decal_PackedUnderWatch_512](RobotecWarehousePayloadAssets/docs/images/assets/Decal_PackedUnderWatch_512.png)
 
 Features: prefabs with decal, 2 available sizes of the texture: 256x256px and 512x512px
 
-#### Decal_ShippingLabel_03
+#### Decal_ProtectFromHeat_512
+#### Decal_ProtectFromHeat_256
 
-![Decal_ShippingLabel_03](RobotecWarehousePayloadAssets/docs/images/assets/Decal_ShippingLabel_03.png)
+![Decal_ProtectFromHeat_512](RobotecWarehousePayloadAssets/docs/images/assets/Decal_ProtectFromHeat_512.png)
 
 Features: prefabs with decal, 2 available sizes of the texture: 256x256px and 512x512px
+
+#### Decal_ShippingLabel_01_512
+#### Decal_ShippingLabel_01_256
+
+![Decal_ShippingLabel_01_512](RobotecWarehousePayloadAssets/docs/images/assets/Decal_ShippingLabel_01_512.png)
+
+Features: prefabs with decal, 2 available sizes of the texture: 256x256px and 512x512px
+
+#### Decal_ShippingLabel_02_512
+#### Decal_ShippingLabel_02_256
+
+![Decal_ShippingLabel_02_512](RobotecWarehousePayloadAssets/docs/images/assets/Decal_ShippingLabel_02_512.png)
+
+Features: prefabs with decal, 2 available sizes of the texture: 256x256px and 512x512px
+
+#### Decal_ShippingLabel_03_512
+#### Decal_ShippingLabel_03_256
+
+![Decal_ShippingLabel_03_512](RobotecWarehousePayloadAssets/docs/images/assets/Decal_ShippingLabel_03_512.png)
+
+Features: prefabs with decal, 2 available sizes of the texture: 256x256px and 512x512px
+
+#### Decal_ShippingLabel_04_512
+#### Decal_ShippingLabel_04_256
+
+![Decal_ShippingLabel_04_512](RobotecWarehousePayloadAssets/docs/images/assets/Decal_ShippingLabel_04_512.png)
+
+Features: prefabs with decal, 2 available sizes of the texture: 256x256px and 512x512px
+
+#### Decal_ShippingLabel_05_512
+#### Decal_ShippingLabel_05_256
+
+![Decal_ShippingLabel_05_512](RobotecWarehousePayloadAssets/docs/images/assets/Decal_ShippingLabel_05_512.png)
+
+Features: prefabs with decal, 2 available sizes of the texture: 256x256px and 512x512px
+
+#### Decal_KeepDry_512
+#### Decal_KeepDry_256
+
+![Decal_KeepDry_512](RobotecWarehousePayloadAssets/docs/images/assets/Decal_KeepDry_512.png)
+
+Features: prefabs with decal, 2 available sizes of the texture: 256x256px and 512x512px
+
+#### Decal_KeepDry_512_BW
+#### Decal_KeepDry_256_BW
+
+![Decal_KeepDry_512_BW](RobotecWarehousePayloadAssets/docs/images/assets/Decal_KeepDry_512_BW.png)
+
+Features: prefabs with decal, 2 available sizes of the texture: 256x256px and 512x512px
+
+#### Decal_KeepFlat_512
+#### Decal_KeepFlat_256
+
+![Decal_KeepFlat_512](RobotecWarehousePayloadAssets/docs/images/assets/Decal_KeepFlat_512.png)
+
+Features: prefabs with decal, 2 available sizes of the texture: 256x256px and 512x512px
+
+#### Decal_KeepUpright_512
+#### Decal_KeepUpright_256
+
+![Decal_KeepUpright_512](RobotecWarehousePayloadAssets/docs/images/assets/Decal_KeepUpright_512.png)
+
+Features: prefabs with decal, 2 available sizes of the texture: 256x256px and 512x512px
+
+#### Decal_KeepAwayFromSunlight_512
+#### Decal_KeepAwayFromSunlight_256
+
+![Decal_KeepAwayFromSunlight_512](RobotecWarehousePayloadAssets/docs/images/assets/Decal_KeepAwayFromSunlight_512.png)
+
+Features: prefabs with decal, 2 available sizes of the texture: 256x256px and 512x512px
+
+#### Decal_Tidyman_512
+#### Decal_Tidyman_256
+
+![Decal_Tidyman_512](RobotecWarehousePayloadAssets/docs/images/assets/Decal_Tidyman_512.png)
+
+Features: prefabs with decal, 2 available sizes of the texture: 256x256px and 512x512px
+
+#### Decal_TopSideOnly_512
+#### Decal_TopSideOnly_256
+
+![Decal_TopSideOnly_512](RobotecWarehousePayloadAssets/docs/images/assets/Decal_TopSideOnly_512.png)
+
+Features: prefabs with decal, 2 available sizes of the texture: 256x256px and 512x512px
+
+#### Decal_TwoPersonLift_512_BW
+#### Decal_TwoPersonLift_256_BW
+
+![Decal_TwoPersonLift_512_BW](RobotecWarehousePayloadAssets/docs/images/assets/Decal_TwoPersonLift_512_BW.png)
+
+Features: prefabs with decal, 2 available sizes of the texture: 256x256px and 512x512px
+
+#### Decal_ThisWayUp_512_BW
+#### Decal_ThisWayUp_256_BW
+
+![Decal_ThisWayUp_512_BW](RobotecWarehousePayloadAssets/docs/images/assets/Decal_ThisWayUp_512_BW.png)
+
+Features: prefabs with decal, 2 available sizes of the texture: 256x256px and 512x512px
+
 
 ## RobotecWarehouseRacksAssets
 Asset gem with warehouse racks
