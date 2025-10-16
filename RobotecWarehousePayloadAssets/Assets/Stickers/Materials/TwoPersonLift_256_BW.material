@@ -2,6 +2,8 @@
     "materialType": "@gemroot:Atom_Feature_Common@/Assets/Materials/Types/StandardPBR.materialtype",
     "materialTypeVersion": 5,
     "propertyValues": {
-        "baseColor.textureMap": "Textures/TwoPersonLift_256_BW_Decal.png"
+        "baseColor.textureMap": "Textures/TwoPersonLift_256_BW_Decal.png",
+        "normal.textureMap": "Textures/Default_256_normal.png",
+        "normal.useTexture": false
     }
 }
