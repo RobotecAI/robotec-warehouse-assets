@@ -1,0 +1,77 @@
+{
+    "values": [
+        {
+            "$type": "{5B03C8E6-8CEE-4DA0-A7FA-CD88689DD45B} MeshGroup",
+            "id": "{1600E84F-FDE6-50CF-97DE-D8EC9E7EE738}",
+            "name": "CardboardBox08_03T",
+            "NodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode",
+                    "RootNode.CardboardBox08_03T"
+                ]
+            },
+            "export method": 1,
+            "PhysicsMaterialSlots": {
+                "Slots": [
+                    {
+                        "Name": "CardboardBoxWarehouse_02T"
+                    }
+                ]
+            }
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "CardboardBox08_03T",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    {},
+                    "RootNode",
+                    "RootNode.CardboardBox08_03T"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "MaterialRule"
+                    }
+                ]
+            },
+            "id": "{3B2BD0B4-2E39-56DF-8F06-894E7AF10168}"
+        },
+        {
+            "$type": "{41DCBEAB-203C-4A05-96FA-98E1D8A96FA1} ImportGroup"
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "default_CardboardBox08_03T_3D91C681_D355_500B_91D3_6A1063CCB730_",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode.CardboardBox08_03T"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "ProceduralMeshGroupRule"
+                    },
+                    {
+                        "$type": "UnmodifiableRule"
+                    },
+                    {
+                        "$type": "CoordinateSystemRule",
+                        "useAdvancedData": true
+                    },
+                    {
+                        "$type": "{6E796AC8-1484-4909-860A-6D3F22A7346F} LodRule"
+                    }
+                ]
+            },
+            "id": "{3D91C681-D355-500B-91D3-6A1063CCB730}"
+        },
+        {
+            "$type": "PrefabGroup",
+            "name": "CardboardBoxes/Models/CardboardBox08_03T_fbx.procprefab",
+            "id": "{CC6A8914-82E3-5BFC-9066-A4D58857112B}"
+        }
+    ]
+}
