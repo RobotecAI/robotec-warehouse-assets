@@ -236,14 +236,7 @@
                 "TransformComponent": {
                     "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
                     "Id": 908640915770316750,
-                    "Parent Entity": "Entity_[61328862545520]",
-                    "Transform Data": {
-                        "Translate": [
-                            0.446533203125,
-                            -0.1821136474609375,
-                            0.0
-                        ]
-                    }
+                    "Parent Entity": "Entity_[61328862545520]"
                 }
             }
         }
