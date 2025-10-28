@@ -100,9 +100,80 @@
             "Id": "Entity_[32175020271235]",
             "Name": "physics",
             "Components": {
+                "EditorColliderComponent": {
+                    "$type": "EditorColliderComponent",
+                    "Id": 12020142357452612608,
+                    "ColliderConfiguration": {
+                        "Position": [
+                            0.00046369433403015137,
+                            0.0003216564655303955,
+                            0.0975201353430748
+                        ],
+                        "MaterialSlots": {
+                            "Slots": [
+                                {
+                                    "Name": "Entire object"
+                                }
+                            ]
+                        }
+                    },
+                    "ShapeConfiguration": {
+                        "ShapeType": 1,
+                        "Box": {
+                            "Configuration": [
+                                0.3301594853401184,
+                                0.22330302000045776,
+                                0.19490377604961395
+                            ]
+                        }
+                    }
+                },
                 "EditorDisabledCompositionComponent": {
                     "$type": "EditorDisabledCompositionComponent",
-                    "Id": 447891439072154342
+                    "Id": 447891439072154342,
+                    "DisabledComponents": {
+                        "EditorMeshColliderComponent": {
+                            "$type": "EditorMeshColliderComponent",
+                            "Id": 1460669851348263276,
+                            "ColliderConfiguration": {
+                                "MaterialSlots": {
+                                    "Slots": [
+                                        {
+                                            "Name": "PlasticFoil01",
+                                            "MaterialAsset": {
+                                                "assetId": {
+                                                    "guid": "{9E87BE25-EC64-5A5D-B4D0-232E0FB3C379}",
+                                                    "subId": 1
+                                                },
+                                                "assetHint": "physicsmaterials/foilwrappedbox.physicsmaterial"
+                                            }
+                                        }
+                                    ]
+                                }
+                            },
+                            "ShapeConfiguration": {
+                                "PhysicsAsset": {
+                                    "Asset": {
+                                        "assetId": {
+                                            "guid": "{87F44201-DEED-5AFB-B634-D60B6097E566}",
+                                            "subId": 539691478
+                                        },
+                                        "assetHint": "consumergoods/models/consumergoods01_set01_foil.fbx.pxmesh"
+                                    },
+                                    "Configuration": {
+                                        "PhysicsAsset": {
+                                            "assetId": {
+                                                "guid": "{87F44201-DEED-5AFB-B634-D60B6097E566}",
+                                                "subId": 539691478
+                                            },
+                                            "loadBehavior": "QueueLoad",
+                                            "assetHint": "consumergoods/models/consumergoods01_set01_foil.fbx.pxmesh"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
                 },
                 "EditorEntityIconComponent": {
                     "$type": "EditorEntityIconComponent",
@@ -124,47 +195,6 @@
                     "$type": "EditorLockComponent",
                     "Id": 16405110284271654529
                 },
-                "EditorMeshColliderComponent": {
-                    "$type": "EditorMeshColliderComponent",
-                    "Id": 1460669851348263276,
-                    "ColliderConfiguration": {
-                        "MaterialSlots": {
-                            "Slots": [
-                                {
-                                    "Name": "PlasticFoil01",
-                                    "MaterialAsset": {
-                                        "assetId": {
-                                            "guid": "{9E87BE25-EC64-5A5D-B4D0-232E0FB3C379}",
-                                            "subId": 1
-                                        },
-                                        "assetHint": "physicsmaterials/foilwrappedbox.physicsmaterial"
-                                    }
-                                }
-                            ]
-                        }
-                    },
-                    "ShapeConfiguration": {
-                        "PhysicsAsset": {
-                            "Asset": {
-                                "assetId": {
-                                    "guid": "{87F44201-DEED-5AFB-B634-D60B6097E566}",
-                                    "subId": 539691478
-                                },
-                                "assetHint": "consumergoods/models/consumergoods01_set01_foil.fbx.pxmesh"
-                            },
-                            "Configuration": {
-                                "PhysicsAsset": {
-                                    "assetId": {
-                                        "guid": "{87F44201-DEED-5AFB-B634-D60B6097E566}",
-                                        "subId": 539691478
-                                    },
-                                    "loadBehavior": "QueueLoad",
-                                    "assetHint": "consumergoods/models/consumergoods01_set01_foil.fbx.pxmesh"
-                                }
-                            }
-                        }
-                    }
-                },
                 "EditorOnlyEntityComponent": {
                     "$type": "EditorOnlyEntityComponent",
                     "Id": 7143471694499058775
@@ -178,22 +208,22 @@
                     "Id": 10441155123831472048,
                     "Configuration": {
                         "entityId": "",
-                        "Mass": 14.574997901916504,
+                        "Mass": 14.369400024414063,
                         "Centre of mass offset": [
-                            3.873285265854065e-7,
-                            4.964321176359476e-10,
-                            0.09683224558830261
+                            0.0004636943049263209,
+                            0.0003216564655303955,
+                            0.0975201353430748
                         ],
                         "Inertia tensor": [
-                            0.10788238793611526,
+                            0.10519807040691376,
                             0.0,
                             0.0,
                             0.0,
-                            0.17959709465503693,
+                            0.17601653933525085,
                             0.0,
                             0.0,
                             0.0,
-                            0.19509059190750122
+                            0.1902383267879486
                         ]
                     }
                 },
@@ -261,7 +291,8 @@
                                         "MaterialAsset": {
                                             "assetId": {
                                                 "guid": "{0144D783-6034-536A-94A1-277AFBB07159}"
-                                            }
+                                            },
+                                            "assetHint": "consumergoods/models/materials/plasticfoil01.azmaterial"
                                         }
                                     }
                                 }
@@ -356,7 +387,8 @@
                                         "MaterialAsset": {
                                             "assetId": {
                                                 "guid": "{C975CBC5-F545-5467-8B1D-56FD0214F786}"
-                                            }
+                                            },
+                                            "assetHint": "consumergoods/models/materials/consumergoodsbase01_v00.azmaterial"
                                         }
                                     }
                                 }
