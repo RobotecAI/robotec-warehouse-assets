@@ -1,0 +1,160 @@
+{
+    "values": [
+        {
+            "$type": "{5B03C8E6-8CEE-4DA0-A7FA-CD88689DD45B} MeshGroup",
+            "id": "{CAAD67EB-97E2-541C-AF3E-09F4F94B423A}",
+            "name": "ConsumerGoods05_v00",
+            "NodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode.ConsumerGoods05_v00_LOD1",
+                    "RootNode.ConsumerGoods05_v00_LOD1.ConsumerGoods05_v00",
+                    "RootNode.ConsumerGoods05_v00_LOD1.UVMap",
+                    "RootNode.ConsumerGoods05_v00_LOD1.custom_properties",
+                    "RootNode.ConsumerGoods05_v00_LOD1.transform"
+                ],
+                "unselectedNodes": [
+                    "RootNode",
+                    "RootNode.ConsumerGoods05_v00_LOD0",
+                    "RootNode.ConsumerGoods05_v00_LOD0.ConsumerGoods05_v00",
+                    "RootNode.ConsumerGoods05_v00_LOD0.UVMap",
+                    "RootNode.ConsumerGoods05_v00_LOD0.custom_properties",
+                    "RootNode.ConsumerGoods05_v00_LOD0.transform"
+                ]
+            },
+            "export method": 1,
+            "PhysicsMaterialSlots": {
+                "Slots": [
+                    {
+                        "Name": "ConsumerGoods05_v00",
+                        "MaterialAsset": {
+                            "assetId": {
+                                "guid": "{81A623F6-8733-5AE7-91A5-761CE9321B60}",
+                                "subId": 1
+                            },
+                            "assetHint": "physicsmaterials/cardboardbox.physicsmaterial"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "ConsumerGoods05_v00",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode",
+                    "RootNode.ConsumerGoods05_v00_LOD0",
+                    "RootNode.ConsumerGoods05_v00_LOD0.ConsumerGoods05_v00",
+                    "RootNode.ConsumerGoods05_v00_LOD0.UVMap",
+                    "RootNode.ConsumerGoods05_v00_LOD0.custom_properties",
+                    "RootNode.ConsumerGoods05_v00_LOD0.transform"
+                ],
+                "unselectedNodes": [
+                    "RootNode.ConsumerGoods05_v00_LOD1",
+                    "RootNode.ConsumerGoods05_v00_LOD1.ConsumerGoods05_v00",
+                    "RootNode.ConsumerGoods05_v00_LOD1.UVMap",
+                    "RootNode.ConsumerGoods05_v00_LOD1.custom_properties",
+                    "RootNode.ConsumerGoods05_v00_LOD1.transform"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "{6E796AC8-1484-4909-860A-6D3F22A7346F} LodRule",
+                        "nodeSelectionList": [
+                            {
+                                "selectedNodes": [
+                                    "RootNode",
+                                    "RootNode.ConsumerGoods05_v00_LOD1",
+                                    "RootNode.ConsumerGoods05_v00_LOD1.ConsumerGoods05_v00",
+                                    "RootNode.ConsumerGoods05_v00_LOD1.UVMap",
+                                    "RootNode.ConsumerGoods05_v00_LOD1.custom_properties",
+                                    "RootNode.ConsumerGoods05_v00_LOD1.transform"
+                                ],
+                                "unselectedNodes": [
+                                    "RootNode.ConsumerGoods05_v00_LOD0",
+                                    "RootNode.ConsumerGoods05_v00_LOD0.ConsumerGoods05_v00",
+                                    "RootNode.ConsumerGoods05_v00_LOD0.UVMap",
+                                    "RootNode.ConsumerGoods05_v00_LOD0.custom_properties",
+                                    "RootNode.ConsumerGoods05_v00_LOD0.transform"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "$type": "MaterialRule"
+                    }
+                ]
+            },
+            "id": "{506BE3C7-E5E6-58B1-B679-C293D57B1F71}"
+        },
+        {
+            "$type": "{41DCBEAB-203C-4A05-96FA-98E1D8A96FA1} ImportGroup"
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "default_ConsumerGoods05_v00_D4EA7D26_12BA_5F2C_87F5_9E9E0D912316_",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode.ConsumerGoods05_v00_LOD0"
+                ],
+                "unselectedNodes": [
+                    "RootNode.ConsumerGoods05_v00_LOD1"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "ProceduralMeshGroupRule"
+                    },
+                    {
+                        "$type": "UnmodifiableRule"
+                    },
+                    {
+                        "$type": "CoordinateSystemRule",
+                        "useAdvancedData": true
+                    },
+                    {
+                        "$type": "{6E796AC8-1484-4909-860A-6D3F22A7346F} LodRule"
+                    }
+                ]
+            },
+            "id": "{D4EA7D26-12BA-5F2C-87F5-9E9E0D912316}"
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "default_ConsumerGoods05_v00_EC813B78_6AED_5CA8_8F89_2C67737B9480_",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode.ConsumerGoods05_v00_LOD1"
+                ],
+                "unselectedNodes": [
+                    "RootNode.ConsumerGoods05_v00_LOD0"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "ProceduralMeshGroupRule"
+                    },
+                    {
+                        "$type": "UnmodifiableRule"
+                    },
+                    {
+                        "$type": "CoordinateSystemRule",
+                        "useAdvancedData": true
+                    },
+                    {
+                        "$type": "{6E796AC8-1484-4909-860A-6D3F22A7346F} LodRule"
+                    }
+                ]
+            },
+            "id": "{EC813B78-6AED-5CA8-8F89-2C67737B9480}"
+        },
+        {
+            "$type": "PrefabGroup",
+            "name": "ConsumerGoods/Models/ConsumerGoods05_v00_fbx.procprefab",
+            "id": "{14BBDED5-7E07-588B-A16C-4290DCF2DDDF}"
+        }
+    ]
+}

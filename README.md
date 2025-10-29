@@ -150,7 +150,6 @@ Features: Dynamic rigid body, colliders
 
 Features: Dynamic rigid body, colliders
 
-
 #### Decal_AvoidMoisture_512
 #### Decal_AvoidMoisture_256
 
@@ -360,6 +359,42 @@ Features: prefabs with decal, 2 available sizes of the texture: 256x256px and 51
 ![Decal_ThisWayUp_512_BW](RobotecWarehousePayloadAssets/docs/images/assets/Decal_ThisWayUp_512_BW.png)
 
 Features: prefabs with decal, 2 available sizes of the texture: 256x256px and 512x512px
+
+#### ConsumerGoods01_set01
+#### ConsumerGoods01_v00
+![ConsumerGoods01](RobotecWarehousePayloadAssets/docs/images/assets/ConsumerGoods01.png)
+
+Features: Dynamic rigid body, colliders
+
+#### ConsumerGoods02_set01
+#### ConsumerGoods02_v00
+![ConsumerGoods02](RobotecWarehousePayloadAssets/docs/images/assets/ConsumerGoods02.png)
+
+Features: Dynamic rigid body, colliders
+
+#### ConsumerGoods03_set01
+#### ConsumerGoods03_v00
+![ConsumerGoods03](RobotecWarehousePayloadAssets/docs/images/assets/ConsumerGoods03.png)
+
+Features: Dynamic rigid body, colliders
+
+#### ConsumerGoods04_set01
+#### ConsumerGoods04_v00
+![ConsumerGoods04](RobotecWarehousePayloadAssets/docs/images/assets/ConsumerGoods04.png)
+
+Features: Dynamic rigid body, colliders
+
+#### ConsumerGoods05_set01
+#### ConsumerGoods05_v00
+![ConsumerGoods05](RobotecWarehousePayloadAssets/docs/images/assets/ConsumerGoods05.png)
+
+Features: Dynamic rigid body, colliders
+
+#### ConsumerGoods06_set01
+#### ConsumerGoods06_v00
+![ConsumerGoods06](RobotecWarehousePayloadAssets/docs/images/assets/ConsumerGoods06.png)
+
+Features: Dynamic rigid body, colliders
 
 
 ## RobotecWarehouseRacksAssets

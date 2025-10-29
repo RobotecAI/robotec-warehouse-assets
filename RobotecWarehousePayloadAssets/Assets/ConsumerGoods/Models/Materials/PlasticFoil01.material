@@ -1,0 +1,26 @@
+{
+    "materialType": "@gemroot:Atom_Feature_Common@/Assets/Materials/Types/StandardPBR.materialtype",
+    "materialTypeVersion": 5,
+    "propertyValues": {
+        "baseColor.color": [
+            0.800000011920929,
+            0.800000011920929,
+            0.800000011920929,
+            1.0
+        ],
+        "baseColor.textureMap": "Textures/PlasticFoil01_BaseColor.png",
+        "emissive.color": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "metallic.factor": 0.4000000059604645,
+        "normal.textureMap": "Textures/PlasticFoil01_Normal.png",
+        "opacity.alphaSource": "None",
+        "opacity.factor": 0.5600000023841858,
+        "opacity.mode": "Blended",
+        "roughness.factor": 0.0,
+        "specularF0.factor": 0.8999999761581421
+    }
+}

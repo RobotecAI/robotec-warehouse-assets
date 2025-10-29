@@ -1,0 +1,242 @@
+{
+    "values": [
+        {
+            "$type": "{5B03C8E6-8CEE-4DA0-A7FA-CD88689DD45B} MeshGroup",
+            "id": "{2CF0CE78-1F79-5AFE-93C0-3B13F88CB502}",
+            "name": "ConsumerGoods02_set01",
+            "NodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode.ConsumerGoods02_set01_LOD2",
+                    "RootNode.ConsumerGoods02_set01_LOD2.ConsumerGoods02_v00",
+                    "RootNode.ConsumerGoods02_set01_LOD2.ConsumerGoodsBase01_v00",
+                    "RootNode.ConsumerGoods02_set01_LOD2.UV0",
+                    "RootNode.ConsumerGoods02_set01_LOD2.custom_properties",
+                    "RootNode.ConsumerGoods02_set01_LOD2.transform"
+                ],
+                "unselectedNodes": [
+                    "RootNode",
+                    "RootNode.ConsumerGoods02_set01_LOD0",
+                    "RootNode.ConsumerGoods02_set01_LOD0.ConsumerGoods02_v00",
+                    "RootNode.ConsumerGoods02_set01_LOD0.ConsumerGoodsBase01_v00",
+                    "RootNode.ConsumerGoods02_set01_LOD0.UV0",
+                    "RootNode.ConsumerGoods02_set01_LOD0.custom_properties",
+                    "RootNode.ConsumerGoods02_set01_LOD0.transform",
+                    "RootNode.ConsumerGoods02_set01_LOD1",
+                    "RootNode.ConsumerGoods02_set01_LOD1.ConsumerGoods02_v00",
+                    "RootNode.ConsumerGoods02_set01_LOD1.ConsumerGoodsBase01_v00",
+                    "RootNode.ConsumerGoods02_set01_LOD1.UV0",
+                    "RootNode.ConsumerGoods02_set01_LOD1.custom_properties",
+                    "RootNode.ConsumerGoods02_set01_LOD1.transform"
+                ]
+            },
+            "export method": 1,
+            "PhysicsMaterialSlots": {
+                "Slots": [
+                    {
+                        "Name": "ConsumerGoodsBase01_v00",
+                        "MaterialAsset": {
+                            "assetId": {
+                                "guid": "{81A623F6-8733-5AE7-91A5-761CE9321B60}",
+                                "subId": 1
+                            },
+                            "assetHint": "physicsmaterials/cardboardbox.physicsmaterial"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "ConsumerGoods02_set01",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode",
+                    "RootNode.ConsumerGoods02_set01_LOD0",
+                    "RootNode.ConsumerGoods02_set01_LOD0.ConsumerGoods02_v00",
+                    "RootNode.ConsumerGoods02_set01_LOD0.ConsumerGoodsBase01_v00",
+                    "RootNode.ConsumerGoods02_set01_LOD0.UV0",
+                    "RootNode.ConsumerGoods02_set01_LOD0.custom_properties",
+                    "RootNode.ConsumerGoods02_set01_LOD0.transform"
+                ],
+                "unselectedNodes": [
+                    "RootNode.ConsumerGoods02_set01_LOD1",
+                    "RootNode.ConsumerGoods02_set01_LOD1.ConsumerGoods02_v00",
+                    "RootNode.ConsumerGoods02_set01_LOD1.ConsumerGoodsBase01_v00",
+                    "RootNode.ConsumerGoods02_set01_LOD1.UV0",
+                    "RootNode.ConsumerGoods02_set01_LOD1.custom_properties",
+                    "RootNode.ConsumerGoods02_set01_LOD1.transform",
+                    "RootNode.ConsumerGoods02_set01_LOD2",
+                    "RootNode.ConsumerGoods02_set01_LOD2.ConsumerGoods02_v00",
+                    "RootNode.ConsumerGoods02_set01_LOD2.ConsumerGoodsBase01_v00",
+                    "RootNode.ConsumerGoods02_set01_LOD2.UV0",
+                    "RootNode.ConsumerGoods02_set01_LOD2.custom_properties",
+                    "RootNode.ConsumerGoods02_set01_LOD2.transform"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "{6E796AC8-1484-4909-860A-6D3F22A7346F} LodRule",
+                        "nodeSelectionList": [
+                            {
+                                "selectedNodes": [
+                                    "RootNode",
+                                    "RootNode.ConsumerGoods02_set01_LOD1",
+                                    "RootNode.ConsumerGoods02_set01_LOD1.ConsumerGoods02_v00",
+                                    "RootNode.ConsumerGoods02_set01_LOD1.ConsumerGoodsBase01_v00",
+                                    "RootNode.ConsumerGoods02_set01_LOD1.UV0",
+                                    "RootNode.ConsumerGoods02_set01_LOD1.custom_properties",
+                                    "RootNode.ConsumerGoods02_set01_LOD1.transform"
+                                ],
+                                "unselectedNodes": [
+                                    "RootNode.ConsumerGoods02_set01_LOD0",
+                                    "RootNode.ConsumerGoods02_set01_LOD0.ConsumerGoods02_v00",
+                                    "RootNode.ConsumerGoods02_set01_LOD0.ConsumerGoodsBase01_v00",
+                                    "RootNode.ConsumerGoods02_set01_LOD0.UV0",
+                                    "RootNode.ConsumerGoods02_set01_LOD0.custom_properties",
+                                    "RootNode.ConsumerGoods02_set01_LOD0.transform",
+                                    "RootNode.ConsumerGoods02_set01_LOD2",
+                                    "RootNode.ConsumerGoods02_set01_LOD2.ConsumerGoods02_v00",
+                                    "RootNode.ConsumerGoods02_set01_LOD2.ConsumerGoodsBase01_v00",
+                                    "RootNode.ConsumerGoods02_set01_LOD2.UV0",
+                                    "RootNode.ConsumerGoods02_set01_LOD2.custom_properties",
+                                    "RootNode.ConsumerGoods02_set01_LOD2.transform"
+                                ]
+                            },
+                            {
+                                "selectedNodes": [
+                                    "RootNode",
+                                    "RootNode.ConsumerGoods02_set01_LOD2",
+                                    "RootNode.ConsumerGoods02_set01_LOD2.ConsumerGoods02_v00",
+                                    "RootNode.ConsumerGoods02_set01_LOD2.ConsumerGoodsBase01_v00",
+                                    "RootNode.ConsumerGoods02_set01_LOD2.UV0",
+                                    "RootNode.ConsumerGoods02_set01_LOD2.custom_properties",
+                                    "RootNode.ConsumerGoods02_set01_LOD2.transform"
+                                ],
+                                "unselectedNodes": [
+                                    "RootNode.ConsumerGoods02_set01_LOD0",
+                                    "RootNode.ConsumerGoods02_set01_LOD0.ConsumerGoods02_v00",
+                                    "RootNode.ConsumerGoods02_set01_LOD0.ConsumerGoodsBase01_v00",
+                                    "RootNode.ConsumerGoods02_set01_LOD0.UV0",
+                                    "RootNode.ConsumerGoods02_set01_LOD0.custom_properties",
+                                    "RootNode.ConsumerGoods02_set01_LOD0.transform",
+                                    "RootNode.ConsumerGoods02_set01_LOD1",
+                                    "RootNode.ConsumerGoods02_set01_LOD1.ConsumerGoods02_v00",
+                                    "RootNode.ConsumerGoods02_set01_LOD1.ConsumerGoodsBase01_v00",
+                                    "RootNode.ConsumerGoods02_set01_LOD1.UV0",
+                                    "RootNode.ConsumerGoods02_set01_LOD1.custom_properties",
+                                    "RootNode.ConsumerGoods02_set01_LOD1.transform"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "$type": "MaterialRule"
+                    }
+                ]
+            },
+            "id": "{DABEF0D0-FD32-5224-9BFE-2FE9B3283C24}"
+        },
+        {
+            "$type": "{41DCBEAB-203C-4A05-96FA-98E1D8A96FA1} ImportGroup"
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "default_ConsumerGoods02_set01_5032EF5E_6F33_5601_B8CD_449DAD926500_",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode.ConsumerGoods02_set01_LOD0"
+                ],
+                "unselectedNodes": [
+                    "RootNode.ConsumerGoods02_set01_LOD1",
+                    "RootNode.ConsumerGoods02_set01_LOD2"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "ProceduralMeshGroupRule"
+                    },
+                    {
+                        "$type": "UnmodifiableRule"
+                    },
+                    {
+                        "$type": "CoordinateSystemRule",
+                        "useAdvancedData": true
+                    },
+                    {
+                        "$type": "{6E796AC8-1484-4909-860A-6D3F22A7346F} LodRule"
+                    }
+                ]
+            },
+            "id": "{5032EF5E-6F33-5601-B8CD-449DAD926500}"
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "default_ConsumerGoods02_set01_DB906D2C_BFB8_537C_B8E1_F38200373C89_",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode.ConsumerGoods02_set01_LOD1"
+                ],
+                "unselectedNodes": [
+                    "RootNode.ConsumerGoods02_set01_LOD0",
+                    "RootNode.ConsumerGoods02_set01_LOD2"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "ProceduralMeshGroupRule"
+                    },
+                    {
+                        "$type": "UnmodifiableRule"
+                    },
+                    {
+                        "$type": "CoordinateSystemRule",
+                        "useAdvancedData": true
+                    },
+                    {
+                        "$type": "{6E796AC8-1484-4909-860A-6D3F22A7346F} LodRule"
+                    }
+                ]
+            },
+            "id": "{DB906D2C-BFB8-537C-B8E1-F38200373C89}"
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "default_ConsumerGoods02_set01_77F96DBB_CFD5_5FFC_9536_E3226500F646_",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode.ConsumerGoods02_set01_LOD2"
+                ],
+                "unselectedNodes": [
+                    "RootNode.ConsumerGoods02_set01_LOD0",
+                    "RootNode.ConsumerGoods02_set01_LOD1"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "ProceduralMeshGroupRule"
+                    },
+                    {
+                        "$type": "UnmodifiableRule"
+                    },
+                    {
+                        "$type": "CoordinateSystemRule",
+                        "useAdvancedData": true
+                    },
+                    {
+                        "$type": "{6E796AC8-1484-4909-860A-6D3F22A7346F} LodRule"
+                    }
+                ]
+            },
+            "id": "{77F96DBB-CFD5-5FFC-9536-E3226500F646}"
+        },
+        {
+            "$type": "PrefabGroup",
+            "name": "ConsumerGoods/Models/ConsumerGoods02_set01_fbx.procprefab",
+            "id": "{0BD53EF5-25E8-5271-ACA9-AD6E00E3E65F}"
+        }
+    ]
+}
