@@ -331,16 +331,20 @@
                     "Id": 238357042957033462,
                     "Controller": {
                         "Configuration": {
-                            "materials": {
-                                "{}": {
-                                    "MaterialAsset": {
-                                        "assetId": {
-                                            "guid": "{0144D783-6034-536A-94A1-277AFBB07159}"
-                                        },
-                                        "assetHint": "consumergoods/models/materials/plasticfoil01.azmaterial"
+                            "materials": [
+                                {
+                                    "Key": {
+                                        "materialSlotStableId": 2886629833
+                                    },
+                                    "Value": {
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{0144D783-6034-536A-94A1-277AFBB07159}"
+                                            }
+                                        }
                                     }
                                 }
-                            }
+                            ]
                         }
                     }
                 },
