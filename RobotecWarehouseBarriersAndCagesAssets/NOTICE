@@ -1,6 +1,9 @@
 The assets in this repository are based on the assets prepared for ROSCon 2023 Demo located under https://github.com/RobotecAI/ROSCon2023Demo (accessed on July 24, 2024).
 The base assets were licensed under Apache 2.0 license and the same license remains for this work.
 
+The "Bollard02" model was obtained from Blenderkit (https://www.blenderkit.com/asset-gallery-detail/7c3004c3-4ad1-4add-a640-79c470c838ec/) and it has CC0 license.
+The "Modular Fences" models was obtained from Polyhaven (https://polyhaven.com/a/modular_chainlink_fence) and it has CC0 license.
+
 Most of the base files, i.e., textures and models are copied without any changes. Otherwise, the changes include (but are not limited to):
 - filename changes and corresponding prefabs/materials modifications
 - folder structure changes and corresponding prefabs/materials modifications
