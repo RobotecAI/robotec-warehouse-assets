@@ -290,39 +290,37 @@
                         }
                     }
                 },
-                "EditorDisabledCompositionComponent": {
-                    "$type": "EditorDisabledCompositionComponent",
-                    "Id": 14833453075735979720,
-                    "DisabledComponents": {
-                        "EditorColliderComponent": {
-                            "$type": "EditorColliderComponent",
-                            "Id": 3989075412791347869,
-                            "ColliderConfiguration": {
-                                "Position": [
-                                    0.00021062791347503662,
-                                    -0.0009003207087516785,
-                                    0.8746888637542725
-                                ],
-                                "MaterialSlots": {
-                                    "Slots": [
-                                        {
-                                            "Name": "Entire object"
-                                        }
-                                    ]
+                "EditorColliderComponent": {
+                    "$type": "EditorColliderComponent",
+                    "Id": 3989075412791347869,
+                    "ColliderConfiguration": {
+                        "Position": [
+                            0.00021062791347503662,
+                            -0.0009003207087516785,
+                            0.8746888637542725
+                        ],
+                        "MaterialSlots": {
+                            "Slots": [
+                                {
+                                    "Name": "Entire object"
                                 }
-                            },
-                            "ShapeConfiguration": {
-                                "ShapeType": 1,
-                                "Box": {
-                                    "Configuration": [
-                                        0.6067823171615601,
-                                        0.39448070526123047,
-                                        1.774773359298706
-                                    ]
-                                }
-                            }
+                            ]
+                        }
+                    },
+                    "ShapeConfiguration": {
+                        "ShapeType": 1,
+                        "Box": {
+                            "Configuration": [
+                                0.6067823171615601,
+                                0.39448070526123047,
+                                1.774773359298706
+                            ]
                         }
                     }
+                },
+                "EditorDisabledCompositionComponent": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 14833453075735979720
                 },
                 "EditorEntityIconComponent": {
                     "$type": "EditorEntityIconComponent",

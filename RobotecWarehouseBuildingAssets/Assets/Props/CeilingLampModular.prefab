@@ -128,9 +128,9 @@
                     "Parent Entity": "Entity_[16231839034038]",
                     "Transform Data": {
                         "Translate": [
-                            -0.0000024318694613612024,
+                            -0.00000243261456489563,
                             0.0,
-                            -0.0068486034870147705
+                            -0.005022826138883829
                         ],
                         "Rotate": [
                             180.0,
@@ -313,7 +313,7 @@
         },
         "Entity_[16240428968630]": {
             "Id": "Entity_[16240428968630]",
-            "Name": "visual",
+            "Name": "Visual",
             "Components": {
                 "AZ::Render::EditorMeshComponent": {
                     "$type": "AZ::Render::EditorMeshComponent",
@@ -439,7 +439,7 @@
         },
         "Entity_[16244723935926]": {
             "Id": "Entity_[16244723935926]",
-            "Name": "visual",
+            "Name": "Visual",
             "Components": {
                 "AZ::Render::EditorMeshComponent": {
                     "$type": "AZ::Render::EditorMeshComponent",
@@ -590,55 +590,9 @@
                 }
             }
         },
-        "Entity_[16253313870518]": {
-            "Id": "Entity_[16253313870518]",
-            "Name": "visual",
-            "Components": {
-                "EditorDisabledCompositionComponent": {
-                    "$type": "EditorDisabledCompositionComponent",
-                    "Id": 14916673313779584917
-                },
-                "EditorEntityIconComponent": {
-                    "$type": "EditorEntityIconComponent",
-                    "Id": 12230952772806040487
-                },
-                "EditorEntitySortComponent": {
-                    "$type": "EditorEntitySortComponent",
-                    "Id": 4007566236105553372,
-                    "Child Entity Order": [
-                        "Entity_[16257608837814]"
-                    ]
-                },
-                "EditorInspectorComponent": {
-                    "$type": "EditorInspectorComponent",
-                    "Id": 11932358434067186372
-                },
-                "EditorLockComponent": {
-                    "$type": "EditorLockComponent",
-                    "Id": 4650226699807732101
-                },
-                "EditorOnlyEntityComponent": {
-                    "$type": "EditorOnlyEntityComponent",
-                    "Id": 14669913485376564558
-                },
-                "EditorPendingCompositionComponent": {
-                    "$type": "EditorPendingCompositionComponent",
-                    "Id": 14618785261645239672
-                },
-                "EditorVisibilityComponent": {
-                    "$type": "EditorVisibilityComponent",
-                    "Id": 5639654003022602365
-                },
-                "TransformComponent": {
-                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
-                    "Id": 9031190209870925529,
-                    "Parent Entity": "Entity_[16266198772406]"
-                }
-            }
-        },
         "Entity_[16257608837814]": {
             "Id": "Entity_[16257608837814]",
-            "Name": "Mount",
+            "Name": "Visual",
             "Components": {
                 "AZ::Render::EditorMeshComponent": {
                     "$type": "AZ::Render::EditorMeshComponent",
@@ -758,7 +712,7 @@
                 "TransformComponent": {
                     "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
                     "Id": 6969440308063677109,
-                    "Parent Entity": "Entity_[16253313870518]",
+                    "Parent Entity": "Entity_[16266198772406]",
                     "Transform Data": {
                         "Translate": [
                             0.0,
@@ -834,7 +788,7 @@
                     "$type": "EditorEntitySortComponent",
                     "Id": 5300522777736866566,
                     "Child Entity Order": [
-                        "Entity_[16253313870518]"
+                        "Entity_[16257608837814]"
                     ]
                 },
                 "EditorInspectorComponent": {
