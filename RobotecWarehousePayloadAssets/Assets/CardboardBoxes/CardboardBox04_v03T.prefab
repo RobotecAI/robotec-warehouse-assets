@@ -167,11 +167,6 @@
                     "$type": "EditorMeshColliderComponent",
                     "Id": 10382799728993692824,
                     "ColliderConfiguration": {
-                        "Position": [
-                            0.01157466322183609,
-                            -0.00498141348361969,
-                            0.016333628445863724
-                        ],
                         "MaterialSlots": {
                             "Slots": [
                                 {
@@ -197,17 +192,10 @@
                                     },
                                     "loadBehavior": "QueueLoad",
                                     "assetHint": "cardboardboxes/models/cardboardbox04_v03t.fbx.pxmesh"
-                                },
-                                "AssetScale": [
-                                    1.0,
-                                    1.019516944885254,
-                                    1.2164283990859985
-                                ]
+                                }
                             }
-                        },
-                        "HasNonUniformScale": true
-                    },
-                    "HasNonUniformScale": true
+                        }
+                    }
                 },
                 "EditorOnlyEntityComponent": {
                     "$type": "EditorOnlyEntityComponent",
@@ -222,22 +210,22 @@
                     "Id": 14109290061318071968,
                     "Configuration": {
                         "entityId": "",
-                        "Mass": 21.805505752563477,
+                        "Mass": 21.388072967529297,
                         "Centre of mass offset": [
-                            0.0345461443066597,
-                            0.005667267832905054,
-                            0.08288629353046417
+                            0.03383316099643707,
+                            0.001888670027256012,
+                            0.08459475636482239
                         ],
                         "Inertia tensor": [
-                            0.40419167280197144,
+                            0.38319629430770874,
                             0.0,
                             0.0,
                             0.0,
-                            0.2038108855485916,
+                            0.19989921152591705,
                             0.0,
                             0.0,
                             0.0,
-                            0.5136947631835938
+                            0.4905931353569031
                         ]
                     }
                 },
@@ -248,14 +236,7 @@
                 "TransformComponent": {
                     "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
                     "Id": 9176806894991813479,
-                    "Parent Entity": "Entity_[112036556038972]",
-                    "Transform Data": {
-                        "Rotate": [
-                            0.0,
-                            0.0,
-                            -175.8329315185547
-                        ]
-                    }
+                    "Parent Entity": "Entity_[112036556038972]"
                 }
             }
         }
