@@ -1,0 +1,176 @@
+{
+    "values": [
+        {
+            "$type": "{5B03C8E6-8CEE-4DA0-A7FA-CD88689DD45B} MeshGroup",
+            "id": "{B514F8D8-3402-5738-9791-09BD3DAB7D83}",
+            "name": "WarehouseRack_x3",
+            "NodeSelectionList": {
+                "unselectedNodes": [
+                    "RootNode",
+                    "RootNode.Camera",
+                    "RootNode.Camera.custom_properties",
+                    "RootNode.FrontRackProtector_LOD0",
+                    "RootNode.FrontRackProtector_LOD0.MWarehouseProps",
+                    "RootNode.FrontRackProtector_LOD0.MWarehouseStorage",
+                    "RootNode.FrontRackProtector_LOD0.UV0",
+                    "RootNode.FrontRackProtector_LOD0.custom_properties",
+                    "RootNode.FrontRackProtector_LOD0.transform",
+                    "RootNode.FrontRackProtector_LOD1",
+                    "RootNode.FrontRackProtector_LOD1.MWarehouseProps",
+                    "RootNode.FrontRackProtector_LOD1.MWarehouseStorage",
+                    "RootNode.FrontRackProtector_LOD1.UV0",
+                    "RootNode.FrontRackProtector_LOD1.custom_properties",
+                    "RootNode.FrontRackProtector_LOD1.transform",
+                    "RootNode.Light",
+                    "RootNode.Light.custom_properties"
+                ]
+            },
+            "PhysicsMaterialSlots": {
+                "Slots": [
+                    {
+                        "Name": "Entire object"
+                    }
+                ]
+            }
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "WarehouseRack_x3",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode",
+                    "RootNode.Camera",
+                    "RootNode.Camera.custom_properties",
+                    "RootNode.FrontRackProtector_LOD0",
+                    "RootNode.FrontRackProtector_LOD0.MWarehouseProps",
+                    "RootNode.FrontRackProtector_LOD0.MWarehouseStorage",
+                    "RootNode.FrontRackProtector_LOD0.UV0",
+                    "RootNode.FrontRackProtector_LOD0.custom_properties",
+                    "RootNode.FrontRackProtector_LOD0.transform",
+                    "RootNode.FrontRackProtector_LOD1",
+                    "RootNode.FrontRackProtector_LOD1.MWarehouseProps",
+                    "RootNode.FrontRackProtector_LOD1.MWarehouseStorage",
+                    "RootNode.FrontRackProtector_LOD1.UV0",
+                    "RootNode.FrontRackProtector_LOD1.custom_properties",
+                    "RootNode.FrontRackProtector_LOD1.transform",
+                    "RootNode.Light",
+                    "RootNode.Light.custom_properties"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "{6E796AC8-1484-4909-860A-6D3F22A7346F} LodRule",
+                        "nodeSelectionList": [
+                            {
+                                "selectedNodes": [
+                                    "RootNode",
+                                    "RootNode.Camera",
+                                    "RootNode.Camera.custom_properties",
+                                    "RootNode.FrontRackProtector_LOD1",
+                                    "RootNode.FrontRackProtector_LOD1.MWarehouseProps",
+                                    "RootNode.FrontRackProtector_LOD1.MWarehouseStorage",
+                                    "RootNode.FrontRackProtector_LOD1.UV0",
+                                    "RootNode.FrontRackProtector_LOD1.custom_properties",
+                                    "RootNode.FrontRackProtector_LOD1.transform",
+                                    "RootNode.Light",
+                                    "RootNode.Light.custom_properties"
+                                ],
+                                "unselectedNodes": [
+                                    "RootNode.FrontRackProtector_LOD0",
+                                    "RootNode.FrontRackProtector_LOD0.MWarehouseProps",
+                                    "RootNode.FrontRackProtector_LOD0.MWarehouseStorage",
+                                    "RootNode.FrontRackProtector_LOD0.UV0",
+                                    "RootNode.FrontRackProtector_LOD0.custom_properties",
+                                    "RootNode.FrontRackProtector_LOD0.transform"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "$type": "MaterialRule"
+                    },
+                    {
+                        "$type": "CoordinateSystemRule",
+                        "useAdvancedData": true,
+                        "rotation": [
+                            0.0,
+                            0.0,
+                            0.7071067690849304,
+                            0.7071067094802856
+                        ]
+                    }
+                ]
+            },
+            "id": "{067E1A2A-EE79-5C69-8408-5DC3BB427802}"
+        },
+        {
+            "$type": "{41DCBEAB-203C-4A05-96FA-98E1D8A96FA1} ImportGroup"
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "default_WarehouseRack_x3_EB041A27_9AF1_59C6_996D_655E5E4D4940_",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode.FrontRackProtector_LOD0"
+                ],
+                "unselectedNodes": [
+                    "RootNode.FrontRackProtector_LOD1"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "ProceduralMeshGroupRule"
+                    },
+                    {
+                        "$type": "UnmodifiableRule"
+                    },
+                    {
+                        "$type": "CoordinateSystemRule",
+                        "useAdvancedData": true
+                    },
+                    {
+                        "$type": "{6E796AC8-1484-4909-860A-6D3F22A7346F} LodRule"
+                    }
+                ]
+            },
+            "id": "{EB041A27-9AF1-59C6-996D-655E5E4D4940}"
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "default_WarehouseRack_x3_6F624423_75E5_51FB_9912_76E957517ECD_",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode.FrontRackProtector_LOD1"
+                ],
+                "unselectedNodes": [
+                    "RootNode.FrontRackProtector_LOD0"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "ProceduralMeshGroupRule"
+                    },
+                    {
+                        "$type": "UnmodifiableRule"
+                    },
+                    {
+                        "$type": "CoordinateSystemRule",
+                        "useAdvancedData": true
+                    },
+                    {
+                        "$type": "{6E796AC8-1484-4909-860A-6D3F22A7346F} LodRule"
+                    }
+                ]
+            },
+            "id": "{6F624423-75E5-51FB-9912-76E957517ECD}"
+        },
+        {
+            "$type": "PrefabGroup",
+            "name": "Models/WarehouseRack_x3_fbx.procprefab",
+            "id": "{2E7129CA-05BA-5188-8D01-9863AD9ACFCE}"
+        }
+    ]
+}
