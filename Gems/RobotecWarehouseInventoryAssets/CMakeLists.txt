@@ -1,9 +1,9 @@
 
 # Query the gem name from the gem.json file if possible
-# otherwise fallback to using RobotecWarehousePayloadAssets
+# otherwise fallback to using RobotecWarehouseInventoryAssets
 o3de_find_ancestor_gem_root(gem_root_path gem_name "${CMAKE_CURRENT_SOURCE_DIR}")
 if (NOT gem_name)
-    set(gem_name "RobotecWarehousePayloadAssets")
+    set(gem_name "RobotecWarehouseInventoryAssets")
 endif()
 
 # This indicates to the Builders applications(AssetProcessor, AssetBuilder, AssetBundler)
