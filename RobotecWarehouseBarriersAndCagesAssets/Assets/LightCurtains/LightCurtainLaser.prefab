@@ -1,0 +1,186 @@
+{
+    "ContainerEntity": {
+        "Id": "ContainerEntity",
+        "Name": "LightCurtainLaser",
+        "Components": {
+            "EditorDisabledCompositionComponent": {
+                "$type": "EditorDisabledCompositionComponent",
+                "Id": 6301145469479257656
+            },
+            "EditorEntityIconComponent": {
+                "$type": "EditorEntityIconComponent",
+                "Id": 11174107103850060621
+            },
+            "EditorEntitySortComponent": {
+                "$type": "EditorEntitySortComponent",
+                "Id": 12461937192666957783,
+                "Child Entity Order": [
+                    "Entity_[4062339574426]"
+                ]
+            },
+            "EditorInspectorComponent": {
+                "$type": "EditorInspectorComponent",
+                "Id": 13373097398384097264
+            },
+            "EditorLockComponent": {
+                "$type": "EditorLockComponent",
+                "Id": 543718358269898729
+            },
+            "EditorOnlyEntityComponent": {
+                "$type": "EditorOnlyEntityComponent",
+                "Id": 9713682084331843486
+            },
+            "EditorPendingCompositionComponent": {
+                "$type": "EditorPendingCompositionComponent",
+                "Id": 7162252573264277840
+            },
+            "EditorPrefabComponent": {
+                "$type": "EditorPrefabComponent",
+                "Id": 8588695833677985364
+            },
+            "EditorVisibilityComponent": {
+                "$type": "EditorVisibilityComponent",
+                "Id": 18436859810180772707
+            },
+            "TransformComponent": {
+                "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                "Id": 16649074333666327999,
+                "Parent Entity": ""
+            }
+        }
+    },
+    "Entities": {
+        "Entity_[4062339574426]": {
+            "Id": "Entity_[4062339574426]",
+            "Name": "LightCurtainLaser",
+            "Components": {
+                "EditorDisabledCompositionComponent": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 361641868528138116
+                },
+                "EditorEntityIconComponent": {
+                    "$type": "EditorEntityIconComponent",
+                    "Id": 1644407966932332985
+                },
+                "EditorEntitySortComponent": {
+                    "$type": "EditorEntitySortComponent",
+                    "Id": 9030131616265814825,
+                    "Child Entity Order": [
+                        "Entity_[4066634541722]"
+                    ]
+                },
+                "EditorInspectorComponent": {
+                    "$type": "EditorInspectorComponent",
+                    "Id": 14617653665102866753,
+                    "ComponentOrderEntryArray": [
+                        {
+                            "ComponentId": 17603946672351721104
+                        }
+                    ]
+                },
+                "EditorLockComponent": {
+                    "$type": "EditorLockComponent",
+                    "Id": 6780472715419955487
+                },
+                "EditorOnlyEntityComponent": {
+                    "$type": "EditorOnlyEntityComponent",
+                    "Id": 11051009519339333484
+                },
+                "EditorPendingCompositionComponent": {
+                    "$type": "EditorPendingCompositionComponent",
+                    "Id": 17509350695324827514
+                },
+                "EditorVisibilityComponent": {
+                    "$type": "EditorVisibilityComponent",
+                    "Id": 9503913527930938625
+                },
+                "TransformComponent": {
+                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                    "Id": 17603946672351721104,
+                    "Parent Entity": "ContainerEntity"
+                }
+            }
+        },
+        "Entity_[4066634541722]": {
+            "Id": "Entity_[4066634541722]",
+            "Name": "LightCurtain01Laser",
+            "Components": {
+                "AZ::Render::EditorMeshComponent": {
+                    "$type": "AZ::Render::EditorMeshComponent",
+                    "Id": 14196879932923290036,
+                    "Controller": {
+                        "Configuration": {
+                            "ModelAsset": {
+                                "assetId": {
+                                    "guid": "{64E08A88-9D8B-5C61-ABB2-C897809500C3}",
+                                    "subId": 281624606
+                                },
+                                "assetHint": "lightcurtains/lightcurtain01/model/default_lightcurtain_4b6f6e8c_d639_59ee_83ab_c8dc61ccdb14_.fbx.azmodel"
+                            }
+                        }
+                    }
+                },
+                "EditorDisabledCompositionComponent": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 11215880380131273315
+                },
+                "EditorEntityIconComponent": {
+                    "$type": "EditorEntityIconComponent",
+                    "Id": 13104396738444705715
+                },
+                "EditorEntitySortComponent": {
+                    "$type": "EditorEntitySortComponent",
+                    "Id": 1492148143739270874
+                },
+                "EditorInspectorComponent": {
+                    "$type": "EditorInspectorComponent",
+                    "Id": 12480594723841006327
+                },
+                "EditorLockComponent": {
+                    "$type": "EditorLockComponent",
+                    "Id": 4841714916307532632
+                },
+                "EditorMaterialComponent": {
+                    "$type": "EditorMaterialComponent",
+                    "Id": 12267624939831986194,
+                    "Controller": {
+                        "Configuration": {
+                            "materials": [
+                                {
+                                    "Key": {
+                                        "materialSlotStableId": 3965627885
+                                    },
+                                    "Value": {
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{CE795D4D-8504-5AB4-AC4D-76D5DED8DE93}"
+                                            },
+                                            "assetHint": "lightcurtains/lightcurtain01/model/materials/lightcurtain_emissive.azmaterial"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                "EditorOnlyEntityComponent": {
+                    "$type": "EditorOnlyEntityComponent",
+                    "Id": 6057463819490362781
+                },
+                "EditorPendingCompositionComponent": {
+                    "$type": "EditorPendingCompositionComponent",
+                    "Id": 6054920342736620807
+                },
+                "EditorVisibilityComponent": {
+                    "$type": "EditorVisibilityComponent",
+                    "Id": 9519183763539295521
+                },
+                "TransformComponent": {
+                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                    "Id": 3380504531687284376,
+                    "Parent Entity": "Entity_[4062339574426]"
+                }
+            }
+        }
+    }
+}
