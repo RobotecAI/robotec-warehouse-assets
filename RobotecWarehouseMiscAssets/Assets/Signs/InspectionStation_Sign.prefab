@@ -1,0 +1,230 @@
+{
+    "ContainerEntity": {
+        "Id": "ContainerEntity",
+        "Name": "InspectionStation_Sign",
+        "Components": {
+            "EditorDisabledCompositionComponent": {
+                "$type": "EditorDisabledCompositionComponent",
+                "Id": 8776502498772432826
+            },
+            "EditorEntityIconComponent": {
+                "$type": "EditorEntityIconComponent",
+                "Id": 15221630686098999559
+            },
+            "EditorEntitySortComponent": {
+                "$type": "EditorEntitySortComponent",
+                "Id": 1478228582878745529,
+                "Child Entity Order": [
+                    "Entity_[367937450926796]"
+                ]
+            },
+            "EditorInspectorComponent": {
+                "$type": "EditorInspectorComponent",
+                "Id": 5314932802335816737
+            },
+            "EditorLockComponent": {
+                "$type": "EditorLockComponent",
+                "Id": 7157020169068180802
+            },
+            "EditorOnlyEntityComponent": {
+                "$type": "EditorOnlyEntityComponent",
+                "Id": 8632174674703766029
+            },
+            "EditorPendingCompositionComponent": {
+                "$type": "EditorPendingCompositionComponent",
+                "Id": 8069264857396802197
+            },
+            "EditorPrefabComponent": {
+                "$type": "EditorPrefabComponent",
+                "Id": 10911187527134903721
+            },
+            "EditorVisibilityComponent": {
+                "$type": "EditorVisibilityComponent",
+                "Id": 11136896768491576004
+            },
+            "TransformComponent": {
+                "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                "Id": 16016162792071174781,
+                "Parent Entity": ""
+            }
+        }
+    },
+    "Entities": {
+        "Entity_[367937450926796]": {
+            "Id": "Entity_[367937450926796]",
+            "Name": "InspectionStation_Sign",
+            "Components": {
+                "EditorDisabledCompositionComponent": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 12486610511197493158
+                },
+                "EditorEntityIconComponent": {
+                    "$type": "EditorEntityIconComponent",
+                    "Id": 18156342482796497679
+                },
+                "EditorEntitySortComponent": {
+                    "$type": "EditorEntitySortComponent",
+                    "Id": 6266577584920907942,
+                    "Child Entity Order": [
+                        "Entity_[367941745894092]"
+                    ]
+                },
+                "EditorInspectorComponent": {
+                    "$type": "EditorInspectorComponent",
+                    "Id": 8140444250897345847
+                },
+                "EditorLockComponent": {
+                    "$type": "EditorLockComponent",
+                    "Id": 6444465634738074132
+                },
+                "EditorOnlyEntityComponent": {
+                    "$type": "EditorOnlyEntityComponent",
+                    "Id": 16598436738563561346
+                },
+                "EditorPendingCompositionComponent": {
+                    "$type": "EditorPendingCompositionComponent",
+                    "Id": 9353289288603602470
+                },
+                "EditorVisibilityComponent": {
+                    "$type": "EditorVisibilityComponent",
+                    "Id": 15034850503874790649
+                },
+                "TransformComponent": {
+                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                    "Id": 8672314182920909061,
+                    "Parent Entity": "ContainerEntity"
+                }
+            }
+        },
+        "Entity_[367941745894092]": {
+            "Id": "Entity_[367941745894092]",
+            "Name": "sign",
+            "Components": {
+                "AZ::Render::EditorMeshComponent": {
+                    "$type": "AZ::Render::EditorMeshComponent",
+                    "Id": 8600595376468615552,
+                    "Controller": {
+                        "Configuration": {
+                            "ModelAsset": {
+                                "assetId": {
+                                    "guid": "{767B3209-EDF7-503A-BF3D-6A69DAABC966}",
+                                    "subId": 285003870
+                                },
+                                "assetHint": "materialeditor/viewportmodels/plane_1x1.fbx.azmodel"
+                            }
+                        }
+                    }
+                },
+                "EditorDisabledCompositionComponent": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 18251399634787952271
+                },
+                "EditorEntityIconComponent": {
+                    "$type": "EditorEntityIconComponent",
+                    "Id": 2665157978299509509
+                },
+                "EditorEntitySortComponent": {
+                    "$type": "EditorEntitySortComponent",
+                    "Id": 17274608970732135831
+                },
+                "EditorInspectorComponent": {
+                    "$type": "EditorInspectorComponent",
+                    "Id": 17021427116988094299,
+                    "ComponentOrderEntryArray": [
+                        {
+                            "ComponentId": 3863557258120786533
+                        },
+                        {
+                            "ComponentId": 9272980833444154755,
+                            "SortIndex": 1
+                        },
+                        {
+                            "ComponentId": 17021427116988094299,
+                            "SortIndex": 2
+                        },
+                        {
+                            "ComponentId": 17274608970732135831,
+                            "SortIndex": 3
+                        },
+                        {
+                            "ComponentId": 5279891081588533047,
+                            "SortIndex": 4
+                        },
+                        {
+                            "ComponentId": 4516884497749523243,
+                            "SortIndex": 5
+                        },
+                        {
+                            "ComponentId": 15755220814899555292,
+                            "SortIndex": 6
+                        },
+                        {
+                            "ComponentId": 2665157978299509509,
+                            "SortIndex": 7
+                        },
+                        {
+                            "ComponentId": 18251399634787952271,
+                            "SortIndex": 8
+                        },
+                        {
+                            "ComponentId": 8600595376468615552,
+                            "SortIndex": 9
+                        }
+                    ]
+                },
+                "EditorLockComponent": {
+                    "$type": "EditorLockComponent",
+                    "Id": 4516884497749523243
+                },
+                "EditorMaterialComponent": {
+                    "$type": "EditorMaterialComponent",
+                    "Id": 12608626543653936146,
+                    "Controller": {
+                        "Configuration": {
+                            "materials": [
+                                {
+                                    "Key": {
+                                        "materialSlotStableId": 1803671422
+                                    },
+                                    "Value": {
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{D18E7248-4C98-5061-9796-AD01194155F1}"
+                                            },
+                                            "assetHint": "signs/models/materials/inspectionstation_sign.azmaterial"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                "EditorOnlyEntityComponent": {
+                    "$type": "EditorOnlyEntityComponent",
+                    "Id": 9272980833444154755
+                },
+                "EditorPendingCompositionComponent": {
+                    "$type": "EditorPendingCompositionComponent",
+                    "Id": 15755220814899555292
+                },
+                "EditorVisibilityComponent": {
+                    "$type": "EditorVisibilityComponent",
+                    "Id": 5279891081588533047
+                },
+                "TransformComponent": {
+                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                    "Id": 3863557258120786533,
+                    "Parent Entity": "Entity_[367937450926796]",
+                    "Transform Data": {
+                        "Rotate": [
+                            90.0,
+                            90.0,
+                            0.0
+                        ],
+                        "UniformScale": 0.4000000059604645
+                    }
+                }
+            }
+        }
+    }
+}

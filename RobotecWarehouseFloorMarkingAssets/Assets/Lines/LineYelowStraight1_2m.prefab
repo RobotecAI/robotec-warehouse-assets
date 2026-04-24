@@ -1,0 +1,192 @@
+{
+    "ContainerEntity": {
+        "Id": "ContainerEntity",
+        "Name": "LineYelowStraight1_2m",
+        "Components": {
+            "EditorDisabledCompositionComponent": {
+                "$type": "EditorDisabledCompositionComponent",
+                "Id": 12646894995590604262
+            },
+            "EditorEntityIconComponent": {
+                "$type": "EditorEntityIconComponent",
+                "Id": 14010823705151430266
+            },
+            "EditorEntitySortComponent": {
+                "$type": "EditorEntitySortComponent",
+                "Id": 13511683585381977977,
+                "Child Entity Order": [
+                    "Entity_[1035658836566732]"
+                ]
+            },
+            "EditorInspectorComponent": {
+                "$type": "EditorInspectorComponent",
+                "Id": 13281167628284407211
+            },
+            "EditorLockComponent": {
+                "$type": "EditorLockComponent",
+                "Id": 4366003623087526564
+            },
+            "EditorOnlyEntityComponent": {
+                "$type": "EditorOnlyEntityComponent",
+                "Id": 7641890162565790663
+            },
+            "EditorPendingCompositionComponent": {
+                "$type": "EditorPendingCompositionComponent",
+                "Id": 9816742545899240818
+            },
+            "EditorPrefabComponent": {
+                "$type": "EditorPrefabComponent",
+                "Id": 13437018733035734461
+            },
+            "EditorVisibilityComponent": {
+                "$type": "EditorVisibilityComponent",
+                "Id": 17598466703587255170
+            },
+            "TransformComponent": {
+                "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                "Id": 758628487978472850,
+                "Parent Entity": ""
+            }
+        }
+    },
+    "Entities": {
+        "Entity_[1035658836566732]": {
+            "Id": "Entity_[1035658836566732]",
+            "Name": "LineYelowStraight1_2m",
+            "Components": {
+                "EditorDisabledCompositionComponent": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 9334173677819319123
+                },
+                "EditorEntityIconComponent": {
+                    "$type": "EditorEntityIconComponent",
+                    "Id": 3969441214753253515
+                },
+                "EditorEntitySortComponent": {
+                    "$type": "EditorEntitySortComponent",
+                    "Id": 14141668110439184058,
+                    "Child Entity Order": [
+                        "Entity_[1035663131534028]"
+                    ]
+                },
+                "EditorInspectorComponent": {
+                    "$type": "EditorInspectorComponent",
+                    "Id": 14720602263264150090,
+                    "ComponentOrderEntryArray": [
+                        {
+                            "ComponentId": 15092410939443081929
+                        },
+                        {
+                            "ComponentId": 16878649269778056553,
+                            "SortIndex": 1
+                        },
+                        {
+                            "ComponentId": 5889221609638366623,
+                            "SortIndex": 2
+                        }
+                    ]
+                },
+                "EditorLockComponent": {
+                    "$type": "EditorLockComponent",
+                    "Id": 12098665048662065447
+                },
+                "EditorOnlyEntityComponent": {
+                    "$type": "EditorOnlyEntityComponent",
+                    "Id": 2660673421869507020
+                },
+                "EditorPendingCompositionComponent": {
+                    "$type": "EditorPendingCompositionComponent",
+                    "Id": 15557892015776498435
+                },
+                "EditorVisibilityComponent": {
+                    "$type": "EditorVisibilityComponent",
+                    "Id": 10647880763824969603
+                },
+                "TransformComponent": {
+                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                    "Id": 15092410939443081929,
+                    "Parent Entity": "ContainerEntity"
+                }
+            }
+        },
+        "Entity_[1035663131534028]": {
+            "Id": "Entity_[1035663131534028]",
+            "Name": "decal",
+            "Components": {
+                "AZ::Render::EditorDecalComponent": {
+                    "$type": "AZ::Render::EditorDecalComponent",
+                    "Id": 1480407789239064171,
+                    "Controller": {
+                        "Configuration": {
+                            "Opacity": 0.5,
+                            "Decal Color": [
+                                0.9166705012321472,
+                                1.0,
+                                0.0
+                            ],
+                            "Material": {
+                                "assetId": {
+                                    "guid": "{C13EEAC9-9FA6-50D1-90F7-B457F59D7712}"
+                                },
+                                "assetHint": "lines/materials/linewhite_straight1.azmaterial"
+                            }
+                        }
+                    }
+                },
+                "EditorDisabledCompositionComponent": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 8427367168603640312
+                },
+                "EditorEntityIconComponent": {
+                    "$type": "EditorEntityIconComponent",
+                    "Id": 445154443331093882
+                },
+                "EditorEntitySortComponent": {
+                    "$type": "EditorEntitySortComponent",
+                    "Id": 4241141845904683706
+                },
+                "EditorInspectorComponent": {
+                    "$type": "EditorInspectorComponent",
+                    "Id": 10613654602788886310
+                },
+                "EditorLockComponent": {
+                    "$type": "EditorLockComponent",
+                    "Id": 5491902455077047799
+                },
+                "EditorNonUniformScaleComponent": {
+                    "$type": "EditorNonUniformScaleComponent",
+                    "Id": 7938128575411503432,
+                    "NonUniformScale": [
+                        0.05000000074505806,
+                        1.0,
+                        0.009999999776482582
+                    ]
+                },
+                "EditorOnlyEntityComponent": {
+                    "$type": "EditorOnlyEntityComponent",
+                    "Id": 17663793780083132774
+                },
+                "EditorPendingCompositionComponent": {
+                    "$type": "EditorPendingCompositionComponent",
+                    "Id": 3610987553759862534
+                },
+                "EditorVisibilityComponent": {
+                    "$type": "EditorVisibilityComponent",
+                    "Id": 11351690052151464899
+                },
+                "TransformComponent": {
+                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                    "Id": 17539513056454457134,
+                    "Parent Entity": "Entity_[1035658836566732]",
+                    "Transform Data": {
+                        "Translate": [
+                            0.0,
+                            0.0,
+                            -0.008488595485687256
+                        ]
+                    }
+                }
+            }
+        }
+    }
+}

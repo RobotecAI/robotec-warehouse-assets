@@ -1,0 +1,18 @@
+{
+    "Amazon": {
+        "AssetProcessor": {
+            "Settings": {
+                "ScanFolder RobotecWarehouseFloorMarkingAssets/Assets": {
+                    "watch": "@GEMROOT:RobotecWarehouseFloorMarkingAssets@/Assets",
+                    "recursive": 1,
+                    "order": 101
+                },
+                "ScanFolder RobotecWarehouseFloorMarkingAssets/Registry": {
+                    "watch": "@GEMROOT:RobotecWarehouseFloorMarkingAssets@/Registry",
+                    "recursive": 1,
+                    "order": 102
+                }
+            }
+        }
+    }
+}
