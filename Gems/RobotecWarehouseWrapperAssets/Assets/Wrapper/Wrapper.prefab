@@ -228,8 +228,8 @@
                     "Transform Data": {
                         "Translate": [
                             0.0,
-                            1.7881393432617188e-7,
-                            0.1879565715789795
+                            9.5367431640625e-7,
+                            1.5499999523162842
                         ],
                         "Rotate": [
                             89.99994659423828,
@@ -287,7 +287,8 @@
                 "TransformComponent": {
                     "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
                     "Id": 9014899654103202949,
-                    "Parent Entity": "ContainerEntity"
+                    "Parent Entity": "ContainerEntity",
+                    "Parent Activation Transform Mode": 1
                 }
             }
         },
