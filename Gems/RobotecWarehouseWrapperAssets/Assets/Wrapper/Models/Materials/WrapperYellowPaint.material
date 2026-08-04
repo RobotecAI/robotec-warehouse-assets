@@ -1,0 +1,26 @@
+{
+    "materialType": "@projectroot@/Cache/Intermediate Assets/materials/types/standardpbr_generated.materialtype",
+    "materialTypeVersion": 5,
+    "propertyValues": {
+        "baseColor.textureBlendMode": "Lerp",
+        "baseColor.textureMap": "Textures/YellowPaintedMetal_BaseColor.png",
+        "baseColor.textureMapUv": "Unwrapped",
+        "emissive.color": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "metallic.textureMap": "Textures/YellowPaintedMetal_Metallic.png",
+        "metallic.textureMapUv": "Unwrapped",
+        "normal.textureMap": "Textures/YellowPaintedMetal_Normal.png",
+        "normal.textureMapUv": "Unwrapped",
+        "occlusion.diffuseTextureMap": "Textures/YellowPaintedMetal_AO.png",
+        "opacity.factor": 1.0,
+        "roughness.factor": 0.3503400981426239,
+        "roughness.lowerBound": 0.18000000715255737,
+        "roughness.textureMap": "Textures/YellowPaintedMetal_Roughness.png",
+        "roughness.textureMapUv": "Unwrapped",
+        "specularF0.factor": 0.6200000047683716
+    }
+}
