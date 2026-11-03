@@ -2,8 +2,8 @@
     "gem_name": "RobotecWarehouseBuildingAssets",
     "version": "1.0.0",
     "display_name": "RobotecWarehouseBuildingAssets",
-    "license": "Apache-2.0",
-    "license_url": "https://opensource.org/licenses/Apache-2.0",
+    "license": "CC-BY-NC-4.0",
+    "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
     "origin": "RobotecAI",
     "origin_url": "https://robotec.ai",
     "type": "Asset",
@@ -20,7 +20,9 @@
     "icon_path": "preview.png",
     "requirements": "WarehouseAssets gem from the official o3de-extras repository",
     "documentation_url": "",
-    "dependencies": ["WarehouseAssets"],
+    "dependencies": [
+        "WarehouseAssets"
+    ],
     "repo_uri": "",
     "compatible_engines": [],
     "engine_api_dependencies": [],

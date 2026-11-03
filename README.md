@@ -491,6 +491,8 @@ Each gem must include an accurate description in the `gem.json` file containing:
 
 # Licensing
 
+Assets created by Robotec.ai are licensed under CC BY-NC 4.0 (see `LICENSE` and `NOTICE`). Third-party assets keep their own licences, listed in each gem's `NOTICE`.
+
 The license should be specified in the gem.json.
 
 All assets in one gem must comply with the same license. This includes also assets that were obtained from external sources (e.g. from the Internet). In such cases, information about the source and license must be provided in the NOTICE document in the top-level gem's folder.
