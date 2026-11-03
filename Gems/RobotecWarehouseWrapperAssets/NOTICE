@@ -1,5 +1,5 @@
 The assets in this repository are based on the assets prepared for ROSCon 2023 Demo located under https://github.com/RobotecAI/ROSCon2023Demo (accessed on September 23, 2024).
-The base assets were licensed under Apache 2.0 license and the same license remains for this work.
+The base models were created by Amazon Web Services (AWS Game Tech) for the ROSCon 2023 demo and were distributed there under CC BY-NC 4.0. This gem, including the changes made by Robotec.ai (listed below), is licensed under CC BY-NC 4.0.
 
 Most of the base files, i.e., textures and models are copied without any changes. Otherwise, the changes include (but are not limited to):
 - filename changes and corresponding prefabs/materials modifications
